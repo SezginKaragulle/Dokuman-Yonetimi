@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Degiskenler>
+  <Degisken>
+    <DegiskenNo>0</DegiskenNo>
+    <DegiskenKodu>XS1..10</DegiskenKodu>
+    <DegiskenAciklama>Bir pozisyon altındaki tüm yüklerin teslim kodunu basan sıralı değişken seti</DegiskenAciklama>
+    <DegiskenModul>Demiryolu</DegiskenModul>
+  </Degisken>
+
+</Degiskenler>

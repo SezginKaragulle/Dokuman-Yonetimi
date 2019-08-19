@@ -1,0 +1,3003 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Degiskenler>
+  <Degisken>
+    <DegiskenNo>0</DegiskenNo>
+    <DegiskenKodu>SRK</DegiskenKodu>
+    <DegiskenAciklama>ŞİRKET KODU</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>1</DegiskenNo>
+    <DegiskenKodu>SRA</DegiskenKodu>
+    <DegiskenAciklama>ŞİRKET ADI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>2</DegiskenNo>
+    <DegiskenKodu>BS1</DegiskenKodu>
+    <DegiskenAciklama>MENÜ ADIMI BAŞLIĞI 1</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>3</DegiskenNo>
+    <DegiskenKodu>BS2</DegiskenKodu>
+    <DegiskenAciklama>MENÜ ADIMI BAŞLIĞI 2</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>4</DegiskenNo>
+    <DegiskenKodu>GTR</DegiskenKodu>
+    <DegiskenAciklama>EVRAK TARİHİ (YÜKDE EVRAK TESLİM TARİHİ DOLU İSE EVRAK TESLİM TARİHİ)</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>5</DegiskenNo>
+    <DegiskenKodu>CKL</DegiskenKodu>
+    <DegiskenAciklama>KULLANICI KODU</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>6</DegiskenNo>
+    <DegiskenKodu>CYL</DegiskenKodu>
+    <DegiskenAciklama>ÇALIŞMA YILI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>7</DegiskenNo>
+    <DegiskenKodu>FIR</DegiskenKodu>
+    <DegiskenAciklama>YURTDIŞI ACENTA</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>8</DegiskenNo>
+    <DegiskenKodu>KNO</DegiskenKodu>
+    <DegiskenAciklama>UZUN POZİSYON NUMARASI - YÜK NUMARASI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>9</DegiskenNo>
+    <DegiskenKodu>IEIE1</DegiskenKodu>
+    <DegiskenAciklama>EVRAK TARİHİ (YÜKDE EVRAK TESLİM TARİHİ DOLU İSE EVRAK TESLİM TARİHİ)</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>10</DegiskenNo>
+    <DegiskenKodu>FKD</DegiskenKodu>
+    <DegiskenAciklama>EVRAK KESİLEN FİRMA KODU</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>11</DegiskenNo>
+    <DegiskenKodu>AD1</DegiskenKodu>
+    <DegiskenAciklama>YURTDIŞI ACENTAADRESİ 1. SATIR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>12</DegiskenNo>
+    <DegiskenKodu>AD2</DegiskenKodu>
+    <DegiskenAciklama>YURTDIŞI ACENTAADRESİ 2. SATIR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>13</DegiskenNo>
+    <DegiskenKodu>AD3</DegiskenKodu>
+    <DegiskenAciklama>YURTDIŞI ACENTAADRESİ 3. SATIR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>14</DegiskenNo>
+    <DegiskenKodu>AD4</DegiskenKodu>
+    <DegiskenAciklama>YURTDIŞI ACENTAADRESİ 4. SATIR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>15</DegiskenNo>
+    <DegiskenKodu>GON</DegiskenKodu>
+    <DegiskenAciklama>GÖNDERİCİ FİRMA ADI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>16</DegiskenNo>
+    <DegiskenKodu>ALI</DegiskenKodu>
+    <DegiskenAciklama>ALICI FİRMA ADI ( CMR DE BANKA VARİSE ALICI = NOTİFY )</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>17</DegiskenNo>
+    <DegiskenKodu>PLA</DegiskenKodu>
+    <DegiskenAciklama>ARAÇ PLAKASI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>18</DegiskenNo>
+    <DegiskenKodu>KGR</DegiskenKodu>
+    <DegiskenAciklama>YÜKDE TOPLAM AĞIRLIK</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>19</DegiskenNo>
+    <DegiskenKodu>BRM</DegiskenKodu>
+    <DegiskenAciklama>** ataması yok **</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>20</DegiskenNo>
+    <DegiskenKodu>ADE</DegiskenKodu>
+    <DegiskenAciklama>YÜKDE TOPLAM KOLİ ADETİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>21</DegiskenNo>
+    <DegiskenKodu>TIP</DegiskenKodu>
+    <DegiskenAciklama>İLK YÜK KOLİ BİLGİSİNİN KOLİ TİPİ ( YOKSA DEİŞKENİN DEĞERİ "KOLİ" )</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>22</DegiskenNo>
+    <DegiskenKodu>TMA</DegiskenKodu>
+    <DegiskenAciklama>YÜKDE TÜRKÇE MAL ADI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>23</DegiskenNo>
+    <DegiskenKodu>KAL</DegiskenKodu>
+    <DegiskenAciklama>KALKIŞ YERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>24</DegiskenNo>
+    <DegiskenKodu>GID</DegiskenKodu>
+    <DegiskenAciklama>VARIŞ YERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>25</DegiskenNo>
+    <DegiskenKodu>TPO(s)</DegiskenKodu>
+    <DegiskenAciklama>** ataması yok **</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>26</DegiskenNo>
+    <DegiskenKodu>ORD</DegiskenKodu>
+    <DegiskenAciklama>ORDİNO ÜCRETİ ORJİNAL TUTAR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>27</DegiskenNo>
+    <DegiskenKodu>YAZ</DegiskenKodu>
+    <DegiskenAciklama>BOŞLUK</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>28</DegiskenNo>
+    <DegiskenKodu>TP1</DegiskenKodu>
+    <DegiskenAciklama>** ataması yok **</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>29</DegiskenNo>
+    <DegiskenKodu>KOR</DegiskenKodu>
+    <DegiskenAciklama>** ataması yok **</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>30</DegiskenNo>
+    <DegiskenKodu>KDV</DegiskenKodu>
+    <DegiskenAciklama>** ataması yok **</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>31</DegiskenNo>
+    <DegiskenKodu>TOP</DegiskenKodu>
+    <DegiskenAciklama>** ataması yok **</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>32</DegiskenNo>
+    <DegiskenKodu>DVT</DegiskenKodu>
+    <DegiskenAciklama>** ataması yok **</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>33</DegiskenNo>
+    <DegiskenKodu>NAV</DegiskenKodu>
+    <DegiskenAciklama>NAVLUN ÜCRETİ + DÖVİZİ (OX2 DEĞİŞKENİ BOŞ İSE DEĞİŞKENİN DEĞERİ BOŞ)</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>34</DegiskenNo>
+    <DegiskenKodu>GKD</DegiskenKodu>
+    <DegiskenAciklama>GÖDNERİCİ KODU</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>35</DegiskenNo>
+    <DegiskenKodu>BEK</DegiskenKodu>
+    <DegiskenAciklama>** ataması yok **</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>36</DegiskenNo>
+    <DegiskenKodu>AKD</DegiskenKodu>
+    <DegiskenAciklama>** ataması yok **</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>37</DegiskenNo>
+    <DegiskenKodu>KON</DegiskenKodu>
+    <DegiskenAciklama>KONŞİMENTO ÜCRETİ + DÖVİZİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>38</DegiskenNo>
+    <DegiskenKodu>KKD</DegiskenKodu>
+    <DegiskenAciklama>YURTDIŞI ACENTA KODU</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>39</DegiskenNo>
+    <DegiskenKodu>ARA</DegiskenKodu>
+    <DegiskenAciklama>** ataması yok **</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>40</DegiskenNo>
+    <DegiskenKodu>HAC</DegiskenKodu>
+    <DegiskenAciklama>YÜKDE TOPLAM HACİM</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>41</DegiskenNo>
+    <DegiskenKodu>HAG</DegiskenKodu>
+    <DegiskenAciklama>YÜKDE HACİM AĞIRLIĞI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>42</DegiskenNo>
+    <DegiskenKodu>YMA</DegiskenKodu>
+    <DegiskenAciklama>YÜKDE YABANCI MAL TANIMI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>43</DegiskenNo>
+    <DegiskenKodu>AD5</DegiskenKodu>
+    <DegiskenAciklama>GÖNDERİCİ ADRSİ 1. SATIR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>44</DegiskenNo>
+    <DegiskenKodu>AD6</DegiskenKodu>
+    <DegiskenAciklama>GÖNDERİCİ ADRSİ 2. SATIR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>45</DegiskenNo>
+    <DegiskenKodu>AD7</DegiskenKodu>
+    <DegiskenAciklama>GÖNDERİCİ ADRSİ 3. SATIR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>46</DegiskenNo>
+    <DegiskenKodu>AD8</DegiskenKodu>
+    <DegiskenAciklama>GÖNDERİCİ ADRSİ 4. SATIR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>47</DegiskenNo>
+    <DegiskenKodu>ADA</DegiskenKodu>
+    <DegiskenAciklama>ALICI ADRESİ 1.SATIR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>48</DegiskenNo>
+    <DegiskenKodu>ADB</DegiskenKodu>
+    <DegiskenAciklama>ALICI ADRESİ 2.SATIR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>49</DegiskenNo>
+    <DegiskenKodu>ADC</DegiskenKodu>
+    <DegiskenAciklama>ALICI ADRESİ 3.SATIR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>50</DegiskenNo>
+    <DegiskenKodu>AD0(S)</DegiskenKodu>
+    <DegiskenAciklama>ALICI ADRESİ 4.SATIR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>51</DegiskenNo>
+    <DegiskenKodu>VDA</DegiskenKodu>
+    <DegiskenAciklama>EVRAK KESİLECEK FİRMANIN VERGİ DAİRESİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>52</DegiskenNo>
+    <DegiskenKodu>VNO(h)</DegiskenKodu>
+    <DegiskenAciklama>EVRAK KESİLECEK FİRMANIN VERGİ NUMARASI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>53</DegiskenNo>
+    <DegiskenKodu>ENI</DegiskenKodu>
+    <DegiskenAciklama>** ataması yok **</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>54</DegiskenNo>
+    <DegiskenKodu>BOY</DegiskenKodu>
+    <DegiskenAciklama>** ataması yok **</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>55</DegiskenNo>
+    <DegiskenKodu>YUK</DegiskenKodu>
+    <DegiskenAciklama>** ataması yok **</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>56</DegiskenNo>
+    <DegiskenKodu>MR1</DegiskenKodu>
+    <DegiskenAciklama>YÜKDE MARKA BİLGİLERİ 1.SATIR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>57</DegiskenNo>
+    <DegiskenKodu>MR2</DegiskenKodu>
+    <DegiskenAciklama>YÜKDE MARKA BİLGİLERİ 2.SATIR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>58</DegiskenNo>
+    <DegiskenKodu>MR3</DegiskenKodu>
+    <DegiskenAciklama>YÜKDE MARKA BİLGİLERİ 3.SATIR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>59</DegiskenNo>
+    <DegiskenKodu>MR4</DegiskenKodu>
+    <DegiskenAciklama>YÜKDE MARKA BİLGİLERİ 4.SATIR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>60</DegiskenNo>
+    <DegiskenKodu>MR5</DegiskenKodu>
+    <DegiskenAciklama>YÜKDE MARKA BİLGİLERİ 5.SATIR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>61</DegiskenNo>
+    <DegiskenKodu>MT1</DegiskenKodu>
+    <DegiskenAciklama>YÜKDE MAL TANIMI 1.SATIR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>62</DegiskenNo>
+    <DegiskenKodu>MT2</DegiskenKodu>
+    <DegiskenAciklama>YÜKDE MAL TANIMI 2.SATIR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>63</DegiskenNo>
+    <DegiskenKodu>MT3</DegiskenKodu>
+    <DegiskenAciklama>YÜKDE MAL TANIMI 3.SATIR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>64</DegiskenNo>
+    <DegiskenKodu>MT4</DegiskenKodu>
+    <DegiskenAciklama>YÜKDE MAL TANIMI 4.SATIR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>65</DegiskenNo>
+    <DegiskenKodu>MT5</DegiskenKodu>
+    <DegiskenAciklama>YÜKDE MAL TANIMI 5.SATIR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>66</DegiskenNo>
+    <DegiskenKodu>MBD</DegiskenKodu>
+    <DegiskenAciklama>YÜKDE MAL BEDELİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>67</DegiskenNo>
+    <DegiskenKodu>ODE(h)</DegiskenKodu>
+    <DegiskenAciklama>ÖDEME ŞEKLİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>68</DegiskenNo>
+    <DegiskenKodu>AC1</DegiskenKodu>
+    <DegiskenAciklama>YÜKDE ADRESE BAĞLI AÇIKLAMA 1.SATIR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>69</DegiskenNo>
+    <DegiskenKodu>AC2</DegiskenKodu>
+    <DegiskenAciklama>YÜKDE ADRESE BAĞLI AÇIKLAMA 2.SATIR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>70</DegiskenNo>
+    <DegiskenKodu>AC3</DegiskenKodu>
+    <DegiskenAciklama>YÜKDE ADRESE BAĞLI AÇIKLAMA 3.SATIR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>71</DegiskenNo>
+    <DegiskenKodu>AC4</DegiskenKodu>
+    <DegiskenAciklama>YÜKDE ADRESE BAĞLI AÇIKLAMA 4.SATIR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>72</DegiskenNo>
+    <DegiskenKodu>AC5</DegiskenKodu>
+    <DegiskenAciklama>YÜKDE ADRESE BAĞLI AÇIKLAMA 5.SATIR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>73</DegiskenNo>
+    <DegiskenKodu>FA1</DegiskenKodu>
+    <DegiskenAciklama>EVRAK KESİLECEK FİRMANIN ADRESİ 1.SATIR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>74</DegiskenNo>
+    <DegiskenKodu>FA2</DegiskenKodu>
+    <DegiskenAciklama>EVRAK KESİLECEK FİRMANIN ADRESİ 2.SATIR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>75</DegiskenNo>
+    <DegiskenKodu>FA3</DegiskenKodu>
+    <DegiskenAciklama>EVRAK KESİLECEK FİRMANIN ADRESİ 3.SATIR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>76</DegiskenNo>
+    <DegiskenKodu>FA4</DegiskenKodu>
+    <DegiskenAciklama>EVRAK KESİLECEK FİRMANIN ADRESİ 4.SATIR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>77</DegiskenNo>
+    <DegiskenKodu>FAD</DegiskenKodu>
+    <DegiskenAciklama>EVRAK KESİLECEK FİRMANIN ADI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>78</DegiskenNo>
+    <DegiskenKodu>EN1</DegiskenKodu>
+    <DegiskenAciklama>** ataması yok **</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>79</DegiskenNo>
+    <DegiskenKodu>BY1</DegiskenKodu>
+    <DegiskenAciklama>** ataması yok **</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>80</DegiskenNo>
+    <DegiskenKodu>YK1</DegiskenKodu>
+    <DegiskenAciklama>** ataması yok **</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>81</DegiskenNo>
+    <DegiskenKodu>EN2</DegiskenKodu>
+    <DegiskenAciklama>** ataması yok **</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>82</DegiskenNo>
+    <DegiskenKodu>BY2</DegiskenKodu>
+    <DegiskenAciklama>** ataması yok **</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>83</DegiskenNo>
+    <DegiskenKodu>YK2</DegiskenKodu>
+    <DegiskenAciklama>** ataması yok **</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>84</DegiskenNo>
+    <DegiskenKodu>EN3</DegiskenKodu>
+    <DegiskenAciklama>** ataması yok **</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>85</DegiskenNo>
+    <DegiskenKodu>BY3</DegiskenKodu>
+    <DegiskenAciklama>** ataması yok **</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>86</DegiskenNo>
+    <DegiskenKodu>YK3</DegiskenKodu>
+    <DegiskenAciklama>** ataması yok **</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>87</DegiskenNo>
+    <DegiskenKodu>N11</DegiskenKodu>
+    <DegiskenAciklama>YÜKDE NOTIFY 1</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>88</DegiskenNo>
+    <DegiskenKodu>N12</DegiskenKodu>
+    <DegiskenAciklama>YÜKDE NOTIFY 1 ADRSİ 1.SATUR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>89</DegiskenNo>
+    <DegiskenKodu>N13</DegiskenKodu>
+    <DegiskenAciklama>YÜKDE NOTIFY 1 ADRSİ 2.SATUR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>90</DegiskenNo>
+    <DegiskenKodu>N14</DegiskenKodu>
+    <DegiskenAciklama>YÜKDE NOTIFY 1 ADRSİ 3.SATUR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>91</DegiskenNo>
+    <DegiskenKodu>N15</DegiskenKodu>
+    <DegiskenAciklama>YÜKDE NOTIFY 1 ADRSİ 4.SATUR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>92</DegiskenNo>
+    <DegiskenKodu>N21</DegiskenKodu>
+    <DegiskenAciklama>YÜKDE NOTIFY 2</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>93</DegiskenNo>
+    <DegiskenKodu>N22</DegiskenKodu>
+    <DegiskenAciklama>YÜKDE NOTIFY 2 ADRSİ 1.SATUR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>94</DegiskenNo>
+    <DegiskenKodu>N23</DegiskenKodu>
+    <DegiskenAciklama>YÜKDE NOTIFY 2 ADRSİ 2.SATUR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>95</DegiskenNo>
+    <DegiskenKodu>N24</DegiskenKodu>
+    <DegiskenAciklama>YÜKDE NOTIFY 2 ADRSİ 3.SATUR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>96</DegiskenNo>
+    <DegiskenKodu>N25</DegiskenKodu>
+    <DegiskenAciklama>YÜKDE NOTIFY 2 ADRSİ 4.SATUR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>97</DegiskenNo>
+    <DegiskenKodu>NX1</DegiskenKodu>
+    <DegiskenAciklama>BANKA VAR İSE DEĞİŞKEN DEĞERİ "SHIP TO :"</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>98</DegiskenNo>
+    <DegiskenKodu>OL1(h)</DegiskenKodu>
+    <DegiskenAciklama>KOLİ EBATLARI 1 (UZUNLUK x YÜKSEKLİK x GENİŞLİK)</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>99</DegiskenNo>
+    <DegiskenKodu>OL2(h)</DegiskenKodu>
+    <DegiskenAciklama>KOLİ EBATLARI 2 (UZUNLUK x YÜKSEKLİK x GENİŞLİK)</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>100</DegiskenNo>
+    <DegiskenKodu>OL3(h)</DegiskenKodu>
+    <DegiskenAciklama>KOLİ EBATLARI 3 (UZUNLUK x YÜKSEKLİK x GENİŞLİK)</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>101</DegiskenNo>
+    <DegiskenKodu>OL4(h)</DegiskenKodu>
+    <DegiskenAciklama>KOLİ EBATLARI 4 (UZUNLUK x YÜKSEKLİK x GENİŞLİK)</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>102</DegiskenNo>
+    <DegiskenKodu>XA1</DegiskenKodu>
+    <DegiskenAciklama>YÜKDE AÇIKLAMA 1.SATIR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>103</DegiskenNo>
+    <DegiskenKodu>XA2</DegiskenKodu>
+    <DegiskenAciklama>YÜKDE AÇIKLAMA 2.SATIR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>104</DegiskenNo>
+    <DegiskenKodu>XA3</DegiskenKodu>
+    <DegiskenAciklama>YÜKDE AÇIKLAMA 3.SATIR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>105</DegiskenNo>
+    <DegiskenKodu>XA4</DegiskenKodu>
+    <DegiskenAciklama>YÜKDE AÇIKLAMA 4.SATIR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>106</DegiskenNo>
+    <DegiskenKodu>XA5</DegiskenKodu>
+    <DegiskenAciklama>YÜKDE AÇIKLAMA 5.SATIR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>107</DegiskenNo>
+    <DegiskenKodu>XA6</DegiskenKodu>
+    <DegiskenAciklama>YÜKDE AÇIKLAMA 6.SATIR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>108</DegiskenNo>
+    <DegiskenKodu>YY0(s)</DegiskenKodu>
+    <DegiskenAciklama>BANKA VAR İSE DEĞİŞKEN DEĞERİ "TO ORDER OF :"</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>109</DegiskenNo>
+    <DegiskenKodu>YY1</DegiskenKodu>
+    <DegiskenAciklama>BANKA VAR İSE DEĞİŞKEN DEĞERİ "NOTIFY1 :"</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>110</DegiskenNo>
+    <DegiskenKodu>YY2</DegiskenKodu>
+    <DegiskenAciklama>NOTIFY1 VAR ==&gt; BANKA YOK İSE "NOTIFY1 :", BANKA VAR İSE "NOTIFY2 :"</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>111</DegiskenNo>
+    <DegiskenKodu>KRR</DegiskenKodu>
+    <DegiskenAciklama>TRTKON.ACTEFNUM  (???)</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>112</DegiskenNo>
+    <DegiskenKodu>KGA</DegiskenKodu>
+    <DegiskenAciklama>YÜKDE TOPLAM AĞIRLIK</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>113</DegiskenNo>
+    <DegiskenKodu>PRM</DegiskenKodu>
+    <DegiskenAciklama>YÜKDE MAL BEDELİ DÖVİZİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>114</DegiskenNo>
+    <DegiskenKodu>MT6</DegiskenKodu>
+    <DegiskenAciklama>YÜKDE MAL TANIMI 6.SATIR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>115</DegiskenNo>
+    <DegiskenKodu>MT7</DegiskenKodu>
+    <DegiskenAciklama>YÜKDE MAL TANIMI 7.SATIR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>116</DegiskenNo>
+    <DegiskenKodu>MT8</DegiskenKodu>
+    <DegiskenAciklama>YÜKDE MAL TANIMI 8.SATIR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>117</DegiskenNo>
+    <DegiskenKodu>MT9</DegiskenKodu>
+    <DegiskenAciklama>YÜKDE MAL TANIMI 9.SATIR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>118</DegiskenNo>
+    <DegiskenKodu>MT0(s)</DegiskenKodu>
+    <DegiskenAciklama>YÜKDE MAL TANIMI 1.0SATIR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>119</DegiskenNo>
+    <DegiskenKodu>MS1</DegiskenKodu>
+    <DegiskenAciklama>KOLİ TOPLAMLARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>120</DegiskenNo>
+    <DegiskenKodu>MS2</DegiskenKodu>
+    <DegiskenAciklama>KOLİ TOPLAMLARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>121</DegiskenNo>
+    <DegiskenKodu>MS3</DegiskenKodu>
+    <DegiskenAciklama>KOLİ TOPLAMLARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>122</DegiskenNo>
+    <DegiskenKodu>MS4</DegiskenKodu>
+    <DegiskenAciklama>KOLİ TOPLAMLARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>123</DegiskenNo>
+    <DegiskenKodu>MS5</DegiskenKodu>
+    <DegiskenAciklama>KOLİ TOPLAMLARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>124</DegiskenNo>
+    <DegiskenKodu>MS6</DegiskenKodu>
+    <DegiskenAciklama>KOLİ TOPLAMLARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>125</DegiskenNo>
+    <DegiskenKodu>MS7</DegiskenKodu>
+    <DegiskenAciklama>KOLİ TOPLAMLARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>126</DegiskenNo>
+    <DegiskenKodu>MS8</DegiskenKodu>
+    <DegiskenAciklama>KOLİ TOPLAMLARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>127</DegiskenNo>
+    <DegiskenKodu>MS9</DegiskenKodu>
+    <DegiskenAciklama>KOLİ TOPLAMLARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>128</DegiskenNo>
+    <DegiskenKodu>MS10</DegiskenKodu>
+    <DegiskenAciklama>KOLİ TOPLAMLARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>129</DegiskenNo>
+    <DegiskenKodu>MK1</DegiskenKodu>
+    <DegiskenAciklama>KOLİ AĞIRLIKLARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>130</DegiskenNo>
+    <DegiskenKodu>MK2</DegiskenKodu>
+    <DegiskenAciklama>KOLİ AĞIRLIKLARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>131</DegiskenNo>
+    <DegiskenKodu>MK3</DegiskenKodu>
+    <DegiskenAciklama>KOLİ AĞIRLIKLARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>132</DegiskenNo>
+    <DegiskenKodu>MK4</DegiskenKodu>
+    <DegiskenAciklama>KOLİ AĞIRLIKLARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>133</DegiskenNo>
+    <DegiskenKodu>MK5</DegiskenKodu>
+    <DegiskenAciklama>KOLİ AĞIRLIKLARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>134</DegiskenNo>
+    <DegiskenKodu>MK6</DegiskenKodu>
+    <DegiskenAciklama>KOLİ AĞIRLIKLARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>135</DegiskenNo>
+    <DegiskenKodu>MK7</DegiskenKodu>
+    <DegiskenAciklama>KOLİ AĞIRLIKLARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>136</DegiskenNo>
+    <DegiskenKodu>MK8</DegiskenKodu>
+    <DegiskenAciklama>KOLİ AĞIRLIKLARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>137</DegiskenNo>
+    <DegiskenKodu>MK9</DegiskenKodu>
+    <DegiskenAciklama>KOLİ AĞIRLIKLARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>138</DegiskenNo>
+    <DegiskenKodu>MK10</DegiskenKodu>
+    <DegiskenAciklama>KOLİ AĞIRLIKLARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>139</DegiskenNo>
+    <DegiskenKodu>MN1</DegiskenKodu>
+    <DegiskenAciklama>MANİFESTO BİLGİLERİ (MANİFESTO NO)</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>140</DegiskenNo>
+    <DegiskenKodu>MN2</DegiskenKodu>
+    <DegiskenAciklama>MANİFESTO BİLGİLERİ (MANİFESTO TARİHİ)</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>141</DegiskenNo>
+    <DegiskenKodu>MN3</DegiskenKodu>
+    <DegiskenAciklama>MANİFESTO BİLGİLERİ (BOŞALTMA TARİHİ)</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>142</DegiskenNo>
+    <DegiskenKodu>MN4</DegiskenKodu>
+    <DegiskenAciklama>MANİFESTO BİLGİLERİ (GİRİŞ ÇIKIŞ GÜMRÜĞÜ)</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>143</DegiskenNo>
+    <DegiskenKodu>MN5</DegiskenKodu>
+    <DegiskenAciklama>MANİFESTO BİLGİLERİ (KARŞI GÜMRÜK) (YÜK İÇERİSİNDEKİ ALICIYA TESLİM ETME TARİHİNİ BASIYOR ALTAN)</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>144</DegiskenNo>
+    <DegiskenKodu>AR1</DegiskenKodu>
+    <DegiskenAciklama>TREYLER</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>145</DegiskenNo>
+    <DegiskenKodu>AR2</DegiskenKodu>
+    <DegiskenAciklama>ARACIN ÜLKESİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>146</DegiskenNo>
+    <DegiskenKodu>AR3</DegiskenKodu>
+    <DegiskenAciklama>PLAKA</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>147</DegiskenNo>
+    <DegiskenKodu>AR4</DegiskenKodu>
+    <DegiskenAciklama>YÜKLEME YERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>148</DegiskenNo>
+    <DegiskenKodu>YZ1</DegiskenKodu>
+    <DegiskenAciklama>EVRAK KODU "ORB", "ULC", "ULF" İSE TOPLAM KOLİ ADETİ, DEĞİLSE BOŞLUK</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>149</DegiskenNo>
+    <DegiskenKodu>GDP</DegiskenKodu>
+    <DegiskenAciklama>** ataması yok **</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>150</DegiskenNo>
+    <DegiskenKodu>KT1</DegiskenKodu>
+    <DegiskenAciklama>YÜKLERİN KOLİ TİPLERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>151</DegiskenNo>
+    <DegiskenKodu>KT2</DegiskenKodu>
+    <DegiskenAciklama>YÜKLERİN KOLİ TİPLERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>152</DegiskenNo>
+    <DegiskenKodu>KT3</DegiskenKodu>
+    <DegiskenAciklama>YÜKLERİN KOLİ TİPLERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>153</DegiskenNo>
+    <DegiskenKodu>IE1</DegiskenKodu>
+    <DegiskenAciklama>YÜK EKLİ EVRAKLAR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>154</DegiskenNo>
+    <DegiskenKodu>IE2</DegiskenKodu>
+    <DegiskenAciklama>YÜK EKLİ EVRAKLAR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>155</DegiskenNo>
+    <DegiskenKodu>IE3</DegiskenKodu>
+    <DegiskenAciklama>YÜK EKLİ EVRAKLAR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>156</DegiskenNo>
+    <DegiskenKodu>ODK(h)</DegiskenKodu>
+    <DegiskenAciklama>YÜK ÖDEME ŞEKLİ (CIF - FOB VS.)</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>157</DegiskenNo>
+    <DegiskenKodu>N31</DegiskenKodu>
+    <DegiskenAciklama>NOTIFY3 VEYA PARAMETREYE GÖRE BOŞALTMA ADRESİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>158</DegiskenNo>
+    <DegiskenKodu>N32</DegiskenKodu>
+    <DegiskenAciklama>NOTIFY3 VEYA PARAMETREYE GÖRE BOŞALTMA ADRESİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>159</DegiskenNo>
+    <DegiskenKodu>N33</DegiskenKodu>
+    <DegiskenAciklama>NOTIFY3 VEYA PARAMETREYE GÖRE BOŞALTMA ADRESİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>160</DegiskenNo>
+    <DegiskenKodu>N34</DegiskenKodu>
+    <DegiskenAciklama>NOTIFY3 VEYA PARAMETREYE GÖRE BOŞALTMA ADRESİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>161</DegiskenNo>
+    <DegiskenKodu>N35</DegiskenKodu>
+    <DegiskenAciklama>NOTIFY3 VEYA PARAMETREYE GÖRE BOŞALTMA ADRESİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>162</DegiskenNo>
+    <DegiskenKodu>YY3</DegiskenKodu>
+    <DegiskenAciklama>YÜKDE BANKA YOKSA "NOTIFY2:" VARSA NOTIFY3:",</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>163</DegiskenNo>
+    <DegiskenKodu>YY3</DegiskenKodu>
+    <DegiskenAciklama>// 157 NOLU PARAMETRE "E" İSE "NOTIFY" YAZISI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>164</DegiskenNo>
+    <DegiskenKodu>ODY(h)</DegiskenKodu>
+    <DegiskenAciklama>YÜK NAVLUN ÖDEME YERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>165</DegiskenNo>
+    <DegiskenKodu>SN1</DegiskenKodu>
+    <DegiskenAciklama>CMR ÜZERİNDE YAZILAN UZUN NOTIFY YAZILARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>166</DegiskenNo>
+    <DegiskenKodu>SN2</DegiskenKodu>
+    <DegiskenAciklama>CMR ÜZERİNDE YAZILAN UZUN NOTIFY YAZILARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>167</DegiskenNo>
+    <DegiskenKodu>SN3</DegiskenKodu>
+    <DegiskenAciklama>CMR ÜZERİNDE YAZILAN UZUN NOTIFY YAZILARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>168</DegiskenNo>
+    <DegiskenKodu>SN4</DegiskenKodu>
+    <DegiskenAciklama>CMR ÜZERİNDE YAZILAN UZUN NOTIFY YAZILARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>169</DegiskenNo>
+    <DegiskenKodu>SN5</DegiskenKodu>
+    <DegiskenAciklama>CMR ÜZERİNDE YAZILAN UZUN NOTIFY YAZILARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>170</DegiskenNo>
+    <DegiskenKodu>SN6</DegiskenKodu>
+    <DegiskenAciklama>CMR ÜZERİNDE YAZILAN UZUN NOTIFY YAZILARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>171</DegiskenNo>
+    <DegiskenKodu>EE1</DegiskenKodu>
+    <DegiskenAciklama>CMR ÜZERİNDE MAL TANIMI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>172</DegiskenNo>
+    <DegiskenKodu>EE2</DegiskenKodu>
+    <DegiskenAciklama>CMR ÜZERİNDE MAL TANIMI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>173</DegiskenNo>
+    <DegiskenKodu>EE3</DegiskenKodu>
+    <DegiskenAciklama>CMR ÜZERİNDE MAL TANIMI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>174</DegiskenNo>
+    <DegiskenKodu>EE4</DegiskenKodu>
+    <DegiskenAciklama>CMR ÜZERİNDE MAL TANIMI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>175</DegiskenNo>
+    <DegiskenKodu>EE5</DegiskenKodu>
+    <DegiskenAciklama>CMR ÜZERİNDE MAL TANIMI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>176</DegiskenNo>
+    <DegiskenKodu>EE6</DegiskenKodu>
+    <DegiskenAciklama>CMR ÜZERİNDE MAL TANIMI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>177</DegiskenNo>
+    <DegiskenKodu>EE7</DegiskenKodu>
+    <DegiskenAciklama>CMR ÜZERİNDE MAL TANIMI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>178</DegiskenNo>
+    <DegiskenKodu>EE8</DegiskenKodu>
+    <DegiskenAciklama>CMR ÜZERİNDE MAL TANIMI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>179</DegiskenNo>
+    <DegiskenKodu>GIU</DegiskenKodu>
+    <DegiskenAciklama>YÜK ÜLKESİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>180</DegiskenNo>
+    <DegiskenKodu>TX1</DegiskenKodu>
+    <DegiskenAciklama>ÖDEME KODU VE ÖDEME YERİNİ BİRLİKTE YAZAR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>181</DegiskenNo>
+    <DegiskenKodu>TX2</DegiskenKodu>
+    <DegiskenAciklama>ÖDEME KODU VE ÖDEME YERİNİ BİRLİKTE YAZAR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>182</DegiskenNo>
+    <DegiskenKodu>JJJ</DegiskenKodu>
+    <DegiskenAciklama>YÜK MANİFESTO SIRASI (ORDİNO ÜZERİNE KONULAN)</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>183</DegiskenNo>
+    <DegiskenKodu>OM1(h)</DegiskenKodu>
+    <DegiskenAciklama>YÜK MARKA BİLGİLERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>184</DegiskenNo>
+    <DegiskenKodu>OM2(h)</DegiskenKodu>
+    <DegiskenAciklama>YÜK MARKA BİLGİLERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>185</DegiskenNo>
+    <DegiskenKodu>OM3(h)</DegiskenKodu>
+    <DegiskenAciklama>YÜK MARKA BİLGİLERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>186</DegiskenNo>
+    <DegiskenKodu>OM4(h)</DegiskenKodu>
+    <DegiskenAciklama>YÜK MARKA BİLGİLERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>187</DegiskenNo>
+    <DegiskenKodu>OM5(h)</DegiskenKodu>
+    <DegiskenAciklama>YÜK MARKA BİLGİLERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>188</DegiskenNo>
+    <DegiskenKodu>OM6(h)</DegiskenKodu>
+    <DegiskenAciklama>YÜK MARKA BİLGİLERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>189</DegiskenNo>
+    <DegiskenKodu>OM7(h)</DegiskenKodu>
+    <DegiskenAciklama>YÜK MARKA BİLGİLERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>190</DegiskenNo>
+    <DegiskenKodu>OM8(h)</DegiskenKodu>
+    <DegiskenAciklama>YÜK MARKA BİLGİLERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>191</DegiskenNo>
+    <DegiskenKodu>OM9(h)</DegiskenKodu>
+    <DegiskenAciklama>YÜK MARKA BİLGİLERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>192</DegiskenNo>
+    <DegiskenKodu>OA1(h)</DegiskenKodu>
+    <DegiskenAciklama>YÜK MAL TANIMLARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>193</DegiskenNo>
+    <DegiskenKodu>OA2(h)</DegiskenKodu>
+    <DegiskenAciklama>YÜK MAL TANIMLARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>194</DegiskenNo>
+    <DegiskenKodu>OA3(h)</DegiskenKodu>
+    <DegiskenAciklama>YÜK MAL TANIMLARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>195</DegiskenNo>
+    <DegiskenKodu>OA4(h)</DegiskenKodu>
+    <DegiskenAciklama>YÜK MAL TANIMLARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>196</DegiskenNo>
+    <DegiskenKodu>OA5(h)</DegiskenKodu>
+    <DegiskenAciklama>YÜK MAL TANIMLARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>197</DegiskenNo>
+    <DegiskenKodu>OA6(h)</DegiskenKodu>
+    <DegiskenAciklama>YÜK MAL TANIMLARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>198</DegiskenNo>
+    <DegiskenKodu>OA7(h)</DegiskenKodu>
+    <DegiskenAciklama>YÜK MAL TANIMLARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>199</DegiskenNo>
+    <DegiskenKodu>OA8(h)</DegiskenKodu>
+    <DegiskenAciklama>YÜK MAL TANIMLARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>200</DegiskenNo>
+    <DegiskenKodu>OA9(h)</DegiskenKodu>
+    <DegiskenAciklama>YÜK MAL TANIMLARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>201</DegiskenNo>
+    <DegiskenKodu>OX1(h)</DegiskenKodu>
+    <DegiskenAciklama>YÜK EKTEKİ BELGELER (ORDİNO VE FATURA OTOMATİK OLARAK ATANIYOR)</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>202</DegiskenNo>
+    <DegiskenKodu>OX2(h)</DegiskenKodu>
+    <DegiskenAciklama>YÜK EKTEKİ BELGELER (ORDİNO VE FATURA OTOMATİK OLARAK ATANIYOR)</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>203</DegiskenNo>
+    <DegiskenKodu>OX3(h)</DegiskenKodu>
+    <DegiskenAciklama>YÜK EKTEKİ BELGELER (ORDİNO VE FATURA OTOMATİK OLARAK ATANIYOR)</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>204</DegiskenNo>
+    <DegiskenKodu>OX4(h)</DegiskenKodu>
+    <DegiskenAciklama>YÜK EKTEKİ BELGELER (ORDİNO VE FATURA OTOMATİK OLARAK ATANIYOR)</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>205</DegiskenNo>
+    <DegiskenKodu>OX5(h)</DegiskenKodu>
+    <DegiskenAciklama>YÜK EKTEKİ BELGELER (ORDİNO VE FATURA OTOMATİK OLARAK ATANIYOR)</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>206</DegiskenNo>
+    <DegiskenKodu>OX6(h)</DegiskenKodu>
+    <DegiskenAciklama>YÜK EKTEKİ BELGELER (ORDİNO VE FATURA OTOMATİK OLARAK ATANIYOR)</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>207</DegiskenNo>
+    <DegiskenKodu>OX7(h)</DegiskenKodu>
+    <DegiskenAciklama>YÜK EKTEKİ BELGELER (ORDİNO VE FATURA OTOMATİK OLARAK ATANIYOR)</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>208</DegiskenNo>
+    <DegiskenKodu>OX8(h)</DegiskenKodu>
+    <DegiskenAciklama>YÜK EKTEKİ BELGELER (ORDİNO VE FATURA OTOMATİK OLARAK ATANIYOR)</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>209</DegiskenNo>
+    <DegiskenKodu>OX9(h)</DegiskenKodu>
+    <DegiskenAciklama>YÜK EKTEKİ BELGELER (ORDİNO VE FATURA OTOMATİK OLARAK ATANIYOR)</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>210</DegiskenNo>
+    <DegiskenKodu>FUN</DegiskenKodu>
+    <DegiskenAciklama>EVRAK KESİLEN MÜŞTERİ ÜNVANI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>211</DegiskenNo>
+    <DegiskenKodu>WF1</DegiskenKodu>
+    <DegiskenAciklama>TAŞIYICI FİRMA BİLGİLERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>212</DegiskenNo>
+    <DegiskenKodu>WF2</DegiskenKodu>
+    <DegiskenAciklama>TAŞIYICI FİRMA BİLGİLERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>213</DegiskenNo>
+    <DegiskenKodu>WF3</DegiskenKodu>
+    <DegiskenAciklama>TAŞIYICI FİRMA BİLGİLERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>214</DegiskenNo>
+    <DegiskenKodu>WF4</DegiskenKodu>
+    <DegiskenAciklama>TAŞIYICI FİRMA BİLGİLERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>215</DegiskenNo>
+    <DegiskenKodu>WF5</DegiskenKodu>
+    <DegiskenAciklama>TAŞIYICI FİRMA BİLGİLERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>216</DegiskenNo>
+    <DegiskenKodu>MX1</DegiskenKodu>
+    <DegiskenAciklama>YÜK MAL TANIMLARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>217</DegiskenNo>
+    <DegiskenKodu>MX2</DegiskenKodu>
+    <DegiskenAciklama>YÜK MAL TANIMLARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>218</DegiskenNo>
+    <DegiskenKodu>MX3</DegiskenKodu>
+    <DegiskenAciklama>YÜK MAL TANIMLARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>219</DegiskenNo>
+    <DegiskenKodu>MX4</DegiskenKodu>
+    <DegiskenAciklama>YÜK MAL TANIMLARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>220</DegiskenNo>
+    <DegiskenKodu>MX5</DegiskenKodu>
+    <DegiskenAciklama>YÜK MAL TANIMLARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>221</DegiskenNo>
+    <DegiskenKodu>MX6</DegiskenKodu>
+    <DegiskenAciklama>YÜK MAL TANIMLARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>222</DegiskenNo>
+    <DegiskenKodu>MX7</DegiskenKodu>
+    <DegiskenAciklama>YÜK MAL TANIMLARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>223</DegiskenNo>
+    <DegiskenKodu>MX8</DegiskenKodu>
+    <DegiskenAciklama>YÜK MAL TANIMLARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>224</DegiskenNo>
+    <DegiskenKodu>MX9</DegiskenKodu>
+    <DegiskenAciklama>YÜK MAL TANIMLARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>225</DegiskenNo>
+    <DegiskenKodu>MY1</DegiskenKodu>
+    <DegiskenAciklama>YÜK CMR - FCR AÇIKLAMALARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>226</DegiskenNo>
+    <DegiskenKodu>MY2</DegiskenKodu>
+    <DegiskenAciklama>YÜK CMR - FCR AÇIKLAMALARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>227</DegiskenNo>
+    <DegiskenKodu>MY3</DegiskenKodu>
+    <DegiskenAciklama>YÜK CMR - FCR AÇIKLAMALARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>228</DegiskenNo>
+    <DegiskenKodu>MY4</DegiskenKodu>
+    <DegiskenAciklama>YÜK CMR - FCR AÇIKLAMALARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>229</DegiskenNo>
+    <DegiskenKodu>MY5</DegiskenKodu>
+    <DegiskenAciklama>YÜK CMR - FCR AÇIKLAMALARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>230</DegiskenNo>
+    <DegiskenKodu>MY6</DegiskenKodu>
+    <DegiskenAciklama>YÜK CMR - FCR AÇIKLAMALARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>231</DegiskenNo>
+    <DegiskenKodu>MY7</DegiskenKodu>
+    <DegiskenAciklama>YÜK CMR - FCR AÇIKLAMALARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>232</DegiskenNo>
+    <DegiskenKodu>MY8</DegiskenKodu>
+    <DegiskenAciklama>YÜK CMR - FCR AÇIKLAMALARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>233</DegiskenNo>
+    <DegiskenKodu>MY9</DegiskenKodu>
+    <DegiskenAciklama>YÜK CMR - FCR AÇIKLAMALARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>234</DegiskenNo>
+    <DegiskenKodu>BN1</DegiskenKodu>
+    <DegiskenAciklama>BANKA BİLGİLERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>235</DegiskenNo>
+    <DegiskenKodu>BN2</DegiskenKodu>
+    <DegiskenAciklama>BANKA BİLGİLERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>236</DegiskenNo>
+    <DegiskenKodu>BN3</DegiskenKodu>
+    <DegiskenAciklama>BANKA BİLGİLERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>237</DegiskenNo>
+    <DegiskenKodu>BN4</DegiskenKodu>
+    <DegiskenAciklama>BANKA BİLGİLERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>238</DegiskenNo>
+    <DegiskenKodu>BN5</DegiskenKodu>
+    <DegiskenAciklama>BANKA BİLGİLERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>239</DegiskenNo>
+    <DegiskenKodu>IH1</DegiskenKodu>
+    <DegiskenAciklama>YÜKLEME TARİHİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>240</DegiskenNo>
+    <DegiskenKodu>IH2</DegiskenKodu>
+    <DegiskenAciklama>POZİSYON GİRİŞ TERMİNİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>241</DegiskenNo>
+    <DegiskenKodu>IH3</DegiskenKodu>
+    <DegiskenAciklama>KARŞI POZİSYON NUMARASI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>242</DegiskenNo>
+    <DegiskenKodu>IH4</DegiskenKodu>
+    <DegiskenAciklama>POZİSYON VARIŞ TARİHİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>243</DegiskenNo>
+    <DegiskenKodu>IH5</DegiskenKodu>
+    <DegiskenAciklama>YURT DIŞI GÜMRÜK</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>244</DegiskenNo>
+    <DegiskenKodu>IM1</DegiskenKodu>
+    <DegiskenAciklama>İMALATÇI BİLGİLERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>245</DegiskenNo>
+    <DegiskenKodu>IM2</DegiskenKodu>
+    <DegiskenAciklama>İMALATÇI BİLGİLERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>246</DegiskenNo>
+    <DegiskenKodu>IM3</DegiskenKodu>
+    <DegiskenAciklama>İMALATÇI BİLGİLERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>247</DegiskenNo>
+    <DegiskenKodu>IM4</DegiskenKodu>
+    <DegiskenAciklama>İMALATÇI BİLGİLERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>248</DegiskenNo>
+    <DegiskenKodu>IM5</DegiskenKodu>
+    <DegiskenAciklama>İMALATÇI BİLGİLERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>249</DegiskenNo>
+    <DegiskenKodu>AP1</DegiskenKodu>
+    <DegiskenAciklama>POZİSYON ÇEKİCİ PLAKASI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>250</DegiskenNo>
+    <DegiskenKodu>AP2</DegiskenKodu>
+    <DegiskenAciklama>POZİSYON KUYRUK PLAKASI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>251</DegiskenNo>
+    <DegiskenKodu>AP3</DegiskenKodu>
+    <DegiskenAciklama>POZİSYON TIR KARNE NO</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>252</DegiskenNo>
+    <DegiskenKodu>KUL</DegiskenKodu>
+    <DegiskenAciklama>KODLU BİLGİLERDEN ALINAN KULLANICI İSMİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>253</DegiskenNo>
+    <DegiskenKodu>FAX</DegiskenKodu>
+    <DegiskenAciklama>EVRAK KESİLEN FİRMANIN FAKSI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>254</DegiskenNo>
+    <DegiskenKodu>ILG</DegiskenKodu>
+    <DegiskenAciklama>EVRAK KESİLEN FİRMANIN İLGİLİSİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>255</DegiskenNo>
+    <DegiskenKodu>CKT</DegiskenKodu>
+    <DegiskenAciklama>ARAÇ ÇIKIŞ TARİHİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>256</DegiskenNo>
+    <DegiskenKodu>MSN</DegiskenKodu>
+    <DegiskenAciklama>YÜK MAL SINIFI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>257</DegiskenNo>
+    <DegiskenKodu>TKL</DegiskenKodu>
+    <DegiskenAciklama>YÜK TOPLAM KOLİ (KAP)</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>258</DegiskenNo>
+    <DegiskenKodu>SOF(h)</DegiskenKodu>
+    <DegiskenAciklama>SÜRÜCÜ ADI - SOYADI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>259</DegiskenNo>
+    <DegiskenKodu>GZG</DegiskenKodu>
+    <DegiskenAciklama>ARAÇ GÜZERGAHI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>260</DegiskenNo>
+    <DegiskenKodu>DYY</DegiskenKodu>
+    <DegiskenAciklama>ARAÇ DÖNÜŞ YÜK ALMA ÜLKESİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>261</DegiskenNo>
+    <DegiskenKodu>XML</DegiskenKodu>
+    <DegiskenAciklama>YÜK MAL SINIFI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>262</DegiskenNo>
+    <DegiskenKodu>SEF</DegiskenKodu>
+    <DegiskenAciklama>?</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>263</DegiskenNo>
+    <DegiskenKodu>YKT</DegiskenKodu>
+    <DegiskenAciklama>YÜKLEME TARİHİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>264</DegiskenNo>
+    <DegiskenKodu>YAD</DegiskenKodu>
+    <DegiskenAciklama>YÜKLEME YERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>265</DegiskenNo>
+    <DegiskenKodu>TKD</DegiskenKodu>
+    <DegiskenAciklama>FRİGO DERECESİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>266</DegiskenNo>
+    <DegiskenKodu>RBT</DegiskenKodu>
+    <DegiskenAciklama>RO-RO BOŞALTMA TARİHİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>267</DegiskenNo>
+    <DegiskenKodu>RGM</DegiskenKodu>
+    <DegiskenAciklama>RO-RO GEMİ ADI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>268</DegiskenNo>
+    <DegiskenKodu>CK2</DegiskenKodu>
+    <DegiskenAciklama>2.ÇEKİCİ PLAKASI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>269</DegiskenNo>
+    <DegiskenKodu>DSF</DegiskenKodu>
+    <DegiskenAciklama>2.SÜRÜCÜ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>270</DegiskenNo>
+    <DegiskenKodu>CM1</DegiskenKodu>
+    <DegiskenAciklama>EVRAK KESİLEN FİRMA 1.TELEFON</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>271</DegiskenNo>
+    <DegiskenKodu>CM2</DegiskenKodu>
+    <DegiskenAciklama>EVRAK KESİLEN FİRMA 2.TELEFON</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>272</DegiskenNo>
+    <DegiskenKodu>CM3</DegiskenKodu>
+    <DegiskenAciklama>EVRAK KESİLEN FİRMA FAX</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>273</DegiskenNo>
+    <DegiskenKodu>CM4</DegiskenKodu>
+    <DegiskenAciklama>EVRAK KESİLEN FİRMA TELEKS</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>274</DegiskenNo>
+    <DegiskenKodu>CM5</DegiskenKodu>
+    <DegiskenAciklama>EVRAK KESİLEN FİRMA 1.İLGİLİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>275</DegiskenNo>
+    <DegiskenKodu>CM6</DegiskenKodu>
+    <DegiskenAciklama>EVRAK KESİLEN FİRMA 2.İLGİLİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>276</DegiskenNo>
+    <DegiskenKodu>CI1</DegiskenKodu>
+    <DegiskenAciklama>İMALATÇI FİRMA İÇİN YUKARIDAKİ BİLGİLER</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>277</DegiskenNo>
+    <DegiskenKodu>CI2</DegiskenKodu>
+    <DegiskenAciklama>İMALATÇI FİRMA İÇİN YUKARIDAKİ BİLGİLER</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>278</DegiskenNo>
+    <DegiskenKodu>CI3</DegiskenKodu>
+    <DegiskenAciklama>İMALATÇI FİRMA İÇİN YUKARIDAKİ BİLGİLER</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>279</DegiskenNo>
+    <DegiskenKodu>CI4</DegiskenKodu>
+    <DegiskenAciklama>İMALATÇI FİRMA İÇİN YUKARIDAKİ BİLGİLER</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>280</DegiskenNo>
+    <DegiskenKodu>CI5</DegiskenKodu>
+    <DegiskenAciklama>İMALATÇI FİRMA İÇİN YUKARIDAKİ BİLGİLER</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>281</DegiskenNo>
+    <DegiskenKodu>CI6</DegiskenKodu>
+    <DegiskenAciklama>İMALATÇI FİRMA İÇİN YUKARIDAKİ BİLGİLER</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>282</DegiskenNo>
+    <DegiskenKodu>CA1</DegiskenKodu>
+    <DegiskenAciklama>ALICI FİRMA İÇİN YUKARIDAKİ BİLGİLER</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>283</DegiskenNo>
+    <DegiskenKodu>CA2</DegiskenKodu>
+    <DegiskenAciklama>ALICI FİRMA İÇİN YUKARIDAKİ BİLGİLER</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>284</DegiskenNo>
+    <DegiskenKodu>CA3</DegiskenKodu>
+    <DegiskenAciklama>ALICI FİRMA İÇİN YUKARIDAKİ BİLGİLER</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>285</DegiskenNo>
+    <DegiskenKodu>CA4</DegiskenKodu>
+    <DegiskenAciklama>ALICI FİRMA İÇİN YUKARIDAKİ BİLGİLER</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>286</DegiskenNo>
+    <DegiskenKodu>CA5</DegiskenKodu>
+    <DegiskenAciklama>ALICI FİRMA İÇİN YUKARIDAKİ BİLGİLER</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>287</DegiskenNo>
+    <DegiskenKodu>CA6</DegiskenKodu>
+    <DegiskenAciklama>ALICI FİRMA İÇİN YUKARIDAKİ BİLGİLER</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>288</DegiskenNo>
+    <DegiskenKodu>CG1</DegiskenKodu>
+    <DegiskenAciklama>GÖNDERİCİ FİRMA İÇİN YUKARIDAKİ BİLGİLER</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>289</DegiskenNo>
+    <DegiskenKodu>CG2</DegiskenKodu>
+    <DegiskenAciklama>GÖNDERİCİ FİRMA İÇİN YUKARIDAKİ BİLGİLER</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>290</DegiskenNo>
+    <DegiskenKodu>CG3</DegiskenKodu>
+    <DegiskenAciklama>GÖNDERİCİ FİRMA İÇİN YUKARIDAKİ BİLGİLER</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>291</DegiskenNo>
+    <DegiskenKodu>CG4</DegiskenKodu>
+    <DegiskenAciklama>GÖNDERİCİ FİRMA İÇİN YUKARIDAKİ BİLGİLER</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>292</DegiskenNo>
+    <DegiskenKodu>TSS</DegiskenKodu>
+    <DegiskenAciklama>TESLİM ŞEKLİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>293</DegiskenNo>
+    <DegiskenKodu>CG5</DegiskenKodu>
+    <DegiskenAciklama>GÖNDERİCİ FİRMA İÇİN YUKARIDAKİ BİLGİLER</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>294</DegiskenNo>
+    <DegiskenKodu>CG6</DegiskenKodu>
+    <DegiskenAciklama>GÖNDERİCİ FİRMA İÇİN YUKARIDAKİ BİLGİLER</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>295</DegiskenNo>
+    <DegiskenKodu>CW1</DegiskenKodu>
+    <DegiskenAciklama>KARŞI FİRMA İÇİN YUKARIDAKİ BİLGİLER</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>296</DegiskenNo>
+    <DegiskenKodu>CW2</DegiskenKodu>
+    <DegiskenAciklama>KARŞI FİRMA İÇİN YUKARIDAKİ BİLGİLER</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>297</DegiskenNo>
+    <DegiskenKodu>CW3</DegiskenKodu>
+    <DegiskenAciklama>KARŞI FİRMA İÇİN YUKARIDAKİ BİLGİLER</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>298</DegiskenNo>
+    <DegiskenKodu>CW4</DegiskenKodu>
+    <DegiskenAciklama>KARŞI FİRMA İÇİN YUKARIDAKİ BİLGİLER</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>299</DegiskenNo>
+    <DegiskenKodu>CW5</DegiskenKodu>
+    <DegiskenAciklama>KARŞI FİRMA İÇİN YUKARIDAKİ BİLGİLER</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>300</DegiskenNo>
+    <DegiskenKodu>CW6</DegiskenKodu>
+    <DegiskenAciklama>KARŞI FİRMA İÇİN YUKARIDAKİ BİLGİLER</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>301</DegiskenNo>
+    <DegiskenKodu>ATR</DegiskenKodu>
+    <DegiskenAciklama>?</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>302</DegiskenNo>
+    <DegiskenKodu>FTO(h)</DegiskenKodu>
+    <DegiskenAciklama>EVRAK EKRANINDAKİ TO</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>303</DegiskenNo>
+    <DegiskenKodu>ATT</DegiskenKodu>
+    <DegiskenAciklama>EVRAK EKRANINDAKİ ATT</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>304</DegiskenNo>
+    <DegiskenKodu>FAX</DegiskenKodu>
+    <DegiskenAciklama>EVRAK EKRANINDAKİ FAX</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>305</DegiskenNo>
+    <DegiskenKodu>FRO</DegiskenKodu>
+    <DegiskenAciklama>EVRAK EKRANINDAKİ FRO</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>306</DegiskenNo>
+    <DegiskenKodu>ORF(h)</DegiskenKodu>
+    <DegiskenAciklama>EVRAK EKRANINDAKİ BİZİM REFERANS NUMARAMIZ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>307</DegiskenNo>
+    <DegiskenKodu>YRF</DegiskenKodu>
+    <DegiskenAciklama>EVRAK EKRANINDAKİ FİRMA REFERANS NO</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>308</DegiskenNo>
+    <DegiskenKodu>SAD</DegiskenKodu>
+    <DegiskenAciklama>FİRMAMIZIN ADI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>309</DegiskenNo>
+    <DegiskenKodu>EA1</DegiskenKodu>
+    <DegiskenAciklama>YÜK MAL TANIMI İLK 6 DEĞİŞKEN</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>310</DegiskenNo>
+    <DegiskenKodu>EA2</DegiskenKodu>
+    <DegiskenAciklama>YÜK MAL TANIMI İLK 6 DEĞİŞKEN</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>311</DegiskenNo>
+    <DegiskenKodu>EA3</DegiskenKodu>
+    <DegiskenAciklama>YÜK MAL TANIMI İLK 6 DEĞİŞKEN</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>312</DegiskenNo>
+    <DegiskenKodu>EA4</DegiskenKodu>
+    <DegiskenAciklama>YÜK MAL TANIMI İLK 6 DEĞİŞKEN</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>313</DegiskenNo>
+    <DegiskenKodu>EA5</DegiskenKodu>
+    <DegiskenAciklama>YÜK MAL TANIMI İLK 6 DEĞİŞKEN</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>314</DegiskenNo>
+    <DegiskenKodu>BCX</DegiskenKodu>
+    <DegiskenAciklama>ÖDEME ŞEKLİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>315</DegiskenNo>
+    <DegiskenKodu>EA6</DegiskenKodu>
+    <DegiskenAciklama>YÜK MAL TANIMI İLK 6 DEĞİŞKEN</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>316</DegiskenNo>
+    <DegiskenKodu>HTR</DegiskenKodu>
+    <DegiskenAciklama>YÜK MALIN HAZIR OLMA TARİHİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>317</DegiskenNo>
+    <DegiskenKodu>SIP</DegiskenKodu>
+    <DegiskenAciklama>SİPARİŞ NUMARASI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>318</DegiskenNo>
+    <DegiskenKodu>NSK</DegiskenKodu>
+    <DegiskenAciklama>YÜK NAKLİYE ŞEKLİ "TIR", "TIR + GEMİ" VS.</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>319</DegiskenNo>
+    <DegiskenKodu>DSV</DegiskenKodu>
+    <DegiskenAciklama>YÜK ÖNGÖRÜLEN HAZIR OLMA TARİHİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>320</DegiskenNo>
+    <DegiskenKodu>AC1-AC9</DegiskenKodu>
+    <DegiskenAciklama>ULUSOY'DA KULLANILAN CMR-FCR AÇIKLAMA DEĞİŞKENLERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>321</DegiskenNo>
+    <DegiskenKodu>ML1-ML9</DegiskenKodu>
+    <DegiskenAciklama>YÜK MAL TANIMI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>322</DegiskenNo>
+    <DegiskenKodu>PZN</DegiskenKodu>
+    <DegiskenAciklama>POZİSYON NUMARASI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>323</DegiskenNo>
+    <DegiskenKodu>DN1</DegiskenKodu>
+    <DegiskenAciklama>ULUSOY ACENTA ÖZEL ADI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>324</DegiskenNo>
+    <DegiskenKodu>DN2</DegiskenKodu>
+    <DegiskenAciklama>ULUSOY ACENTA ÖZEL TEL VE FAX NO</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>325</DegiskenNo>
+    <DegiskenKodu>SNO(h)</DegiskenKodu>
+    <DegiskenAciklama>YÜK SİPARİŞ NUMARASI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>326</DegiskenNo>
+    <DegiskenKodu>QA1-QA9</DegiskenKodu>
+    <DegiskenAciklama>KOLİ ADETLERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>327</DegiskenNo>
+    <DegiskenKodu>QB1-QB9</DegiskenKodu>
+    <DegiskenAciklama>KOLİ ADETLERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>328</DegiskenNo>
+    <DegiskenKodu>QC1-QC9</DegiskenKodu>
+    <DegiskenAciklama>KOLİ TİPLERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>329</DegiskenNo>
+    <DegiskenKodu>QD1-QD9</DegiskenKodu>
+    <DegiskenAciklama>KOLİ TİPLERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>330</DegiskenNo>
+    <DegiskenKodu>QD1-QD9</DegiskenKodu>
+    <DegiskenAciklama>YABANCI DİLDE KOLİ TİPLERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>331</DegiskenNo>
+    <DegiskenKodu>QE1-QE9</DegiskenKodu>
+    <DegiskenAciklama>YABANCI DİLDE KOLİ TİPLERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>332</DegiskenNo>
+    <DegiskenKodu>QF1-QF9</DegiskenKodu>
+    <DegiskenAciklama>KOLİ BÜRÜT AĞIRLIKLARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>333</DegiskenNo>
+    <DegiskenKodu>QG1-QG9</DegiskenKodu>
+    <DegiskenAciklama>KOLİ BÜRÜT AĞIRLIKLARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>334</DegiskenNo>
+    <DegiskenKodu>QI1-QI9</DegiskenKodu>
+    <DegiskenAciklama>KOLİ NET AĞIRLIĞI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>335</DegiskenNo>
+    <DegiskenKodu>QJ1-QJ9</DegiskenKodu>
+    <DegiskenAciklama>KOLİ NET AĞIRLIĞI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>336</DegiskenNo>
+    <DegiskenKodu>QK1-QK9</DegiskenKodu>
+    <DegiskenAciklama>KOLİ HACİMLERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>337</DegiskenNo>
+    <DegiskenKodu>QL1-QL9</DegiskenKodu>
+    <DegiskenAciklama>KOLİ HACİMLERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>338</DegiskenNo>
+    <DegiskenKodu>QM1-QM9</DegiskenKodu>
+    <DegiskenAciklama>KOLİ MAL BEDELLERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>339</DegiskenNo>
+    <DegiskenKodu>QN1-QN9</DegiskenKodu>
+    <DegiskenAciklama>KOLİ MAL BEDELLERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>340</DegiskenNo>
+    <DegiskenKodu>QO1-QO9</DegiskenKodu>
+    <DegiskenAciklama>KOLİ MAL BEDELİ DÖVİZLERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>341</DegiskenNo>
+    <DegiskenKodu>QP1-QP9</DegiskenKodu>
+    <DegiskenAciklama>KOLİ MAL BEDELİ DÖVİZLERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>342</DegiskenNo>
+    <DegiskenKodu>QR1-QR9</DegiskenKodu>
+    <DegiskenAciklama>KOLİ İHRACAT İÇİN YABANCI İTHALAT İÇİN TÜRKÇE MAL TANIMLARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>343</DegiskenNo>
+    <DegiskenKodu>QS1-QS9</DegiskenKodu>
+    <DegiskenAciklama>KOLİ İHRACAT İÇİN YABANCI İTHALAT İÇİN TÜRKÇE MAL TANIMLARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>344</DegiskenNo>
+    <DegiskenKodu>QT1-QT9</DegiskenKodu>
+    <DegiskenAciklama>KOLİ İHRACAT İÇİN TÜRKÇE İTHALAT İÇİN YABANCI MAL TANIMLARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>345</DegiskenNo>
+    <DegiskenKodu>QU1-QU9</DegiskenKodu>
+    <DegiskenAciklama>KOLİ İHRACAT İÇİN TÜRKÇE İTHALAT İÇİN YABANCI MAL TANIMLARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>346</DegiskenNo>
+    <DegiskenKodu>QV1-QV9</DegiskenKodu>
+    <DegiskenAciklama>KOLİ MARKALARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>347</DegiskenNo>
+    <DegiskenKodu>QY1-QY9</DegiskenKodu>
+    <DegiskenAciklama>KOLİ MARKALARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>348</DegiskenNo>
+    <DegiskenKodu>YT1-YT9</DegiskenKodu>
+    <DegiskenAciklama>YÜK TÜRKÇE YENİ KOLİ ALTINDAKİ AÇIKLAMA</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>349</DegiskenNo>
+    <DegiskenKodu>YU1-YU9</DegiskenKodu>
+    <DegiskenAciklama>YABANCI DİLDE EVRAK AÇIKLAMASI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>350</DegiskenNo>
+    <DegiskenKodu>NIN</DegiskenKodu>
+    <DegiskenAciklama>YÜK NAVLUN ÜCRETİNİN İNGİLİZCE YAZIYLA YANLIŞI (150 NOLU PARAMETRE "E" İSE)</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>351</DegiskenNo>
+    <DegiskenKodu>PZ1-PZ5</DegiskenKodu>
+    <DegiskenAciklama>POZİSYON ÖZEL ALANLAR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>352</DegiskenNo>
+    <DegiskenKodu>YL1-YL5</DegiskenKodu>
+    <DegiskenAciklama>YÜK ÖZEL ALANLAR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>353</DegiskenNo>
+    <DegiskenKodu>GCB</DegiskenKodu>
+    <DegiskenAciklama>YÜK BEYANNAME TARİHİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>354</DegiskenNo>
+    <DegiskenKodu>TQC</DegiskenKodu>
+    <DegiskenAciklama>ÖDEME ŞEKLİ CIF İSE X KOYUYOR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>355</DegiskenNo>
+    <DegiskenKodu>TQF</DegiskenKodu>
+    <DegiskenAciklama>ÖDEME ŞEKLİ FOB İSE X KOYUYOR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>356</DegiskenNo>
+    <DegiskenKodu>BD1-BD9</DegiskenKodu>
+    <DegiskenAciklama>YÜKDE OAYLANMIŞ VEYA FATURALANMIŞ BEKLENEN DEĞERLER DİZİSİ İLK 9</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>357</DegiskenNo>
+    <DegiskenKodu>BK1-BK9</DegiskenKodu>
+    <DegiskenAciklama>YÜKDE OAYLANMIŞ VEYA FATURALANMIŞ BEKLENEN DEĞERLER DİZİSİ İKİNCİ 9</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>358</DegiskenNo>
+    <DegiskenKodu>OYT(h)</DegiskenKodu>
+    <DegiskenAciklama>ÖNGÖRÜLEN YÜKLEME TARİHİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>359</DegiskenNo>
+    <DegiskenKodu>DA1-DA9</DegiskenKodu>
+    <DegiskenAciklama>YÜK ÖZEL NOTLARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>360</DegiskenNo>
+    <DegiskenKodu>QY1-QY9</DegiskenKodu>
+    <DegiskenAciklama>YENİ KOLİ MARKALARI İLK 9</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>361</DegiskenNo>
+    <DegiskenKodu>QZ1-QZ9</DegiskenKodu>
+    <DegiskenAciklama>YENİ KOLİ MARKALARI İKİNCİ 9</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>362</DegiskenNo>
+    <DegiskenKodu>YIM</DegiskenKodu>
+    <DegiskenAciklama>İMALATÇI FİRMA ADI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>363</DegiskenNo>
+    <DegiskenKodu>OB1-9(h)</DegiskenKodu>
+    <DegiskenAciklama>YÜK ÖZEL AÇIKLAMA</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>364</DegiskenNo>
+    <DegiskenKodu>LCX</DegiskenKodu>
+    <DegiskenAciklama>YÜK L/C NUMARASI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>365</DegiskenNo>
+    <DegiskenKodu>KNS</DegiskenKodu>
+    <DegiskenAciklama>YÜK KONŞİMENTO TÜRÜ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>366</DegiskenNo>
+    <DegiskenKodu>ZZ1-ZZ9</DegiskenKodu>
+    <DegiskenAciklama>YÜK GENEL MARKA (YENİ KOLİ GİRİŞİ VARSA KULLANILIYOR)</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>367</DegiskenNo>
+    <DegiskenKodu>DPL</DegiskenKodu>
+    <DegiskenAciklama>BOŞALTMA ADRSİ DOLUYSA "DISCHARGING PLACE"</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>368</DegiskenNo>
+    <DegiskenKodu>DAD</DegiskenKodu>
+    <DegiskenAciklama>BOŞALTMA ADRSİ DOLUYSA "DELIVERY ADDRESS"</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>369</DegiskenNo>
+    <DegiskenKodu>VES</DegiskenKodu>
+    <DegiskenAciklama>YÜK İTHALAT EKRANINDA VESAİK MUKABİLİ İŞARETLİ İSE</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>370</DegiskenNo>
+    <DegiskenKodu>VES</DegiskenKodu>
+    <DegiskenAciklama>// "EMTAA BANKA GARANTİLİDİR" VE BANKA ADINI BİRLEŞTİRİP YAZIYOR.</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>371</DegiskenNo>
+    <DegiskenKodu>PNV</DegiskenKodu>
+    <DegiskenAciklama>POZİSYON NAVLUNU</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>372</DegiskenNo>
+    <DegiskenKodu>GZK</DegiskenKodu>
+    <DegiskenAciklama>GÜZERGAH KODU</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>373</DegiskenNo>
+    <DegiskenKodu>UPO(h)</DegiskenKodu>
+    <DegiskenAciklama>UZUN POZİSYON NUMARASI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>374</DegiskenNo>
+    <DegiskenKodu>PRA</DegiskenKodu>
+    <DegiskenAciklama>PROJE ADI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>375</DegiskenNo>
+    <DegiskenKodu>AMN</DegiskenKodu>
+    <DegiskenAciklama>GÜMRÜK ADI + AMBAR NUMARASI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>376</DegiskenNo>
+    <DegiskenKodu>MNT</DegiskenKodu>
+    <DegiskenAciklama>MANİFESTO TARİHİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>377</DegiskenNo>
+    <DegiskenKodu>MNN</DegiskenKodu>
+    <DegiskenAciklama>MANİFESTO NUMARASI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>378</DegiskenNo>
+    <DegiskenKodu>YSN</DegiskenKodu>
+    <DegiskenAciklama>ÇALIŞMA YILI SON İKİ HANESİ. 1997 İÇİN 97 GİBİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>379</DegiskenNo>
+    <DegiskenKodu>ALU</DegiskenKodu>
+    <DegiskenAciklama>ALICI ÜNVANI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>380</DegiskenNo>
+    <DegiskenKodu>GMR</DegiskenKodu>
+    <DegiskenAciklama>YÜK ÜZERİNDEKİ GÜMRÜKÇÜ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>381</DegiskenNo>
+    <DegiskenKodu>AI1(i</DegiskenKodu>
+    <DegiskenAciklama>YÜK AÇIKLAMASI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>382</DegiskenNo>
+    <DegiskenKodu>AI2(i</DegiskenKodu>
+    <DegiskenAciklama>YÜK AÇIKLAMASI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>383</DegiskenNo>
+    <DegiskenKodu>AI3(i</DegiskenKodu>
+    <DegiskenAciklama>YÜK AÇIKLAMASI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>384</DegiskenNo>
+    <DegiskenKodu>AI4(i</DegiskenKodu>
+    <DegiskenAciklama>YÜK AÇIKLAMASI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>385</DegiskenNo>
+    <DegiskenKodu>AI5(i</DegiskenKodu>
+    <DegiskenAciklama>YÜK AÇIKLAMASI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>386</DegiskenNo>
+    <DegiskenKodu>AI6(i</DegiskenKodu>
+    <DegiskenAciklama>YÜK AÇIKLAMASI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>387</DegiskenNo>
+    <DegiskenKodu>AI7(i</DegiskenKodu>
+    <DegiskenAciklama>YÜK AÇIKLAMASI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>388</DegiskenNo>
+    <DegiskenKodu>AI8(i</DegiskenKodu>
+    <DegiskenAciklama>YÜK AÇIKLAMASI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>389</DegiskenNo>
+    <DegiskenKodu>AI9(i</DegiskenKodu>
+    <DegiskenAciklama>YÜK AÇIKLAMASI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>390</DegiskenNo>
+    <DegiskenKodu>AI10(i</DegiskenKodu>
+    <DegiskenAciklama>YÜK AÇIKLAMASI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>391</DegiskenNo>
+    <DegiskenKodu>TKN</DegiskenKodu>
+    <DegiskenAciklama>TIR KARNE NO</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>392</DegiskenNo>
+    <DegiskenKodu>TST</DegiskenKodu>
+    <DegiskenAciklama>TIR KARNE TARİHİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>393</DegiskenNo>
+    <DegiskenKodu>TSN</DegiskenKodu>
+    <DegiskenAciklama>TESCİL NO</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>394</DegiskenNo>
+    <DegiskenKodu>KPY</DegiskenKodu>
+    <DegiskenAciklama>KISA POZ NO VE YÜK NO</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>395</DegiskenNo>
+    <DegiskenKodu>ODG</DegiskenKodu>
+    <DegiskenAciklama>MÜŞTERİ VADESİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>396</DegiskenNo>
+    <DegiskenKodu>DPA</DegiskenKodu>
+    <DegiskenAciklama>DEPO ADI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>397</DegiskenNo>
+    <DegiskenKodu>FRA</DegiskenKodu>
+    <DegiskenAciklama>YÜK FİRİGO İSE "FİRİGODUR" AÇIKLAMASI YAZ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>398</DegiskenNo>
+    <DegiskenKodu>FRA</DegiskenKodu>
+    <DegiskenAciklama>//EVRAK BASKI DİLİNDE TR İSE TÜRKÇE EN İSE İNG. AL İSE ALM. FR İSE FRAN.  IT İSE İTAL.</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>399</DegiskenNo>
+    <DegiskenKodu>FRI</DegiskenKodu>
+    <DegiskenAciklama>YÜK FİRİGO İSE "+++" DEĞİLSE "---"</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>400</DegiskenNo>
+    <DegiskenKodu>THA</DegiskenKodu>
+    <DegiskenAciklama>YÜK TEHLİKELİ  İSE "TEHLİKELİ MADDE" AÇIKLAMASI YAZ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>401</DegiskenNo>
+    <DegiskenKodu>THA</DegiskenKodu>
+    <DegiskenAciklama>//EVRAK BASKI DİLİNDE TR İSE TÜRKÇE EN İSE İNG. AL İSE ALM. FR İSE FRAN.  IT İSE İTAL.</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>402</DegiskenNo>
+    <DegiskenKodu>FRI</DegiskenKodu>
+    <DegiskenAciklama>YÜK TEHLİKELİ İSE "+++" DEĞİLSE "---"</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>403</DegiskenNo>
+    <DegiskenKodu>ACA</DegiskenKodu>
+    <DegiskenAciklama>YÜK ACİLSE  İSE "ACİL YÜK" AÇIKLAMASI YAZ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>404</DegiskenNo>
+    <DegiskenKodu>ACA</DegiskenKodu>
+    <DegiskenAciklama>//EVRAK BASKI DİLİNDE TR İSE TÜRKÇE EN İSE İNG. AL İSE ALM. FR İSE FRAN.  IT İSE İTAL.</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>405</DegiskenNo>
+    <DegiskenKodu>ACI</DegiskenKodu>
+    <DegiskenAciklama>YÜK ACİL İSE "+++" DEĞİLSE "---"</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>406</DegiskenNo>
+    <DegiskenKodu>ISA</DegiskenKodu>
+    <DegiskenAciklama>YÜK İSTİFLENEBİLİR  İSE "İSTİFLENEBİLİR" AÇIKLAMASI YAZ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>407</DegiskenNo>
+    <DegiskenKodu>ISA</DegiskenKodu>
+    <DegiskenAciklama>//EVRAK BASKI DİLİNDE TR İSE TÜRKÇE EN İSE İNG. AL İSE ALM. FR İSE FRAN.  IT İSE İTAL.</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>408</DegiskenNo>
+    <DegiskenKodu>ISI</DegiskenKodu>
+    <DegiskenAciklama>YÜK İSTİFLENEBİLİR İSE "+++" DEĞİLSE "---"</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>409</DegiskenNo>
+    <DegiskenKodu>RZT</DegiskenKodu>
+    <DegiskenAciklama>REZERVASYON TARİHİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>410</DegiskenNo>
+    <DegiskenKodu>KPN</DegiskenKodu>
+    <DegiskenAciklama>KISA POZİSYON NO</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>411</DegiskenNo>
+    <DegiskenKodu>KYN</DegiskenKodu>
+    <DegiskenAciklama>KISA YÜK NO</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>412</DegiskenNo>
+    <DegiskenKodu>GK1/9</DegiskenKodu>
+    <DegiskenAciklama>GİDER KALEMLERİ İSİMLERİ //ONAYLANMIŞ YÜK GİDERLERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>413</DegiskenNo>
+    <DegiskenKodu>GT1/9</DegiskenKodu>
+    <DegiskenAciklama>GK TUTARLARI //DÖVİZ + TUTAR</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>414</DegiskenNo>
+    <DegiskenKodu>PRX</DegiskenKodu>
+    <DegiskenAciklama>MAL BEDELİ DÖVİZİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>415</DegiskenNo>
+    <DegiskenKodu>AX1-5</DegiskenKodu>
+    <DegiskenAciklama>ALICI BİLGİLERİ // GERÇEK</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>416</DegiskenNo>
+    <DegiskenKodu>BX1-5</DegiskenKodu>
+    <DegiskenAciklama>BANKA BİLGİLERİ // GERÇEK</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>417</DegiskenNo>
+    <DegiskenKodu>T11-15</DegiskenKodu>
+    <DegiskenAciklama>NOTİFY1 BİLGİLERİ //GERÇEK</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>418</DegiskenNo>
+    <DegiskenKodu>T21-25</DegiskenKodu>
+    <DegiskenAciklama>NOTİFY2 BİLGİLERİ //GERÇEK</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>419</DegiskenNo>
+    <DegiskenKodu>T31-35</DegiskenKodu>
+    <DegiskenAciklama>NOTİFY3 BİLGİLERİ //GERÇEK</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>420</DegiskenNo>
+    <DegiskenKodu>AAU</DegiskenKodu>
+    <DegiskenAciklama>ALICI ADI / ÜNVANI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>421</DegiskenNo>
+    <DegiskenKodu>GAU</DegiskenKodu>
+    <DegiskenAciklama>GÖNDERİCİ ADI / ÜNVANI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>422</DegiskenNo>
+    <DegiskenKodu>Y11-15</DegiskenKodu>
+    <DegiskenAciklama>YÜK ÖZEL AÇIKLAMALARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>423</DegiskenNo>
+    <DegiskenKodu>-55</DegiskenKodu>
+    <DegiskenAciklama>YÜK ÖZEL AÇIKLAMALARI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>424</DegiskenNo>
+    <DegiskenKodu>EOG</DegiskenKodu>
+    <DegiskenAciklama>Gönderici EORI / eori numarası</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>425</DegiskenNo>
+    <DegiskenKodu>EOA</DegiskenKodu>
+    <DegiskenAciklama>Alıcı EORI / eori numarası</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>426</DegiskenNo>
+    <DegiskenKodu>EON</DegiskenKodu>
+    <DegiskenAciklama>Notify1 EORI / eori numarası</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>427</DegiskenNo>
+    <DegiskenKodu>AMB</DegiskenKodu>
+    <DegiskenAciklama>Kara ithalat yük ambar adı</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>428</DegiskenNo>
+    <DegiskenKodu>THM</DegiskenKodu>
+    <DegiskenAciklama>Rezervasyon bilgileri tahmini teslim tarihi</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>429</DegiskenNo>
+    <DegiskenKodu>YKT</DegiskenKodu>
+    <DegiskenAciklama>Yükleme tarihi</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>430</DegiskenNo>
+    <DegiskenKodu>VTH</DegiskenKodu>
+    <DegiskenAciklama>Varış Tarihi</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>431</DegiskenNo>
+    <DegiskenKodu>KR</DegiskenKodu>
+    <DegiskenAciklama>Karşı Acenta</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>432</DegiskenNo>
+    <DegiskenKodu>TF</DegiskenKodu>
+    <DegiskenAciklama>Araç Firması</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>433</DegiskenNo>
+    <DegiskenKodu>AL</DegiskenKodu>
+    <DegiskenAciklama>Alıcı</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>434</DegiskenNo>
+    <DegiskenKodu>GN</DegiskenKodu>
+    <DegiskenAciklama>Gönderici</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>435</DegiskenNo>
+    <DegiskenKodu>IM</DegiskenKodu>
+    <DegiskenAciklama>İmalatçı</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>436</DegiskenNo>
+    <DegiskenKodu>MU</DegiskenKodu>
+    <DegiskenAciklama>Müşteri ( navlunu ödeyen firma )</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>437</DegiskenNo>
+    <DegiskenKodu>OF</DegiskenKodu>
+    <DegiskenAciklama>ORDİNO ÖDİYECEK FİRMA</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>438</DegiskenNo>
+    <DegiskenKodu>AG0 AG9</DegiskenKodu>
+    <DegiskenAciklama>ALACAK KALEMLERİ ADI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>439</DegiskenNo>
+    <DegiskenKodu>GL0 GL9</DegiskenKodu>
+    <DegiskenAciklama>ALACAK KALEMLERİ DEĞERLERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>440</DegiskenNo>
+    <DegiskenKodu>BG0 BG9</DegiskenKodu>
+    <DegiskenAciklama>BORÇ KALEMLERİ ADI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>441</DegiskenNo>
+    <DegiskenKodu>GD0 GD9</DegiskenKodu>
+    <DegiskenAciklama>BORÇ KALEMLERİ DEĞERLERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>442</DegiskenNo>
+    <DegiskenKodu>KLN</DegiskenKodu>
+    <DegiskenAciklama>KALİTE FORM NO</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>443</DegiskenNo>
+    <DegiskenKodu>AKY</DegiskenKodu>
+    <DegiskenAciklama>AKTARMA YERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>444</DegiskenNo>
+    <DegiskenKodu>AKU</DegiskenKodu>
+    <DegiskenAciklama>AKTARMA ÜLKESİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>445</DegiskenNo>
+    <DegiskenKodu>YDG</DegiskenKodu>
+    <DegiskenAciklama>YURTDIŞI GÜMRÜK FİRMASI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>446</DegiskenNo>
+    <DegiskenKodu>LDM</DegiskenKodu>
+    <DegiskenAciklama>LADOMETRE</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>447</DegiskenNo>
+    <DegiskenKodu>IYR</DegiskenKodu>
+    <DegiskenAciklama>İLK KALKIŞ YERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>448</DegiskenNo>
+    <DegiskenKodu>SYR</DegiskenKodu>
+    <DegiskenAciklama>SON KALKIŞ YERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>449</DegiskenNo>
+    <DegiskenKodu>ACT</DegiskenKodu>
+    <DegiskenAciklama>ARAÇ TİPİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>450</DegiskenNo>
+    <DegiskenKodu>GCK</DegiskenKodu>
+    <DegiskenAciklama>İHRACAT ÇIKIŞ KAPISI/İTHALAT GİRİŞ KAPISI</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>451</DegiskenNo>
+    <DegiskenKodu>EML</DegiskenKodu>
+    <DegiskenAciklama>ELEKTRONİK POSTA</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>452</DegiskenNo>
+    <DegiskenKodu>KYR</DegiskenKodu>
+    <DegiskenAciklama>POZİSYON KALKIŞ YERİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>453</DegiskenNo>
+    <DegiskenKodu>MBD</DegiskenKodu>
+    <DegiskenAciklama>MAL BEDELİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>454</DegiskenNo>
+    <DegiskenKodu>MBZ</DegiskenKodu>
+    <DegiskenAciklama>MAL BEDELİ DÖVİZİ</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>455</DegiskenNo>
+    <DegiskenKodu>YQM</DegiskenKodu>
+    <DegiskenAciklama>ÖDEME ŞEKLİ AÇIKLAMA</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>456</DegiskenNo>
+    <DegiskenKodu>MVA</DegiskenKodu>
+    <DegiskenAciklama>Yükteki Temsilci Firma Adı</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>457</DegiskenNo>
+    <DegiskenKodu>MVK</DegiskenKodu>
+    <DegiskenAciklama>Yükteki Temsilci Firma Kodu</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>458</DegiskenNo>
+    <DegiskenKodu>SYN</DegiskenKodu>
+    <DegiskenAciklama>Yükteki navlun tutarı</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>459</DegiskenNo>
+    <DegiskenKodu>KW01..09</DegiskenKodu>
+    <DegiskenAciklama>Müşteri temsilcisine bağlı olarak ünvan bilgisinin gelmesi için</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>460</DegiskenNo>
+    <DegiskenKodu>CTH</DegiskenKodu>
+    <DegiskenAciklama>Adres kartlarındaki 6011 nolu parametrenin(hesap numarası) değerini basan değişken</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>461</DegiskenNo>
+    <DegiskenKodu>ATM</DegiskenKodu>
+    <DegiskenAciklama>Karayolu cmr ücreti kalem kodu</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>462</DegiskenNo>
+    <DegiskenKodu>CTS</DegiskenKodu>
+    <DegiskenAciklama>Adres kartlarındaki 6010 nolu parametrenin(çalıştığı banka şubesi) değerini basan değişken</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>463</DegiskenNo>
+    <DegiskenKodu>CTB</DegiskenKodu>
+    <DegiskenAciklama>Adres kartlarındaki 6009 nolu parametrenin(çalıştığı banka) değerini basan değişken</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>464</DegiskenNo>
+    <DegiskenKodu>SYP</DegiskenKodu>
+    <DegiskenAciklama>Kara için pazarlama temsilcisi</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>465</DegiskenNo>
+    <DegiskenKodu>SYM</DegiskenKodu>
+    <DegiskenAciklama>Kara için müşteri temsilcisi</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>466</DegiskenNo>
+    <DegiskenKodu>TT</DegiskenKodu>
+    <DegiskenAciklama>Kara ithalat Yük detay bilgileri alanında  Tescil Tarihini basan değişken</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>467</DegiskenNo>
+    <DegiskenKodu>TC</DegiskenKodu>
+    <DegiskenAciklama>Kara ithalat Yük detay bilgileri alanında Tescil Numarasını basan değişken</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>468</DegiskenNo>
+    <DegiskenKodu>HWT</DegiskenKodu>
+    <DegiskenAciklama>Pozisyondaki muh.boş.trh ni basan değişken</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>469</DegiskenNo>
+    <DegiskenKodu>AKN</DegiskenKodu>
+    <DegiskenAciklama>Kara ithalat Yük detay bilgileri alanında Aktarma Tescil Numarasını basan değişken</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>470</DegiskenNo>
+    <DegiskenKodu>AKG</DegiskenKodu>
+    <DegiskenAciklama>Kara ithalat Yük detay bilgileri alanında  aktarma gümrüğünü basan değişken</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>471</DegiskenNo>
+    <DegiskenKodu>SVW</DegiskenKodu>
+    <DegiskenAciklama>Kara-Pozisyon üzerinde bulunan Taşıyıcı Firmanın Cari Tipini basan değişken</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>472</DegiskenNo>
+    <DegiskenKodu>PRIA</DegiskenKodu>
+    <DegiskenAciklama>Sürücü Belgesi İl Adı</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>473</DegiskenNo>
+    <DegiskenKodu>PRBA</DegiskenKodu>
+    <DegiskenAciklama>Sürücü Baba adı</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>474</DegiskenNo>
+    <DegiskenKodu>PRDY</DegiskenKodu>
+    <DegiskenAciklama>Sürücü Doğum Yeri</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>475</DegiskenNo>
+    <DegiskenKodu>PRDT</DegiskenKodu>
+    <DegiskenAciklama>Sürücü Doğum Tarihi</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>476</DegiskenNo>
+    <DegiskenKodu>ACF</DegiskenKodu>
+    <DegiskenAciklama>Araç ruhsat bilgileri ekranında bulunan araç sahibi firma</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>477</DegiskenNo>
+    <DegiskenKodu>HZ01, HZ02…</DegiskenKodu>
+    <DegiskenAciklama>GTIP numaraları</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>478</DegiskenNo>
+    <DegiskenKodu>HG01,HG02…</DegiskenKodu>
+    <DegiskenAciklama>GTIP numaralarının kap-kg bilgileri</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>479</DegiskenNo>
+    <DegiskenKodu>P06</DegiskenKodu>
+    <DegiskenAciklama>Yurtiçi genel kargo modülünde ehliyet no.sunu basan değişken</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>480</DegiskenNo>
+    <DegiskenKodu>UZ1 -UZ99</DegiskenKodu>
+    <DegiskenAciklama>Pozisyon altındaki yüklerde bulunan koli bilgilerini (uzunluk x genişlik x yükseklik) olarak basan değişken seti</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>481</DegiskenNo>
+    <DegiskenKodu>IV1,IV2,IV3</DegiskenKodu>
+    <DegiskenAciklama>Araç Sahibi adresi</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>482</DegiskenNo>
+    <DegiskenKodu>MU1,MU2…</DegiskenKodu>
+    <DegiskenAciklama>Pozisyondaki evraklarda yükteki tescil numarasını basan değişken seti</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>483</DegiskenNo>
+    <DegiskenKodu>MH1,MH2…</DegiskenKodu>
+    <DegiskenAciklama>Pozisyondaki evraklarda yükteki tescil tarihini basan değişken seti</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>484</DegiskenNo>
+    <DegiskenKodu>XI01,,,</DegiskenKodu>
+    <DegiskenAciklama>Yurtiçi Lojistik modülünde irsaliye numarasını basan değişken serisi</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>485</DegiskenNo>
+    <DegiskenKodu>GU1,GU2….</DegiskenKodu>
+    <DegiskenAciklama>koli bilgileri  genişlik x uzunluk  x yükseklik olarak basan değişken seti</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>486</DegiskenNo>
+    <DegiskenKodu>YON</DegiskenKodu>
+    <DegiskenAciklama>Kara Modülü\Yük Bilgileri\Yük Takip No</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>487</DegiskenNo>
+    <DegiskenKodu>STA</DegiskenKodu>
+    <DegiskenAciklama>SATIŞ TEMSİLCİSİ YÜK</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>488</DegiskenNo>
+    <DegiskenKodu>OP1..99</DegiskenKodu>
+    <DegiskenAciklama>Genel Proje Yönetimi\Kara için oto bilgileri ekranındaki otopark no.</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>489</DegiskenNo>
+    <DegiskenKodu>CE01, CE02…CE99</DegiskenKodu>
+    <DegiskenAciklama>Pozisyon evraklarında pozisyon altındaki yüklerin alıcıların eori numaraları basan değişken seti</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>490</DegiskenNo>
+    <DegiskenKodu>SE01,SE02…SE99</DegiskenKodu>
+    <DegiskenAciklama>Pozisyon evraklarında pozisyon altındaki yüklerin göndericilerin eori numaraları basan değişken seti</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>491</DegiskenNo>
+    <DegiskenKodu>NE01,NE02..NE99</DegiskenKodu>
+    <DegiskenAciklama>Pozisyon evraklarında pozisyon altındaki yüklerin notify1lerin eori numaraları basan değişken seti</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>492</DegiskenNo>
+    <DegiskenKodu>SYK</DegiskenKodu>
+    <DegiskenAciklama>Pozisyondaki Toplam Koli Adetini Gösteren Değişken</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>493</DegiskenNo>
+    <DegiskenKodu>ULK</DegiskenKodu>
+    <DegiskenAciklama>Varış Ülkesi</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>494</DegiskenNo>
+    <DegiskenKodu>YKP</DegiskenKodu>
+    <DegiskenAciklama>Taşıma Şekli</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>495</DegiskenNo>
+    <DegiskenKodu>PTS</DegiskenKodu>
+    <DegiskenAciklama>Öngörülen Taşıyıcı Firma</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>496</DegiskenNo>
+    <DegiskenKodu>HI1-5</DegiskenKodu>
+    <DegiskenAciklama>Yurtiçi Hasar Bilgileri ekranında açıklama alanı</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>497</DegiskenNo>
+    <DegiskenKodu>HD1-5</DegiskenKodu>
+    <DegiskenAciklama>Yurtdışı Hasar Bilgileri ekranında açıklama alanı</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>2140</DegiskenNo>
+    <DegiskenKodu>SVP</DegiskenKodu>
+    <DegiskenAciklama>Taşıyıcı Firma Vade Süresi</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>2141</DegiskenNo>
+    <DegiskenKodu>OT1,2,3,4,5</DegiskenKodu>
+    <DegiskenAciklama>Yurtdışı Gümrüğü Bilgisi</DegiskenAciklama>
+    <DegiskenModul>Kara</DegiskenModul>
+  </Degisken>
+</Degiskenler>

@@ -1,0 +1,375 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Degiskenler>
+  <Degisken>
+    <DegiskenNo>0</DegiskenNo>
+    <DegiskenKodu>FIRMA_ADI</DegiskenKodu>
+    <DegiskenAciklama>Firma Adı          </DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>1</DegiskenNo>
+    <DegiskenKodu>FIRMA_UNVANI</DegiskenKodu>
+    <DegiskenAciklama>Firma Ünvanı       </DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>2</DegiskenNo>
+    <DegiskenKodu>FIRMA_ADRES1</DegiskenKodu>
+    <DegiskenAciklama>Firma Adres 1      </DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>3</DegiskenNo>
+    <DegiskenKodu>FIRMA_ADRES2</DegiskenKodu>
+    <DegiskenAciklama>Firma Adres 2</DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>4</DegiskenNo>
+    <DegiskenKodu>FIRMA_ADRES3</DegiskenKodu>
+    <DegiskenAciklama>Firma Adres 3</DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>5</DegiskenNo>
+    <DegiskenKodu>FIRMA_POSTA_KODU</DegiskenKodu>
+    <DegiskenAciklama>Firma Posta Kodu</DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>6</DegiskenNo>
+    <DegiskenKodu>FIRMA_ILCE</DegiskenKodu>
+    <DegiskenAciklama>Firmanın İlçesi </DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>7</DegiskenNo>
+    <DegiskenKodu>FIRMA_IL</DegiskenKodu>
+    <DegiskenAciklama>Firmanın İli</DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>8</DegiskenNo>
+    <DegiskenKodu>FIRMA_TELEFON1</DegiskenKodu>
+    <DegiskenAciklama>Firma Tel 1</DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>9</DegiskenNo>
+    <DegiskenKodu>FIRMA_TELEFON2</DegiskenKodu>
+    <DegiskenAciklama>Firma Tel 2</DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>10</DegiskenNo>
+    <DegiskenKodu>FIRMA_FAKS_NO</DegiskenKodu>
+    <DegiskenAciklama>Firma Faks</DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>11</DegiskenNo>
+    <DegiskenKodu>FIRMA_VERGI_DAIRE</DegiskenKodu>
+    <DegiskenAciklama>Firma Vergi Daire </DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>12</DegiskenNo>
+    <DegiskenKodu>FIRMA_VERGI_NUMARA</DegiskenKodu>
+    <DegiskenAciklama>Firma Vergi numarası</DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>13</DegiskenNo>
+    <DegiskenKodu>FIRMA_ATT</DegiskenKodu>
+    <DegiskenAciklama>Firmanın İlgili Kişisi</DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>14</DegiskenNo>
+    <DegiskenKodu>FIRMA_SIFRE </DegiskenKodu>
+    <DegiskenAciklama>Firmanın  Şifresi </DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>15</DegiskenNo>
+    <DegiskenKodu>FIRMA_TEKREFNO</DegiskenKodu>
+    <DegiskenAciklama>Teklif Referans No</DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>16</DegiskenNo>
+    <DegiskenKodu>FIRMA_E_POSTA</DegiskenKodu>
+    <DegiskenAciklama>Firma E-Posta</DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>17</DegiskenNo>
+    <DegiskenKodu>G_FIRMA_ADI</DegiskenKodu>
+    <DegiskenAciklama>Gön. Firma Adı </DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>18</DegiskenNo>
+    <DegiskenKodu>G_FIRMA_UNVANI</DegiskenKodu>
+    <DegiskenAciklama>Gön. Firma Ünvanı                  </DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>19</DegiskenNo>
+    <DegiskenKodu>G_FIRMA_ADRES1</DegiskenKodu>
+    <DegiskenAciklama>Gön.Firma Adres1 </DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>20</DegiskenNo>
+    <DegiskenKodu>G_FIRMA_ADRES2</DegiskenKodu>
+    <DegiskenAciklama>Gön.Firma Adres2 </DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>21</DegiskenNo>
+    <DegiskenKodu>G_FIRMA_ADRES3</DegiskenKodu>
+    <DegiskenAciklama>Gön.Firma Adres3 </DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>22</DegiskenNo>
+    <DegiskenKodu>G_FIRMA_POSTA_KODU</DegiskenKodu>
+    <DegiskenAciklama>Gön.Firma Posta Kod</DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>23</DegiskenNo>
+    <DegiskenKodu>G_FIRMA_ILCE</DegiskenKodu>
+    <DegiskenAciklama>Gön.Firma İlçesi</DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>24</DegiskenNo>
+    <DegiskenKodu>G_FIRMA_IL</DegiskenKodu>
+    <DegiskenAciklama>Gön.Firma İli</DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>25</DegiskenNo>
+    <DegiskenKodu>G_FIRMA_TELEFON1</DegiskenKodu>
+    <DegiskenAciklama>Gön.Firma Tel 1</DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>26</DegiskenNo>
+    <DegiskenKodu>G_FIRMA_TELEFON2</DegiskenKodu>
+    <DegiskenAciklama>Gön.Firma Tel 2</DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>27</DegiskenNo>
+    <DegiskenKodu>G_FIRMA_FAX_NO</DegiskenKodu>
+    <DegiskenAciklama>Gön.Firma Faks No </DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>28</DegiskenNo>
+    <DegiskenKodu>G_FIRMA_TLX_NO</DegiskenKodu>
+    <DegiskenAciklama>Gön.Firma Telex No</DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>29</DegiskenNo>
+    <DegiskenKodu>G_FIRMA_E_POSTA</DegiskenKodu>
+    <DegiskenAciklama>Gön.Firma E-Posta</DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>30</DegiskenNo>
+    <DegiskenKodu>G_FIRMA_BASKIYER</DegiskenKodu>
+    <DegiskenAciklama>Gön.Firma Baski Yeri</DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>31</DegiskenNo>
+    <DegiskenKodu> G_FIRMA_TEMSADI</DegiskenKodu>
+    <DegiskenAciklama>Gön.Firma Temsicisi</DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>32</DegiskenNo>
+    <DegiskenKodu>G_FIRMA_TEMSDHL</DegiskenKodu>
+    <DegiskenAciklama>Gön.Firma Temsilci Dahili No </DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>33</DegiskenNo>
+    <DegiskenKodu>G_FIRMA_TEMSMAIL</DegiskenKodu>
+    <DegiskenAciklama>Gön.Firma Temsilci E-Mail </DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>34</DegiskenNo>
+    <DegiskenKodu>G_FIRMA_TEMSYON</DegiskenKodu>
+    <DegiskenAciklama>Gön.Firma Temsilci Yöneticisi </DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>35</DegiskenNo>
+    <DegiskenKodu>G_FIRMA_TEMSUNV</DegiskenKodu>
+    <DegiskenAciklama>Gön.Firma Temsilci Ünvanı</DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>36</DegiskenNo>
+    <DegiskenKodu>BASIM_TARIHI</DegiskenKodu>
+    <DegiskenAciklama>Günün Tarihi       </DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>37</DegiskenNo>
+    <DegiskenKodu>TARIFE_GECTRH</DegiskenKodu>
+    <DegiskenAciklama>Geçerlilik Tarihi (Tarife)</DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>38</DegiskenNo>
+    <DegiskenKodu>TARIFE_DOVIZ</DegiskenKodu>
+    <DegiskenAciklama>Tarife Dovizi</DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>39</DegiskenNo>
+    <DegiskenKodu>TARIFE_YUKYER                   </DegiskenKodu>
+    <DegiskenAciklama>Yükleme Yeri (Tarife)                       </DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>40</DegiskenNo>
+    <DegiskenKodu>TARIFE_VARYER                   </DegiskenKodu>
+    <DegiskenAciklama>Varış Yeri (Tarife)                             </DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>41</DegiskenNo>
+    <DegiskenKodu>BAS_METIN</DegiskenKodu>
+    <DegiskenAciklama>Teklif  Başlangıç Metni</DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>42</DegiskenNo>
+    <DegiskenKodu>BIT_METIN</DegiskenKodu>
+    <DegiskenAciklama>Teklif  Bitiş Metni</DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>43</DegiskenNo>
+    <DegiskenKodu>TEKLIF_BASLIK</DegiskenKodu>
+    <DegiskenAciklama>Teklif Başlığı                                     </DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>44</DegiskenNo>
+    <DegiskenKodu>TEKLIF_EVRAKDNOT</DegiskenKodu>
+    <DegiskenAciklama>Evrak Defter Notu</DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>45</DegiskenNo>
+    <DegiskenKodu>RUN_DEMSN_TKDE0101</DegiskenKodu>
+    <DegiskenAciklama>Müşteri Satış Fiyatları   (Deniz) 1</DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>46</DegiskenNo>
+    <DegiskenKodu>RUN_DEMSN_TKDE01ST    </DegiskenKodu>
+    <DegiskenAciklama>Müşteri Satış Fiyatları   (Deniz) 2</DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>47</DegiskenNo>
+    <DegiskenKodu>RUN_DEMSN_TKDE0101   </DegiskenKodu>
+    <DegiskenAciklama>Müşteri Satış Fiyatları   (Deniz) 3</DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>48</DegiskenNo>
+    <DegiskenKodu>RUN_DEMSN_TKDE0102</DegiskenKodu>
+    <DegiskenAciklama>Müşteri Satış Fiyatları   (Deniz) 4</DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>49</DegiskenNo>
+    <DegiskenKodu>RUN_DEMSN_TKDE0103        </DegiskenKodu>
+    <DegiskenAciklama>Müşteri Satış Fiyatları   (Deniz) 5</DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>50</DegiskenNo>
+    <DegiskenKodu>RUN_DEMSN_TKDE0104              </DegiskenKodu>
+    <DegiskenAciklama>Müşteri Satış Fiyatları   (Deniz) 6</DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>51</DegiskenNo>
+    <DegiskenKodu>RUN_HEMSN_TKHE0101</DegiskenKodu>
+    <DegiskenAciklama>Müşteri Satış Fiyatları   (Hava) 1</DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>52</DegiskenNo>
+    <DegiskenKodu>RUN_HEMSN_TKHE01ST</DegiskenKodu>
+    <DegiskenAciklama>Müşteri Satış Fiyatları   (Hava) 2</DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>53</DegiskenNo>
+    <DegiskenKodu>RUN_HEMSN_TKHE0101</DegiskenKodu>
+    <DegiskenAciklama>Müşteri Satış Fiyatları   (Hava) 3</DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>54</DegiskenNo>
+    <DegiskenKodu>RUN_HEMSN_TKHE0102        </DegiskenKodu>
+    <DegiskenAciklama>Müşteri Satış Fiyatları   (Hava) 4</DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>55</DegiskenNo>
+    <DegiskenKodu>RUN_HEMSN_TKHI0101             </DegiskenKodu>
+    <DegiskenAciklama>Müşteri Satış Fiyatları   (Hava) 5</DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>56</DegiskenNo>
+    <DegiskenKodu>RUN_HEMSN_TKHI0103                    </DegiskenKodu>
+    <DegiskenAciklama>Müşteri Satış Fiyatları   (Hava) 6</DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>57</DegiskenNo>
+    <DegiskenKodu>RUN_KENAV_TKKE0101</DegiskenKodu>
+    <DegiskenAciklama>Müşteri Satış Fiyatları   (Kara) 1</DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>58</DegiskenNo>
+    <DegiskenKodu>RUN_KENAV_TKKE0101</DegiskenKodu>
+    <DegiskenAciklama>Müşteri Satış Fiyatları   (Kara) 2</DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>59</DegiskenNo>
+    <DegiskenKodu>RUN_KENAV_TKKE0102</DegiskenKodu>
+    <DegiskenAciklama>Müşteri Satış Fiyatları   (Kara) 3</DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>60</DegiskenNo>
+    <DegiskenKodu>RUN_KENAV_TKKE0103</DegiskenKodu>
+    <DegiskenAciklama>Müşteri Satış Fiyatları   (Kara) 4</DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>61</DegiskenNo>
+    <DegiskenKodu>RUN_KENAV_TKKE0104</DegiskenKodu>
+    <DegiskenAciklama>Müşteri Satış Fiyatları   (Kara) 5</DegiskenAciklama>
+    <DegiskenModul>Teklif_Bookmark</DegiskenModul>
+  </Degisken>
+</Degiskenler>

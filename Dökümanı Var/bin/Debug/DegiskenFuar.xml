@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Degiskenler>
+  <Degisken>
+    <DegiskenNo>0</DegiskenNo>
+    <DegiskenKodu>FYI</DegiskenKodu>
+    <DegiskenAciklama>Fuar Alanı</DegiskenAciklama>
+    <DegiskenModul>Fuar</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>1</DegiskenNo>
+    <DegiskenKodu>FUT</DegiskenKodu>
+    <DegiskenAciklama>Fuar Başlangıç Tarihi</DegiskenAciklama>
+    <DegiskenModul>Fuar</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>2</DegiskenNo>
+    <DegiskenKodu>FAC</DegiskenKodu>
+    <DegiskenAciklama>Fuar Acentesi</DegiskenAciklama>
+    <DegiskenModul>Fuar</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>3</DegiskenNo>
+    <DegiskenKodu>TFR</DegiskenKodu>
+    <DegiskenAciklama>Fuar Resmi Nakliyeci Adı</DegiskenAciklama>
+    <DegiskenModul>Fuar</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>4</DegiskenNo>
+    <DegiskenKodu>FKA</DegiskenKodu>
+    <DegiskenAciklama>Fuar Yükü Katılımcı</DegiskenAciklama>
+    <DegiskenModul>Fuar</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>5</DegiskenNo>
+    <DegiskenKodu>FSO</DegiskenKodu>
+    <DegiskenAciklama>Fuar Yükü Salon No</DegiskenAciklama>
+    <DegiskenModul>Fuar</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>6</DegiskenNo>
+    <DegiskenKodu>FST</DegiskenKodu>
+    <DegiskenAciklama>Fuar Yükü Stant No</DegiskenAciklama>
+    <DegiskenModul>Fuar</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>7</DegiskenNo>
+    <DegiskenKodu>FYT</DegiskenKodu>
+    <DegiskenAciklama>Fuar Yükü Stant Yetkilisi</DegiskenAciklama>
+    <DegiskenModul>Fuar</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>8</DegiskenNo>
+    <DegiskenKodu>FYC</DegiskenKodu>
+    <DegiskenAciklama>Fuar Yükü Stant Yetkili Cep Telefonu</DegiskenAciklama>
+    <DegiskenModul>Fuar</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>9</DegiskenNo>
+    <DegiskenKodu>KMA</DegiskenKodu>
+    <DegiskenAciklama>Fuar Yükü Stant Teslim Tarihi </DegiskenAciklama>
+    <DegiskenModul>Fuar</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>10</DegiskenNo>
+    <DegiskenKodu>KMD</DegiskenKodu>
+    <DegiskenAciklama>Fuar Yükü Stant Teslim Saati</DegiskenAciklama>
+    <DegiskenModul>Fuar</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>11</DegiskenNo>
+    <DegiskenKodu>DRA</DegiskenKodu>
+    <DegiskenAciklama>Fuar Yük Durumu</DegiskenAciklama>
+    <DegiskenModul>Fuar</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>12</DegiskenNo>
+    <DegiskenKodu>DRK</DegiskenKodu>
+    <DegiskenAciklama>Fuar Yük Durum Kodu</DegiskenAciklama>
+    <DegiskenModul>Fuar</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>13</DegiskenNo>
+    <DegiskenKodu>DSV</DegiskenKodu>
+    <DegiskenAciklama>Fuar Yükü Öngörülen Hazır Olma Tarihi</DegiskenAciklama>
+    <DegiskenModul>Fuar</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>14</DegiskenNo>
+    <DegiskenKodu>OYT</DegiskenKodu>
+    <DegiskenAciklama>Fuar Yükü Öngörülen Yükleme Tarihi</DegiskenAciklama>
+    <DegiskenModul>Fuar</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>15</DegiskenNo>
+    <DegiskenKodu>IVT</DegiskenKodu>
+    <DegiskenAciklama>Fuar Yükü İstenen Varış Tarihi</DegiskenAciklama>
+    <DegiskenModul>Fuar</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>16</DegiskenNo>
+    <DegiskenKodu>RYP</DegiskenKodu>
+    <DegiskenAciklama>Fuar Yükü Rezervasyonu Alan</DegiskenAciklama>
+    <DegiskenModul>Fuar</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>17</DegiskenNo>
+    <DegiskenKodu>RZT</DegiskenKodu>
+    <DegiskenAciklama>Fuar Yükü Rezervasyon Tarihi</DegiskenAciklama>
+    <DegiskenModul>Fuar</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>18</DegiskenNo>
+    <DegiskenKodu>YAD</DegiskenKodu>
+    <DegiskenAciklama>Fuar Yükü Teslim Alma Yeri</DegiskenAciklama>
+    <DegiskenModul>Fuar</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>19</DegiskenNo>
+    <DegiskenKodu>YKT</DegiskenKodu>
+    <DegiskenAciklama>Fuar Yükü Teslim Alma Tarihi</DegiskenAciklama>
+    <DegiskenModul>Fuar</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>20</DegiskenNo>
+    <DegiskenKodu>YWS</DegiskenKodu>
+    <DegiskenAciklama>Fuar Yükü Teslim Alma Saati</DegiskenAciklama>
+    <DegiskenModul>Fuar</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>21</DegiskenNo>
+    <DegiskenKodu>KMC</DegiskenKodu>
+    <DegiskenAciklama>Fuar Yükü Kalkış Tarihi</DegiskenAciklama>
+    <DegiskenModul>Fuar</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>22</DegiskenNo>
+    <DegiskenKodu>KMS</DegiskenKodu>
+    <DegiskenAciklama>Fuar Yükü Kalkış Saati</DegiskenAciklama>
+    <DegiskenModul>Fuar</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>23</DegiskenNo>
+    <DegiskenKodu>VRT</DegiskenKodu>
+    <DegiskenAciklama>Fuar Yükü Varış Tarihi</DegiskenAciklama>
+    <DegiskenModul>Fuar</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>24</DegiskenNo>
+    <DegiskenKodu>GID</DegiskenKodu>
+    <DegiskenAciklama>Fuar Yükü Varış Yeri</DegiskenAciklama>
+    <DegiskenModul>Fuar</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>25</DegiskenNo>
+    <DegiskenKodu>WY01</DegiskenKodu>
+    <DegiskenAciklama>Fuar Yükü Acente Adı  </DegiskenAciklama>
+    <DegiskenModul>Fuar</DegiskenModul>
+  </Degisken>
+</Degiskenler>

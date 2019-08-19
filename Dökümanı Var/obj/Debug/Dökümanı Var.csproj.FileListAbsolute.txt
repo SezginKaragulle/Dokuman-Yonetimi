@@ -1,0 +1,52 @@
+K:\users\Sezgin\Dökümanı Var\Dökümanı Var\bin\Debug\Dökümanı Var.exe.config
+K:\users\Sezgin\Dökümanı Var\Dökümanı Var\bin\Debug\Dökümanı Var.exe
+K:\users\Sezgin\Dökümanı Var\Dökümanı Var\bin\Debug\Dökümanı Var.pdb
+K:\users\Sezgin\Dökümanı Var\Dökümanı Var\obj\Debug\Dökümanı Var.csprojResolveAssemblyReference.cache
+K:\users\Sezgin\Dökümanı Var\Dökümanı Var\obj\Debug\Dökümanı_Var.Dökümanlar.resources
+K:\users\Sezgin\Dökümanı Var\Dökümanı Var\obj\Debug\Dökümanı_Var.Properties.Resources.resources
+K:\users\Sezgin\Dökümanı Var\Dökümanı Var\obj\Debug\Dökümanı Var.csproj.GenerateResource.Cache
+K:\users\Sezgin\Dökümanı Var\Dökümanı Var\obj\Debug\Dökümanı Var.exe
+K:\users\Sezgin\Dökümanı Var\Dökümanı Var\obj\Debug\Dökümanı Var.pdb
+K:\users\Sezgin\Dökümanı Var\Dökümanı Var\obj\Debug\Dökümanı_Var.DokumanEkle.resources
+K:\users\Sezgin\Dökümanı Var\Dökümanı Var\obj\Debug\Dökümanı_Var.Değişkenler.resources
+K:\users\Sezgin\Dökümanı Var\Dökümanı Var\bin\Debug\EntityFramework.dll
+K:\users\Sezgin\Dökümanı Var\Dökümanı Var\bin\Debug\EntityFramework.SqlServer.dll
+K:\users\Sezgin\Dökümanı Var\Dökümanı Var\bin\Debug\EntityFramework.xml
+K:\users\Sezgin\Dökümanı Var\Dökümanı Var\bin\Debug\EntityFramework.SqlServer.xml
+K:\users\Sezgin\Dökümanı Var\Dökümanı Var\obj\Debug\Dökümanı_Var.DegiskenEkle.resources
+K:\users\Sezgin\Dökümanı Var\Dökümanı Var\obj\Debug\Dökümanı_Var.DegiskenGuncelle.resources
+U:\HelpDesk\Dökümanı Var\Dökümanı Var\bin\Debug\Dökümanı Var.exe.config
+U:\HelpDesk\Dökümanı Var\Dökümanı Var\obj\Debug\Dökümanı Var.exe
+U:\HelpDesk\Dökümanı Var\Dökümanı Var\obj\Debug\Dökümanı Var.pdb
+U:\HelpDesk\Dökümanı Var\Dökümanı Var\bin\Debug\Dökümanı Var.exe
+U:\HelpDesk\Dökümanı Var\Dökümanı Var\bin\Debug\Dökümanı Var.pdb
+U:\HelpDesk\Dökümanı Var\Dökümanı Var\bin\Debug\EntityFramework.dll
+U:\HelpDesk\Dökümanı Var\Dökümanı Var\bin\Debug\EntityFramework.SqlServer.dll
+U:\HelpDesk\Dökümanı Var\Dökümanı Var\bin\Debug\EntityFramework.xml
+U:\HelpDesk\Dökümanı Var\Dökümanı Var\bin\Debug\EntityFramework.SqlServer.xml
+U:\HelpDesk\Dökümanı Var\Dökümanı Var\obj\Debug\Dökümanı Var.csprojResolveAssemblyReference.cache
+U:\HelpDesk\Dökümanı Var\Dökümanı Var\obj\Debug\Dökümanı_Var.DegiskenEkle.resources
+U:\HelpDesk\Dökümanı Var\Dökümanı Var\obj\Debug\Dökümanı_Var.DegiskenGuncelle.resources
+U:\HelpDesk\Dökümanı Var\Dökümanı Var\obj\Debug\Dökümanı_Var.Değişkenler.resources
+U:\HelpDesk\Dökümanı Var\Dökümanı Var\obj\Debug\Dökümanı_Var.DokumanEkle.resources
+U:\HelpDesk\Dökümanı Var\Dökümanı Var\obj\Debug\Dökümanı_Var.Dökümanlar.resources
+U:\HelpDesk\Dökümanı Var\Dökümanı Var\obj\Debug\Dökümanı_Var.Properties.Resources.resources
+U:\HelpDesk\Dökümanı Var\Dökümanı Var\obj\Debug\Dökümanı Var.csproj.GenerateResource.Cache
+U:\HelpDesk\Dökümanı Var\Dökümanı Var\obj\Debug\Dökümanı Var.csproj.ResolveComReference.cache
+U:\HelpDesk\Dökümanı Var\Dökümanı Var\obj\Debug\Dökümanı_Var.ExcelEkleme.resources
+U:\HelpDesk\Dökümanı Var\Dökümanı Var\bin\Debug\DegiskenKara.xml
+U:\HelpDesk\Dökümanı Var\Dökümanı Var\bin\Debug\DegiskenHava.xml
+U:\HelpDesk\Dökümanı Var\Dökümanı Var\bin\Debug\DegiskenDeniz.xml
+U:\HelpDesk\Dökümanı Var\Dökümanı Var\bin\Debug\DegiskenFatura.xml
+U:\HelpDesk\Dökümanı Var\Dökümanı Var\bin\Debug\DegiskenDepoEvrak.xml
+U:\HelpDesk\Dökümanı Var\Dökümanı Var\bin\Debug\DegiskenDepoFatura.xml
+U:\HelpDesk\Dökümanı Var\Dökümanı Var\bin\Debug\DegiskenDemiryolu.xml
+U:\HelpDesk\Dökümanı Var\Dökümanı Var\bin\Debug\DegiskenKonteyner.xml
+U:\HelpDesk\Dökümanı Var\Dökümanı Var\bin\Debug\DegiskenFinansFaturaİrsaliye.xml
+U:\HelpDesk\Dökümanı Var\Dökümanı Var\bin\Debug\DegiskenFuar.xml
+U:\HelpDesk\Dökümanı Var\Dökümanı Var\bin\Debug\DegiskenAmbarBarkod.xml
+U:\HelpDesk\Dökümanı Var\Dökümanı Var\bin\Debug\DegiskenCari.xml
+U:\HelpDesk\Dökümanı Var\Dökümanı Var\bin\Debug\DegiskenAracFilo.xml
+U:\HelpDesk\Dökümanı Var\Dökümanı Var\bin\Debug\DegiskenTeklif.xml
+U:\HelpDesk\Dökümanı Var\Dökümanı Var\bin\Debug\DegiskenSayac.xml
+U:\HelpDesk\Dökümanı Var\Dökümanı Var\obj\Debug\Dökümanı_Var.MailGonder.resources

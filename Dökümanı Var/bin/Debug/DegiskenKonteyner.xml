@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Degiskenler>
+  <Degisken>
+    <DegiskenNo>0</DegiskenNo>
+    <DegiskenKodu>FA1</DegiskenKodu>
+    <DegiskenAciklama>Evrak kesilen firma ünvanı</DegiskenAciklama>
+    <DegiskenModul>Konteyner_Taşımacılığı</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>1</DegiskenNo>
+    <DegiskenKodu>FA2</DegiskenKodu>
+    <DegiskenAciklama>Evrak kesilen firma adresi</DegiskenAciklama>
+    <DegiskenModul>Konteyner_Taşımacılığı</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>2</DegiskenNo>
+    <DegiskenKodu>SIT</DegiskenKodu>
+    <DegiskenAciklama>Sevk İrsaliye Tarihi</DegiskenAciklama>
+    <DegiskenModul>Konteyner_Taşımacılığı</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>3</DegiskenNo>
+    <DegiskenKodu>PMT</DegiskenKodu>
+    <DegiskenAciklama>İrsaliye Tarihi</DegiskenAciklama>
+    <DegiskenModul>Konteyner_Taşımacılığı</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>4</DegiskenNo>
+    <DegiskenKodu>CN [1,2,3…]</DegiskenKodu>
+    <DegiskenAciklama>Konteyner numaralarını basan değişken seti</DegiskenAciklama>
+    <DegiskenModul>Konteyner_Taşımacılığı</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>5</DegiskenNo>
+    <DegiskenKodu>MT [1,2,3…]</DegiskenKodu>
+    <DegiskenAciklama>Mal cinsi basan değişken seti</DegiskenAciklama>
+    <DegiskenModul>Konteyner_Taşımacılığı</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>6</DegiskenNo>
+    <DegiskenKodu>AP1</DegiskenKodu>
+    <DegiskenAciklama>Çekici Plakası</DegiskenAciklama>
+    <DegiskenModul>Konteyner_Taşımacılığı</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>7</DegiskenNo>
+    <DegiskenKodu>AP2</DegiskenKodu>
+    <DegiskenAciklama>Kuyruk Plakası</DegiskenAciklama>
+    <DegiskenModul>Konteyner_Taşımacılığı</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>8</DegiskenNo>
+    <DegiskenKodu>CU[1,2,3…]</DegiskenKodu>
+    <DegiskenAciklama>Konteyner ücret</DegiskenAciklama>
+    <DegiskenModul>Konteyner_Taşımacılığı</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>9</DegiskenNo>
+    <DegiskenKodu>YKN</DegiskenKodu>
+    <DegiskenAciklama>Navlun ücreti</DegiskenAciklama>
+    <DegiskenModul>Konteyner_Taşımacılığı</DegiskenModul>
+  </Degisken>
+</Degiskenler>

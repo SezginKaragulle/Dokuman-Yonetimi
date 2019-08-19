@@ -1,0 +1,513 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Degiskenler>
+  <Degisken>
+    <DegiskenNo>0</DegiskenNo>
+    <DegiskenKodu>GTR</DegiskenKodu>
+    <DegiskenAciklama>GİRİŞ TARİHİ</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>1</DegiskenNo>
+    <DegiskenKodu>GRS</DegiskenKodu>
+    <DegiskenAciklama>GİRİŞ SAATİ</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>2</DegiskenNo>
+    <DegiskenKodu>BNO</DegiskenKodu>
+    <DegiskenAciklama>ANTREPO BEYANNAME NO</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>3</DegiskenNo>
+    <DegiskenKodu>GBT</DegiskenKodu>
+    <DegiskenAciklama>ANTREPO BEYANNAME TARİHİ</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>4</DegiskenNo>
+    <DegiskenKodu>DYR</DegiskenKodu>
+    <DegiskenAciklama>DEPODAKİ YER</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>5</DegiskenNo>
+    <DegiskenKodu>TFR</DegiskenKodu>
+    <DegiskenAciklama>TAŞIYICI FİRMA</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>6</DegiskenNo>
+    <DegiskenKodu>FF1-FF6</DegiskenKodu>
+    <DegiskenAciklama>MÜŞTERİ</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>7</DegiskenNo>
+    <DegiskenKodu>AF1-AF6</DegiskenKodu>
+    <DegiskenAciklama>ALICI </DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>8</DegiskenNo>
+    <DegiskenKodu>FPL</DegiskenKodu>
+    <DegiskenAciklama>PLAKA / UÇUŞ NO</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>9</DegiskenNo>
+    <DegiskenKodu>XML</DegiskenKodu>
+    <DegiskenAciklama>MAL SINIFI</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>10</DegiskenNo>
+    <DegiskenKodu>TMA</DegiskenKodu>
+    <DegiskenAciklama>TÜRKÇE MAL ADI</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>11</DegiskenNo>
+    <DegiskenKodu>GMR</DegiskenKodu>
+    <DegiskenAciklama>GİRİŞ GÜMRÜĞÜ</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>12</DegiskenNo>
+    <DegiskenKodu>TES</DegiskenKodu>
+    <DegiskenAciklama>TESLİM ŞEKLİ</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>13</DegiskenNo>
+    <DegiskenKodu>ODE</DegiskenKodu>
+    <DegiskenAciklama>ÖDEME ŞEKLİ</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>14</DegiskenNo>
+    <DegiskenKodu>AWN</DegiskenKodu>
+    <DegiskenAciklama>MAWB NO</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>15</DegiskenNo>
+    <DegiskenKodu>AWT</DegiskenKodu>
+    <DegiskenAciklama>MAWB TARİHİ</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>16</DegiskenNo>
+    <DegiskenKodu>KNN</DegiskenKodu>
+    <DegiskenAciklama>KONŞİMENTO NO</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>17</DegiskenNo>
+    <DegiskenKodu>KNT</DegiskenKodu>
+    <DegiskenAciklama>KONŞİMENTO TARİHİ</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>18</DegiskenNo>
+    <DegiskenKodu>MNN</DegiskenKodu>
+    <DegiskenAciklama>ÖZET BEYAN NUMARASI</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>19</DegiskenNo>
+    <DegiskenKodu>MNT</DegiskenKodu>
+    <DegiskenAciklama>ÖZET BEYAN TARİHİ</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>20</DegiskenNo>
+    <DegiskenKodu>MBD</DegiskenKodu>
+    <DegiskenAciklama>MAL BEDELİ</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>21</DegiskenNo>
+    <DegiskenKodu>MBZ</DegiskenKodu>
+    <DegiskenAciklama>MAL BEDELİ DÖVİZİ</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>22</DegiskenNo>
+    <DegiskenKodu>GTP</DegiskenKodu>
+    <DegiskenAciklama>GTIP NO</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>23</DegiskenNo>
+    <DegiskenKodu>CBN</DegiskenKodu>
+    <DegiskenAciklama>ÇIKIŞ BEYANNAME NO</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>24</DegiskenNo>
+    <DegiskenKodu>CBT</DegiskenKodu>
+    <DegiskenAciklama>ÇIKIŞ BEYANNAME TARİHİ</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>25</DegiskenNo>
+    <DegiskenKodu>GVN</DegiskenKodu>
+    <DegiskenAciklama>GÜMRÜK VEZNE ALINDI NO</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>26</DegiskenNo>
+    <DegiskenKodu>GVT</DegiskenKodu>
+    <DegiskenAciklama>GÜMRÜK VEZNE ALINDI TARİHİ</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>27</DegiskenNo>
+    <DegiskenKodu>YDR</DegiskenKodu>
+    <DegiskenAciklama>YÜK DURUMU</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>28</DegiskenNo>
+    <DegiskenKodu>GKF</DegiskenKodu>
+    <DegiskenAciklama>GÜMRÜK KOMİSYONCUSU</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>29</DegiskenNo>
+    <DegiskenKodu>TSL</DegiskenKodu>
+    <DegiskenAciklama>ÇIKIŞTA TESLİM ALAN</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>30</DegiskenNo>
+    <DegiskenKodu>UAG</DegiskenKodu>
+    <DegiskenAciklama>ÜCRET AĞIRLIĞI</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>31</DegiskenNo>
+    <DegiskenKodu>CTR</DegiskenKodu>
+    <DegiskenAciklama>ÇIKIŞ TARİHİ </DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>32</DegiskenNo>
+    <DegiskenKodu>CKS</DegiskenKodu>
+    <DegiskenAciklama>ÇIKIŞ SAATİ</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>33</DegiskenNo>
+    <DegiskenKodu>CPL</DegiskenKodu>
+    <DegiskenAciklama>ÇIKIŞ PLAKASI</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>34</DegiskenNo>
+    <DegiskenKodu>ARN</DegiskenKodu>
+    <DegiskenAciklama>ARŞİV NUMARASI</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>35</DegiskenNo>
+    <DegiskenKodu>PLS</DegiskenKodu>
+    <DegiskenAciklama>PALET SAYISI</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>36</DegiskenNo>
+    <DegiskenKodu>MSS</DegiskenKodu>
+    <DegiskenAciklama>MUŞAMBA SAYISI</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>37</DegiskenNo>
+    <DegiskenKodu>OZK</DegiskenKodu>
+    <DegiskenAciklama>ÖZEL KUR</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>38</DegiskenNo>
+    <DegiskenKodu>KPZ</DegiskenKodu>
+    <DegiskenAciklama>KARŞI POZİSYON NO</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>39</DegiskenNo>
+    <DegiskenKodu>ORN</DegiskenKodu>
+    <DegiskenAciklama>ORDİNO NO</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>40</DegiskenNo>
+    <DegiskenKodu>KTN</DegiskenKodu>
+    <DegiskenAciklama>KONTEYNER NO</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>41</DegiskenNo>
+    <DegiskenKodu>VYR</DegiskenKodu>
+    <DegiskenAciklama>YURTİÇİ VARIŞ YERİ</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>42</DegiskenNo>
+    <DegiskenKodu>GTD</DegiskenKodu>
+    <DegiskenAciklama>GİRİŞTE TESLİM EDEN</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>43</DegiskenNo>
+    <DegiskenKodu>GTL</DegiskenKodu>
+    <DegiskenAciklama>GİRİŞTE TESLİM ALAN</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>44</DegiskenNo>
+    <DegiskenKodu>CTD </DegiskenKodu>
+    <DegiskenAciklama>ÇIKIŞTA TESLİM EDEN</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>45</DegiskenNo>
+    <DegiskenKodu>MCT</DegiskenKodu>
+    <DegiskenAciklama>MUHTEMEL ÇIKIŞ TARİHİ</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>46</DegiskenNo>
+    <DegiskenKodu>KRU</DegiskenKodu>
+    <DegiskenAciklama>ÜLKE ADI</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>47</DegiskenNo>
+    <DegiskenKodu>GCK</DegiskenKodu>
+    <DegiskenAciklama>SINIR KAPISI</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>48</DegiskenNo>
+    <DegiskenKodu>RSN</DegiskenKodu>
+    <DegiskenAciklama>İRSALİYE NUMARASI</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>49</DegiskenNo>
+    <DegiskenKodu>RST</DegiskenKodu>
+    <DegiskenAciklama>İRSALİYE TARİHİ</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>50</DegiskenNo>
+    <DegiskenKodu>DPA</DegiskenKodu>
+    <DegiskenAciklama>DEPO</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>51</DegiskenNo>
+    <DegiskenKodu>ADE</DegiskenKodu>
+    <DegiskenAciklama>TOPLAM ADET</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>52</DegiskenNo>
+    <DegiskenKodu>KTP</DegiskenKodu>
+    <DegiskenAciklama>İLK KOLİNİN TİPİ</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>53</DegiskenNo>
+    <DegiskenKodu>KZN</DegiskenKodu>
+    <DegiskenAciklama>İLK KOLİNİN ÖLÇÜLERİ</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>54</DegiskenNo>
+    <DegiskenKodu>DGN</DegiskenKodu>
+    <DegiskenAciklama>DEPO GİRİŞ NO</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>55</DegiskenNo>
+    <DegiskenKodu>CTK</DegiskenKodu>
+    <DegiskenAciklama>ÇIKAN KAP</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>56</DegiskenNo>
+    <DegiskenKodu>CTA</DegiskenKodu>
+    <DegiskenAciklama>ÇIKAN AĞIRLIK</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>57</DegiskenNo>
+    <DegiskenKodu>INV</DegiskenKodu>
+    <DegiskenAciklama>MAL FATURA NO</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>58</DegiskenNo>
+    <DegiskenKodu>CSN</DegiskenKodu>
+    <DegiskenAciklama>ÇIKIŞ SIRA NUMARASI</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>59</DegiskenNo>
+    <DegiskenKodu>YBS</DegiskenKodu>
+    <DegiskenAciklama>Bekleme süresi</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>60</DegiskenNo>
+    <DegiskenKodu>PTA </DegiskenKodu>
+    <DegiskenAciklama>Pozisyon toplam ağırlık ( yükün bağlı olduğu pozisyondaki tüm yüklerin ağırlığını toplar)</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>61</DegiskenNo>
+    <DegiskenKodu>PKL</DegiskenKodu>
+    <DegiskenAciklama>Pozisyon toplam kap sayısı (yükün bağlı bulunduğu pozisyondaki tüm yüklerin kapsayısını toplar)</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>62</DegiskenNo>
+    <DegiskenKodu>HA1</DegiskenKodu>
+    <DegiskenAciklama>Yurtiçi Hasarlı</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>63</DegiskenNo>
+    <DegiskenKodu>HA2</DegiskenKodu>
+    <DegiskenAciklama>Yurtdışı Hasarlı</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>64</DegiskenNo>
+    <DegiskenKodu>HA3</DegiskenKodu>
+    <DegiskenAciklama>Yurtiçi hasar nedeni</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>65</DegiskenNo>
+    <DegiskenKodu>HA4</DegiskenKodu>
+    <DegiskenAciklama>Yurtdışı hasar nedeni</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>66</DegiskenNo>
+    <DegiskenKodu>HA5</DegiskenKodu>
+    <DegiskenAciklama>Yurtiçi  hasar açıklaması</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>67</DegiskenNo>
+    <DegiskenKodu>HA6</DegiskenKodu>
+    <DegiskenAciklama>Yurtdışı hasar açıklaması</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>68</DegiskenNo>
+    <DegiskenKodu>HA7</DegiskenKodu>
+    <DegiskenAciklama>Yurtiçi hasar çeşidi</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>69</DegiskenNo>
+    <DegiskenKodu>HA8</DegiskenKodu>
+    <DegiskenAciklama>Yurtdışı hasar çeşidi</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>70</DegiskenNo>
+    <DegiskenKodu>HA9</DegiskenKodu>
+    <DegiskenAciklama>Yurtiçi hasar oluşma yeri</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>71</DegiskenNo>
+    <DegiskenKodu>HA0</DegiskenKodu>
+    <DegiskenAciklama>Yurtdışı hasar oluşma yeri</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>72</DegiskenNo>
+    <DegiskenKodu>GON</DegiskenKodu>
+    <DegiskenAciklama>Gönderici</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>73</DegiskenNo>
+    <DegiskenKodu>SKK</DegiskenKodu>
+    <DegiskenAciklama>Kullanıcı Kodu </DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>74</DegiskenNo>
+    <DegiskenKodu>SKA</DegiskenKodu>
+    <DegiskenAciklama>Kullanıcı Adı </DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>75</DegiskenNo>
+    <DegiskenKodu>XML</DegiskenKodu>
+    <DegiskenAciklama>mal sınıfı </DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>76</DegiskenNo>
+    <DegiskenKodu>ADE</DegiskenKodu>
+    <DegiskenAciklama>Toplam adet </DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>77</DegiskenNo>
+    <DegiskenKodu>MVK</DegiskenKodu>
+    <DegiskenAciklama>Mevcut kap</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>78</DegiskenNo>
+    <DegiskenKodu>MVA</DegiskenKodu>
+    <DegiskenAciklama>Mevcut Ağırlık </DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>79</DegiskenNo>
+    <DegiskenKodu>KTH</DegiskenKodu>
+    <DegiskenAciklama>Kur Tarihi  (260215 Koray)</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>80</DegiskenNo>
+    <DegiskenKodu>DZK</DegiskenKodu>
+    <DegiskenAciklama>Depoda yükün çıkış tarihindeki Merkez Bankası Döviz Satış kuru.(260215 Koray)</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>81</DegiskenNo>
+    <DegiskenKodu>FDP</DegiskenKodu>
+    <DegiskenAciklama>Antrepo Adı </DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>82</DegiskenNo>
+    <DegiskenKodu>TKD</DegiskenKodu>
+    <DegiskenAciklama>Depo Tanımı Tipi/Kodu</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>83</DegiskenNo>
+    <DegiskenKodu>STTM</DegiskenKodu>
+    <DegiskenAciklama>Antrepo çıkış kontrol fişinde fişin yazdırma saati</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>84</DegiskenNo>
+    <DegiskenKodu>MVNO</DegiskenKodu>
+    <DegiskenAciklama>Kısmi çıkış ekranındaki çıkış beyanname numarası</DegiskenAciklama>
+    <DegiskenModul>Depo_Fatura</DegiskenModul>
+  </Degisken>
+</Degiskenler>

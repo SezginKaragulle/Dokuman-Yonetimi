@@ -1,0 +1,1827 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Degiskenler>
+  <Degisken>
+    <DegiskenNo>0</DegiskenNo>
+    <DegiskenKodu>AD5-8</DegiskenKodu>
+    <DegiskenAciklama>Gönderici Unvan ve 3 Adres satırı ADG,"DFCR" ise AD[6]+AD[7]</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>1</DegiskenNo>
+    <DegiskenKodu>AG1-8</DegiskenKodu>
+    <DegiskenAciklama>Koli Ağırlıkları + "-KG."(çalışmıyor artık…yerine KG değişkenleri var..)</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>2</DegiskenNo>
+    <DegiskenKodu>AGM</DegiskenKodu>
+    <DegiskenAciklama>Pozisyon Aktarma Gemisi + Aktarma Gemisi Sefer No.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>3</DegiskenNo>
+    <DegiskenKodu>AL1-4</DegiskenKodu>
+    <DegiskenAciklama>Alıcı Unvan ve 3 Adres Satırı AL[2], "DFCR" ise AL[2] + AL[3]</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>4</DegiskenNo>
+    <DegiskenKodu>ALI</DegiskenKodu>
+    <DegiskenAciklama>Alıcı Adı, "DFCR" ise ALI+AL[1]</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>5</DegiskenNo>
+    <DegiskenKodu>ALM</DegiskenKodu>
+    <DegiskenAciklama>Pozisyon Aktarma Limanı</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>6</DegiskenNo>
+    <DegiskenKodu>ANT</DegiskenKodu>
+    <DegiskenAciklama>Fax İçin Firma Anteti </DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>7</DegiskenNo>
+    <DegiskenKodu>A01-5 </DegiskenKodu>
+    <DegiskenAciklama>Özel Yük Konşimentosunda Yurt Dışı Acente Ad.Unvan ve 3 adres satırı.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>8</DegiskenNo>
+    <DegiskenKodu>ATR</DegiskenKodu>
+    <DegiskenAciklama>Pozisyondaki Aktarma Tarihi</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>9</DegiskenNo>
+    <DegiskenKodu>ATT</DegiskenKodu>
+    <DegiskenAciklama>Başlık İlgisine Bilgisi.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>10</DegiskenNo>
+    <DegiskenKodu>BAC</DegiskenKodu>
+    <DegiskenAciklama>Yük Bilgilerindeki Boşaltma Acentesi  (Yurt içi gemi acentesi varsa yük üzerindekini boşsa pozisyon üzerindeki bilgiyi basıyor)</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>11</DegiskenNo>
+    <DegiskenKodu>BD1-20</DegiskenKodu>
+    <DegiskenAciklama>İhracat Bölümünde Göndericinin Ödeyeceği Kalemler ithalat Bölümünde alıcının ödeyeceği </DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>12</DegiskenNo>
+    <DegiskenKodu>BL1</DegiskenKodu>
+    <DegiskenAciklama>CIF ise yükteki yükleme limanı,"FOB" ise "DESTINATION" </DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>13</DegiskenNo>
+    <DegiskenKodu>BL2</DegiskenKodu>
+    <DegiskenAciklama>Yükteki navlun ücreti+dövizcinsi</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>14</DegiskenNo>
+    <DegiskenKodu>BL3</DegiskenKodu>
+    <DegiskenAciklama>Poz.No: 99999 ise yükteki yükleme limanı,değilse pozisyondaki yükleme limanı.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>15</DegiskenNo>
+    <DegiskenKodu>BL4</DegiskenKodu>
+    <DegiskenAciklama>HB/L Tarihi.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>16</DegiskenNo>
+    <DegiskenKodu>BL5</DegiskenKodu>
+    <DegiskenAciklama>Yük Fatura No. "Fatura No:"+TRTKON.MALFTNUM.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>17</DegiskenNo>
+    <DegiskenKodu>BL6</DegiskenKodu>
+    <DegiskenAciklama>3 ORG./3COPY</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>18</DegiskenNo>
+    <DegiskenKodu>BL7</DegiskenKodu>
+    <DegiskenAciklama>Dip not.TRTKOM DIPNOT.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>19</DegiskenNo>
+    <DegiskenKodu>BL8</DegiskenKodu>
+    <DegiskenAciklama>HB/L Tarihi.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>20</DegiskenNo>
+    <DegiskenKodu>BL9</DegiskenKodu>
+    <DegiskenAciklama>Konşimento Tipi. TRTKON.KONSTIP.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>21</DegiskenNo>
+    <DegiskenKodu>BLM</DegiskenKodu>
+    <DegiskenAciklama>Pozisyondaki boşaltma limanı</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>22</DegiskenNo>
+    <DegiskenKodu>BRM</DegiskenKodu>
+    <DegiskenAciklama>TRTKON.ASAGENT&gt;1 ise TRTKON.ASAGENT, değilse SSIRKETA.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>23</DegiskenNo>
+    <DegiskenKodu>BST</DegiskenKodu>
+    <DegiskenAciklama>Pozisyondaki Varış Tarihi</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>24</DegiskenNo>
+    <DegiskenKodu>BTH</DegiskenKodu>
+    <DegiskenAciklama>DONTise TRTKON.BOSTRH,değilse ihracat için TRTPOZ.BOSTRH[1], ithalat için TRTPOZ.BOSTRH[5].</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>25</DegiskenNo>
+    <DegiskenKodu>BTR</DegiskenKodu>
+    <DegiskenAciklama>PozNum. 99999 ise yükteki istenen varış tarihi, değilse pozisyondaki beklenen varış tarihi.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>26</DegiskenNo>
+    <DegiskenKodu>C10-20</DegiskenKodu>
+    <DegiskenAciklama>10.ve 20. Konteyner Numaraları.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>27</DegiskenNo>
+    <DegiskenKodu>CKL</DegiskenKodu>
+    <DegiskenAciklama>Genel Kod bilgileri,kullanıcılar listesinden kullanıcı adı.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>28</DegiskenNo>
+    <DegiskenKodu>CN1-9</DegiskenKodu>
+    <DegiskenAciklama>1.ve 9. Konteyner Numaraları.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>29</DegiskenNo>
+    <DegiskenKodu>CR1-5</DegiskenKodu>
+    <DegiskenAciklama>DCAPR ise 5 satır metin yazısı."DRLST" ya da "DONT" ise konu ile ilgili metin yazıları.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>30</DegiskenNo>
+    <DegiskenKodu>D10-20</DegiskenKodu>
+    <DegiskenAciklama>11.ve 20. Dara bilgisi.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>31</DegiskenNo>
+    <DegiskenKodu>DA1-9</DegiskenKodu>
+    <DegiskenAciklama>1.ve 9. Dara bilgisi.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>32</DegiskenNo>
+    <DegiskenKodu>DEP</DegiskenKodu>
+    <DegiskenAciklama>Yükteki depo bilgisi.(TRTKON.DEPO).</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>33</DegiskenNo>
+    <DegiskenKodu>DM1</DegiskenKodu>
+    <DegiskenAciklama>Alıcının telefon numarası..</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>34</DegiskenNo>
+    <DegiskenKodu>DM2</DegiskenKodu>
+    <DegiskenAciklama>Alıcının fax numarası.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>35</DegiskenNo>
+    <DegiskenKodu>DM3</DegiskenKodu>
+    <DegiskenAciklama>Alıcının ilgili kişi bilgisi</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>36</DegiskenNo>
+    <DegiskenKodu>DM4</DegiskenKodu>
+    <DegiskenAciklama>Yurtdışı acentanın ilgili kişi bilgisi</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>37</DegiskenNo>
+    <DegiskenKodu>DR1-4</DegiskenKodu>
+    <DegiskenAciklama>Koli adetleri ile oluşturulan marka bilgileri = "ADR 1-" +TRTKOLI.KOLIADET.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>38</DegiskenNo>
+    <DegiskenKodu>EB1-4</DegiskenKodu>
+    <DegiskenAciklama>Ebat Bilgileri.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>39</DegiskenNo>
+    <DegiskenKodu>FAX</DegiskenKodu>
+    <DegiskenAciklama>Başlık Fax no bilgisi.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>40</DegiskenNo>
+    <DegiskenKodu>FCN</DegiskenKodu>
+    <DegiskenAciklama>1.Konteyner için XXXX XXXX-X/20' formatında numara bilgisi.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>41</DegiskenNo>
+    <DegiskenKodu>FIR</DegiskenKodu>
+    <DegiskenAciklama>Yurt Dışı Acente adı."DFCR"ise FIR +AD[1].</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>42</DegiskenNo>
+    <DegiskenKodu>FRO</DegiskenKodu>
+    <DegiskenAciklama>Başlık,gönderen bilgisi.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>43</DegiskenNo>
+    <DegiskenKodu>FTO</DegiskenKodu>
+    <DegiskenAciklama>Başlık gönderilen bilgisi.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>44</DegiskenNo>
+    <DegiskenKodu>GIU</DegiskenKodu>
+    <DegiskenAciklama>Yükteki ülke bilgisi.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>45</DegiskenNo>
+    <DegiskenKodu>GM1</DegiskenKodu>
+    <DegiskenAciklama>Pozisyondaki yükleme gemisi ve aktarma gemisi alanlarından hangisi doluysa onu sefer no.su ile birlikte basar(TRTPOZ.ANAGEMI)</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>46</DegiskenNo>
+    <DegiskenKodu>GM2</DegiskenKodu>
+    <DegiskenAciklama>Yükteki yükleme yeri bilgisi.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>47</DegiskenNo>
+    <DegiskenKodu>GM3</DegiskenKodu>
+    <DegiskenAciklama>Pozisyondaki yükleme gemisi ve aktarma gemisi alanları doluysa yükleme gemisini basar.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>48</DegiskenNo>
+    <DegiskenKodu>GM4</DegiskenKodu>
+    <DegiskenAciklama>Pozisyondaki yükleme gemisi sefer no.su ve aktarma gemisi sefer no.su alanları  doluysa yükleme gemisi sefer no.su basar.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>49</DegiskenNo>
+    <DegiskenKodu>GM5</DegiskenKodu>
+    <DegiskenAciklama>Pozisyon no 99999 ise yükteki yükleme limanı, değilse pozisyondaki yükleme limanı. </DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>50</DegiskenNo>
+    <DegiskenKodu>GM6</DegiskenKodu>
+    <DegiskenAciklama>Yükteki varış limanı bilgisi.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>51</DegiskenNo>
+    <DegiskenKodu>GM7</DegiskenKodu>
+    <DegiskenAciklama>?</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>52</DegiskenNo>
+    <DegiskenKodu>GM8</DegiskenKodu>
+    <DegiskenAciklama>Ödeme şekli "FOB" ise Varış Limanı , "CIF" ise Yükleme Limanı</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>53</DegiskenNo>
+    <DegiskenKodu>GMF</DegiskenKodu>
+    <DegiskenAciklama>Pozisyondaki yükleme gemisi için gemi bilgilerindeki gemi acentesi bilgisi. </DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>54</DegiskenNo>
+    <DegiskenKodu>GON</DegiskenKodu>
+    <DegiskenAciklama>Gönderici adı.,"DFCR" ise GON+AD[5].</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>55</DegiskenNo>
+    <DegiskenKodu>GT1-2</DegiskenKodu>
+    <DegiskenAciklama>Gönderici ad,unvan ve adres bilgisi için 2 satır.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>56</DegiskenNo>
+    <DegiskenKodu>GUM</DegiskenKodu>
+    <DegiskenAciklama>Yükteki gümrükcü bilgisi.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>57</DegiskenNo>
+    <DegiskenKodu>HBN</DegiskenKodu>
+    <DegiskenAciklama>HB/L No.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>58</DegiskenNo>
+    <DegiskenKodu>HC1-4</DegiskenKodu>
+    <DegiskenAciklama>Koli Hacimleri +"-CBM",</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>59</DegiskenNo>
+    <DegiskenKodu>IE1-9</DegiskenKodu>
+    <DegiskenAciklama>Ekli belgeler.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>60</DegiskenNo>
+    <DegiskenKodu>IT1-2</DegiskenKodu>
+    <DegiskenAciklama>Üretici ad,unvan ve adres bilgisi için 2 satır.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>61</DegiskenNo>
+    <DegiskenKodu>KA1-7</DegiskenKodu>
+    <DegiskenAciklama>Özel Yük Konşimentosunda,yükteki boşaltma acentesinin ad,unvan ve adres bilgisi için boş satır olmayan bilgi grubu.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>62</DegiskenNo>
+    <DegiskenKodu>KAD</DegiskenKodu>
+    <DegiskenAciklama>Konteyner Adedi.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>63</DegiskenNo>
+    <DegiskenKodu>KCN</DegiskenKodu>
+    <DegiskenAciklama>Konteyner ağır/hafif bilgisi. </DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>64</DegiskenNo>
+    <DegiskenKodu>KLM</DegiskenKodu>
+    <DegiskenAciklama>SEAFREIGHT CHARGES.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>65</DegiskenNo>
+    <DegiskenKodu>KLN</DegiskenKodu>
+    <DegiskenAciklama>Kalite No bilgisi.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>66</DegiskenNo>
+    <DegiskenKodu>KNO</DegiskenKodu>
+    <DegiskenAciklama>Referans no. TRTPOZ.UPOZNUM+TRTKON.YUKNUM.varsa + TRTKON.YUKSIRA.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>67</DegiskenNo>
+    <DegiskenKodu>KPR</DegiskenKodu>
+    <DegiskenAciklama>Yük parsiyel ise "LCL", Değilse "FCL".</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>68</DegiskenNo>
+    <DegiskenKodu>KR1-7</DegiskenKodu>
+    <DegiskenAciklama>Normal Konşimentoda, yükteki yurtdışı acentenin ad,unvan ve adres bilgisi için boş satır olmayan bilgi grubu.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>69</DegiskenNo>
+    <DegiskenKodu>KS1-9</DegiskenKodu>
+    <DegiskenAciklama>Koli Adetleri.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>70</DegiskenNo>
+    <DegiskenKodu>KT1-9</DegiskenKodu>
+    <DegiskenAciklama>Koli Tipleri.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>71</DegiskenNo>
+    <DegiskenKodu>KTR</DegiskenKodu>
+    <DegiskenAciklama>İhracat gemi kalkış tarihi, ithalat poz.num.99999 ise yükteki öngörülen yükleme tarihi, değilse pozisyondaki gemi kalkış tarihi.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>72</DegiskenNo>
+    <DegiskenKodu>KX1-4</DegiskenKodu>
+    <DegiskenAciklama>Konteyner tipi.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>73</DegiskenNo>
+    <DegiskenKodu>KYS</DegiskenKodu>
+    <DegiskenAciklama>Konteyner yükleme saati.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>74</DegiskenNo>
+    <DegiskenKodu>LAD</DegiskenKodu>
+    <DegiskenAciklama>Hat adı.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>75</DegiskenNo>
+    <DegiskenKodu>LKO</DegiskenKodu>
+    <DegiskenAciklama>Hat kodu.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>76</DegiskenNo>
+    <DegiskenKodu>M10-20</DegiskenKodu>
+    <DegiskenAciklama>11. Ve 20. Mühür numaraları.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>77</DegiskenNo>
+    <DegiskenKodu>MBN</DegiskenKodu>
+    <DegiskenAciklama>MB/L no.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>78</DegiskenNo>
+    <DegiskenKodu>MBT</DegiskenKodu>
+    <DegiskenAciklama>MB/L Tarihi.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>79</DegiskenNo>
+    <DegiskenKodu>MH1-9</DegiskenKodu>
+    <DegiskenAciklama>1.ve 9. Mühür numaraları.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>80</DegiskenNo>
+    <DegiskenKodu>MNO</DegiskenKodu>
+    <DegiskenAciklama>Yükteki manifesto numarası.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>81</DegiskenNo>
+    <DegiskenKodu>MR1-5</DegiskenKodu>
+    <DegiskenAciklama>Marka Bllgileri.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>82</DegiskenNo>
+    <DegiskenKodu>MT1-9</DegiskenKodu>
+    <DegiskenAciklama>Mal Tanımı (1.ve 9.satır.)</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>83</DegiskenNo>
+    <DegiskenKodu>MTE</DegiskenKodu>
+    <DegiskenAciklama>Mal Tanımı.(10.satır)</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>84</DegiskenNo>
+    <DegiskenKodu>MTR</DegiskenKodu>
+    <DegiskenAciklama>Yükteki manifesto tarihi.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>85</DegiskenNo>
+    <DegiskenKodu>NAG</DegiskenKodu>
+    <DegiskenAciklama>Yükteki net ağırlık bilgisi.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>86</DegiskenNo>
+    <DegiskenKodu>NI1-9</DegiskenKodu>
+    <DegiskenAciklama>Notify bilgileri.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>87</DegiskenNo>
+    <DegiskenKodu>NIH</DegiskenKodu>
+    <DegiskenAciklama>Yükteki Nihai vrış yeri bilgisi.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>88</DegiskenNo>
+    <DegiskenKodu>NSK</DegiskenKodu>
+    <DegiskenAciklama>Yükteki nakliye şekli bilgisi.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>89</DegiskenNo>
+    <DegiskenKodu>NTC</DegiskenKodu>
+    <DegiskenAciklama>FOB Navlun toplamı.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>90</DegiskenNo>
+    <DegiskenKodu>NTP</DegiskenKodu>
+    <DegiskenAciklama>CIF navlun toplamı.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>91</DegiskenNo>
+    <DegiskenKodu>NVC</DegiskenKodu>
+    <DegiskenAciklama>FOB Yük navlunu. </DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>92</DegiskenNo>
+    <DegiskenKodu>NVD</DegiskenKodu>
+    <DegiskenAciklama>Navlun döviz cinsi.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>93</DegiskenNo>
+    <DegiskenKodu>NVP</DegiskenKodu>
+    <DegiskenAciklama>CIFyük navlunu.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>94</DegiskenNo>
+    <DegiskenKodu>O10-15</DegiskenKodu>
+    <DegiskenAciklama>10.ve 15. Özel açıklamalar alanları.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>95</DegiskenNo>
+    <DegiskenKodu>OA1-5</DegiskenKodu>
+    <DegiskenAciklama>1.ve 5. Özel açıklamalar alanı.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>96</DegiskenNo>
+    <DegiskenKodu>OBY</DegiskenKodu>
+    <DegiskenAciklama>Navlun ödeyen. "FOB" ise "</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>97</DegiskenNo>
+    <DegiskenKodu>ODA</DegiskenKodu>
+    <DegiskenAciklama>Yükteki navlun ödeme şekli adı.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>98</DegiskenNo>
+    <DegiskenKodu>ODE</DegiskenKodu>
+    <DegiskenAciklama>FOB ise "DESTINATION", "CIF" ise " ".</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>99</DegiskenNo>
+    <DegiskenKodu>ODK</DegiskenKodu>
+    <DegiskenAciklama>Yükteki Teslim şekli.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>100</DegiskenNo>
+    <DegiskenKodu>ODY</DegiskenKodu>
+    <DegiskenAciklama>CIF ise yükteki yükleme limanı,"FOB" ise yükteki ödeme yeri.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>101</DegiskenNo>
+    <DegiskenKodu>OKI-5</DegiskenKodu>
+    <DegiskenAciklama>Yükteki özel alanlar [1..5].</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>102</DegiskenNo>
+    <DegiskenKodu>ORD</DegiskenKodu>
+    <DegiskenAciklama>Yükteki sipariş no ve prof. Fatura no alanlarından oluşturulan bilgi. </DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>103</DegiskenNo>
+    <DegiskenKodu>ORF</DegiskenKodu>
+    <DegiskenAciklama>Başlık, bizim ref.no. Bilgisi.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>104</DegiskenNo>
+    <DegiskenKodu>OTF</DegiskenKodu>
+    <DegiskenAciklama>Yükteki ön taşıma / son taşıma firma adı.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>105</DegiskenNo>
+    <DegiskenKodu>OZ1-9</DegiskenKodu>
+    <DegiskenAciklama>Özel Açıklamalar.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>106</DegiskenNo>
+    <DegiskenKodu>PAG</DegiskenKodu>
+    <DegiskenAciklama>Sayfa değişkeni.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>107</DegiskenNo>
+    <DegiskenKodu>PHC</DegiskenKodu>
+    <DegiskenAciklama>Yük parsiyel ise hacim bilgisi, komple ise boş.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>108</DegiskenNo>
+    <DegiskenKodu>PRA</DegiskenKodu>
+    <DegiskenAciklama>CIF ise yükteki ödeme yeri, "FOB" ise "DESTINATION".</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>109</DegiskenNo>
+    <DegiskenKodu>PTR</DegiskenKodu>
+    <DegiskenAciklama>Pozisyondaki gemi yükleme tarihi.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>110</DegiskenNo>
+    <DegiskenKodu>RUT</DegiskenKodu>
+    <DegiskenAciklama>Yükteki yükleme limanı+aktarma limanı+varış limanı.güzergah.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>111</DegiskenNo>
+    <DegiskenKodu>SN1-6</DegiskenKodu>
+    <DegiskenAciklama>Her biri 2 satır olan natify bilgileri.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>112</DegiskenNo>
+    <DegiskenKodu>TAR</DegiskenKodu>
+    <DegiskenAciklama>Günün tarihi.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>113</DegiskenNo>
+    <DegiskenKodu>TF1</DegiskenKodu>
+    <DegiskenAciklama>Yurt dışı acente , telefon numarası.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>114</DegiskenNo>
+    <DegiskenKodu>TF2</DegiskenKodu>
+    <DegiskenAciklama>Yurt dışı acente , fax numarası.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>115</DegiskenNo>
+    <DegiskenKodu>TF3</DegiskenKodu>
+    <DegiskenAciklama>Gönderici telefon numarası.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>116</DegiskenNo>
+    <DegiskenKodu>TF4</DegiskenKodu>
+    <DegiskenAciklama>Gönderici fax numarası.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>117</DegiskenNo>
+    <DegiskenKodu>TF5</DegiskenKodu>
+    <DegiskenAciklama>Yükteki yükleme acentesi telefon numarası.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>118</DegiskenNo>
+    <DegiskenKodu>TF6</DegiskenKodu>
+    <DegiskenAciklama>Gönderici ilgili kişi.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>119</DegiskenNo>
+    <DegiskenKodu>TF7</DegiskenKodu>
+    <DegiskenAciklama>CIF ise yükteki yükleme limanı,"FOB" ise boş.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>120</DegiskenNo>
+    <DegiskenKodu>TF8</DegiskenKodu>
+    <DegiskenAciklama>CIF ise boş "FOB" ise yükteki varış limanı.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>121</DegiskenNo>
+    <DegiskenKodu>TF9</DegiskenKodu>
+    <DegiskenAciklama>Yükteki yükleme acentesi ilgili kişi.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>122</DegiskenNo>
+    <DegiskenKodu>THC</DegiskenKodu>
+    <DegiskenAciklama>Toplam Hacim.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>123</DegiskenNo>
+    <DegiskenKodu>TIP</DegiskenKodu>
+    <DegiskenAciklama>Konteyner adedi+konteyner tipi+"S.T.C.". </DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>124</DegiskenNo>
+    <DegiskenKodu>TKA</DegiskenKodu>
+    <DegiskenAciklama>Toplam konteyner adedi.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>125</DegiskenNo>
+    <DegiskenKodu>TKG</DegiskenKodu>
+    <DegiskenAciklama>Toplam brüt ağırlık.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>126</DegiskenNo>
+    <DegiskenKodu>TPS</DegiskenKodu>
+    <DegiskenAciklama>Toplam Parça sayısı.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>127</DegiskenNo>
+    <DegiskenKodu>TR1-9</DegiskenKodu>
+    <DegiskenAciklama>Terim Bilgileri</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>128</DegiskenNo>
+    <DegiskenKodu>TRM</DegiskenKodu>
+    <DegiskenAciklama>Türkçe Mal Adı</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>129</DegiskenNo>
+    <DegiskenKodu>TTR</DegiskenKodu>
+    <DegiskenAciklama>Yükteki Teslim Tarihi</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>130</DegiskenNo>
+    <DegiskenKodu>UAC</DegiskenKodu>
+    <DegiskenAciklama>Yurtdışı Acenta Ad+Unvan</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>131</DegiskenNo>
+    <DegiskenKodu>UAL</DegiskenKodu>
+    <DegiskenAciklama>Alıcı Ad+Unvan</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>132</DegiskenNo>
+    <DegiskenKodu>UGN</DegiskenKodu>
+    <DegiskenAciklama>Gönderici Ad+Unvan</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>133</DegiskenNo>
+    <DegiskenKodu>UYR</DegiskenKodu>
+    <DegiskenAciklama>Gemi Bayrağı Bilgisi</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>134</DegiskenNo>
+    <DegiskenKodu>XT1-2</DegiskenKodu>
+    <DegiskenAciklama>Alıcı Ad,Unvan ve Adres Bilgisi İçin 2 Satır</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>135</DegiskenNo>
+    <DegiskenKodu>YA1-4</DegiskenKodu>
+    <DegiskenAciklama>Yükleme Acentası Ad,Unvan ve Adres "DONTT" ise boş</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>136</DegiskenNo>
+    <DegiskenKodu>YAC</DegiskenKodu>
+    <DegiskenAciklama>Yükteki Yükleme Acentası Adı, "DONTT" ise yükteki konteynerin alınacağı yer.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>137</DegiskenNo>
+    <DegiskenKodu>KLN</DegiskenKodu>
+    <DegiskenAciklama>KALİTE FORM NO</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>138</DegiskenNo>
+    <DegiskenKodu>EML    </DegiskenKodu>
+    <DegiskenAciklama>Firma E-MAIL adresi (60 nolu şirket parametresi) Bu değişken denize de eklendi.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>139</DegiskenNo>
+    <DegiskenKodu>KNO</DegiskenKodu>
+    <DegiskenAciklama>POZİSYON NUMARASI + YÜK NUMARASI</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>140</DegiskenNo>
+    <DegiskenKodu>MUS</DegiskenKodu>
+    <DegiskenAciklama>Müşteri Adı</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>141</DegiskenNo>
+    <DegiskenKodu>GKS</DegiskenKodu>
+    <DegiskenAciklama>Gümrükçü ilgili kişisi</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>142</DegiskenNo>
+    <DegiskenKodu>MA1-3</DegiskenKodu>
+    <DegiskenAciklama>Pozisyonun manifesto numaraları</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>143</DegiskenNo>
+    <DegiskenKodu>YF1..</DegiskenKodu>
+    <DegiskenAciklama>Konteyner boyu ve tipi(kodu)  (20' DV)</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>144</DegiskenNo>
+    <DegiskenKodu>CM1-30</DegiskenKodu>
+    <DegiskenAciklama>Yükün müşterinin bildirdiği değerler alanındaki mal cinsini basıyor(türkçe)</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>145</DegiskenNo>
+    <DegiskenKodu>KG1-30</DegiskenKodu>
+    <DegiskenAciklama>Yükün müşterinin bildirdiği değerler alanındaki brüt ağırlık</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>146</DegiskenNo>
+    <DegiskenKodu>XN6</DegiskenKodu>
+    <DegiskenAciklama>yükün Notify1 alanındaki bilgiyi basıyor</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>147</DegiskenNo>
+    <DegiskenKodu>X11</DegiskenKodu>
+    <DegiskenAciklama>yükün Notify2 alanındaki bilgiyi basıyor</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>148</DegiskenNo>
+    <DegiskenKodu>BU1-20 </DegiskenKodu>
+    <DegiskenAciklama>Masraf Adı</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>149</DegiskenNo>
+    <DegiskenKodu>BG1-20 </DegiskenKodu>
+    <DegiskenAciklama>Masraf Tutarı</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>150</DegiskenNo>
+    <DegiskenKodu>J1….</DegiskenKodu>
+    <DegiskenAciklama>Değişken seti: Sipariş başlık tanımlarının 1. kolonu (max.99 satır, 01….99)</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>151</DegiskenNo>
+    <DegiskenKodu>J2….</DegiskenKodu>
+    <DegiskenAciklama>Değişken seti: Sipariş başlık tanımlarının 2. kolonu (max.99 satır, 01….99)</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>152</DegiskenNo>
+    <DegiskenKodu>J3….</DegiskenKodu>
+    <DegiskenAciklama>Değişken seti: Sipariş başlık tanımlarının 3. kolonu (max.99 satır, 01….99)</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>153</DegiskenNo>
+    <DegiskenKodu>J4….</DegiskenKodu>
+    <DegiskenAciklama>Değişken seti: Sipariş başlık tanımlarının 4. kolonu (max.99 satır, 01….99)</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>154</DegiskenNo>
+    <DegiskenKodu>J5…. </DegiskenKodu>
+    <DegiskenAciklama>Değişken seti: Sipariş başlık tanımlarının 5. kolonu (max.99 satır, 01….99)</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>155</DegiskenNo>
+    <DegiskenKodu>J6…. </DegiskenKodu>
+    <DegiskenAciklama>Değişken seti: Sipariş başlık tanımlarının 6. kolonu (max.99 satır, 01….99)</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>156</DegiskenNo>
+    <DegiskenKodu>J7…. </DegiskenKodu>
+    <DegiskenAciklama>Değişken seti: Sipariş başlık tanımlarının 7. kolonu (max.99 satır, 01….99)</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>157</DegiskenNo>
+    <DegiskenKodu>J8…. </DegiskenKodu>
+    <DegiskenAciklama>Değişken seti: Sipariş başlık tanımlarının 8. kolonu (max.99 satır, 01….99)</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>158</DegiskenNo>
+    <DegiskenKodu>J9…. </DegiskenKodu>
+    <DegiskenAciklama>Değişken seti: Sipariş başlık tanımlarının 9. kolonu (max.99 satır, 01….99)</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>159</DegiskenNo>
+    <DegiskenKodu>U1….</DegiskenKodu>
+    <DegiskenAciklama>Değişken seti: Sipariş başlık tanımlarının 10. kolonu (max.99 satır, 01….99)</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>160</DegiskenNo>
+    <DegiskenKodu>U2….</DegiskenKodu>
+    <DegiskenAciklama>Değişken seti: Sipariş başlık tanımlarının 11. kolonu (max.99 satır, 01….99)</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>161</DegiskenNo>
+    <DegiskenKodu>U3….</DegiskenKodu>
+    <DegiskenAciklama>Değişken seti: Sipariş başlık tanımlarının 12. kolonu (max.99 satır, 01….99)</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>162</DegiskenNo>
+    <DegiskenKodu>U4….</DegiskenKodu>
+    <DegiskenAciklama>Değişken seti: Sipariş başlık tanımlarının 13. kolonu (max.99 satır, 01….99)</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>163</DegiskenNo>
+    <DegiskenKodu>U5….</DegiskenKodu>
+    <DegiskenAciklama>Değişken seti: Sipariş başlık tanımlarının 14. kolonu (max.99 satır, 01….99)</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>164</DegiskenNo>
+    <DegiskenKodu>U6….</DegiskenKodu>
+    <DegiskenAciklama>Değişken seti: Sipariş başlık tanımlarının 15. kolonu (max.99 satır, 01….99)</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>165</DegiskenNo>
+    <DegiskenKodu>U7….</DegiskenKodu>
+    <DegiskenAciklama>Değişken seti: Sipariş başlık tanımlarının 16. kolonu (max.99 satır, 01….99)</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>166</DegiskenNo>
+    <DegiskenKodu>U8….</DegiskenKodu>
+    <DegiskenAciklama>Değişken seti: Sipariş başlık tanımlarının 17. kolonu (max.99 satır, 01….99)</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>167</DegiskenNo>
+    <DegiskenKodu>U9….</DegiskenKodu>
+    <DegiskenAciklama>Değişken seti: Sipariş başlık tanımlarının 18. kolonu (max.99 satır, 01….99)</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>168</DegiskenNo>
+    <DegiskenKodu>KNS</DegiskenKodu>
+    <DegiskenAciklama>Kalem sıra numarası</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>169</DegiskenNo>
+    <DegiskenKodu>PA(1-99)</DegiskenKodu>
+    <DegiskenAciklama>Kalem açıklaması</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>170</DegiskenNo>
+    <DegiskenKodu>NC(1-99)</DegiskenKodu>
+    <DegiskenAciklama>Navlun açıklaması </DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>171</DegiskenNo>
+    <DegiskenKodu>KD(1-99)</DegiskenKodu>
+    <DegiskenAciklama>KDV oranları</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>172</DegiskenNo>
+    <DegiskenKodu>YK(1-99)</DegiskenKodu>
+    <DegiskenAciklama>KDV oranları</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>173</DegiskenNo>
+    <DegiskenKodu>TU(1-99)</DegiskenKodu>
+    <DegiskenAciklama>orj + dvz + tutar</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>174</DegiskenNo>
+    <DegiskenKodu>GG</DegiskenKodu>
+    <DegiskenAciklama>orj + dvz + tutar</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>175</DegiskenNo>
+    <DegiskenKodu>BA</DegiskenKodu>
+    <DegiskenAciklama>fat.dvz cinsinden tutar</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>176</DegiskenNo>
+    <DegiskenKodu>BT1-99</DegiskenKodu>
+    <DegiskenAciklama>kalem birim tutarı</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>177</DegiskenNo>
+    <DegiskenKodu>MK</DegiskenKodu>
+    <DegiskenAciklama>kalem miktarı</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>178</DegiskenNo>
+    <DegiskenKodu>IT</DegiskenKodu>
+    <DegiskenAciklama>irsaliye tarihi</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>179</DegiskenNo>
+    <DegiskenKodu>IR</DegiskenKodu>
+    <DegiskenAciklama>irsaliye numarası</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>180</DegiskenNo>
+    <DegiskenKodu>OL</DegiskenKodu>
+    <DegiskenAciklama>BEKD özel kod</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>181</DegiskenNo>
+    <DegiskenKodu>BS(99)</DegiskenKodu>
+    <DegiskenAciklama>KALEM SAYISI</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>182</DegiskenNo>
+    <DegiskenKodu>OT(1-99)</DegiskenKodu>
+    <DegiskenAciklama>birimmiktarı x birim</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>183</DegiskenNo>
+    <DegiskenKodu>KAT</DegiskenKodu>
+    <DegiskenAciklama>Konteyner adedi x tipi (1x40'DV + 1x20'DV)</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>184</DegiskenNo>
+    <DegiskenKodu>TP2</DegiskenKodu>
+    <DegiskenAciklama>Konteyner adedi x tipi (1x40'DV + 1x20'DV)+ FCL VEYA LCL</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>185</DegiskenNo>
+    <DegiskenKodu>GMY</DegiskenKodu>
+    <DegiskenAciklama>Yükteki geliş gümrüğü</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>186</DegiskenNo>
+    <DegiskenKodu>QAE</DegiskenKodu>
+    <DegiskenAciklama>Pozisyon üzerindeki Yurt içi gemi acententesini basıyor </DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>187</DegiskenNo>
+    <DegiskenKodu>UPY</DegiskenKodu>
+    <DegiskenAciklama>Uzun pozisyon numarası(Programlı evrak'a bağlantılı olarak tanımlanan HTML evraka yazılmalı) </DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>188</DegiskenNo>
+    <DegiskenKodu>YBM</DegiskenKodu>
+    <DegiskenAciklama>Yükteki yabancı mal adı</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>189</DegiskenNo>
+    <DegiskenKodu>IDR</DegiskenKodu>
+    <DegiskenAciklama>IMO tescil no (gemi tanımlarında bulunan)</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>190</DegiskenNo>
+    <DegiskenKodu>AYL</DegiskenKodu>
+    <DegiskenAciklama>Gemi yapım yılı</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>191</DegiskenNo>
+    <DegiskenKodu>GTP</DegiskenKodu>
+    <DegiskenAciklama>Gemi Tipi</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>192</DegiskenNo>
+    <DegiskenKodu>GKP</DegiskenKodu>
+    <DegiskenAciklama>Gemi kapasite</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>193</DegiskenNo>
+    <DegiskenKodu>RNO</DegiskenKodu>
+    <DegiskenAciklama>Revizyon numarası(40 nolu evrak parametre değeri E olmalı,bu parametre değerininözel 1 alanında revizyon nosu yazılmalı) </DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>194</DegiskenNo>
+    <DegiskenKodu>RTH </DegiskenKodu>
+    <DegiskenAciklama>Revizyon tarihi  (40 nolu evrak parametre değeri E olmalı,bu parametre değerininözel 2 alanında revizyon tarihi yazılmal)</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>195</DegiskenNo>
+    <DegiskenKodu>TEF </DegiskenKodu>
+    <DegiskenAciklama>Yükteki temsilci adı </DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>196</DegiskenNo>
+    <DegiskenKodu>TEK</DegiskenKodu>
+    <DegiskenAciklama>Yükteki temsilci kodu </DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>197</DegiskenNo>
+    <DegiskenKodu>ISF</DegiskenKodu>
+    <DegiskenAciklama>Yükteki İşveren adı</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>198</DegiskenNo>
+    <DegiskenKodu>ISK</DegiskenKodu>
+    <DegiskenAciklama>Yükteki İşveren kodu</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>199</DegiskenNo>
+    <DegiskenKodu>IV1(1-5)</DegiskenKodu>
+    <DegiskenAciklama>Yükteki işverenin( IV1 : Ad+ Ünvan;  IV2,3,4 : Adres1,2,3 ; IV5 : Tel No, IV6 : Fax No)</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>200</DegiskenNo>
+    <DegiskenKodu>ETA </DegiskenKodu>
+    <DegiskenAciklama>Evrak teslim edilen kişi</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>201</DegiskenNo>
+    <DegiskenKodu>ETT</DegiskenKodu>
+    <DegiskenAciklama>Evrak teslim etme tarihi </DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>202</DegiskenNo>
+    <DegiskenKodu>ETS</DegiskenKodu>
+    <DegiskenAciklama>Evrak teslim etme saati</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>203</DegiskenNo>
+    <DegiskenKodu>TA1…7</DegiskenKodu>
+    <DegiskenAciklama>İni parametrelerindeki evrak başlığı altındaki adres bilgisi </DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>204</DegiskenNo>
+    <DegiskenKodu>BQ1...99</DegiskenKodu>
+    <DegiskenAciklama>Yükteki HBL numarası</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>205</DegiskenNo>
+    <DegiskenKodu>AGB</DegiskenKodu>
+    <DegiskenAciklama>Aktarma Gemisi Bayrağı</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>206</DegiskenNo>
+    <DegiskenKodu>AGY</DegiskenKodu>
+    <DegiskenAciklama>Aktarma Gemisi Yapım Yılı</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>207</DegiskenNo>
+    <DegiskenKodu>AGS</DegiskenKodu>
+    <DegiskenAciklama>Aktarma Gemisi Sefer No.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>208</DegiskenNo>
+    <DegiskenKodu>AGI</DegiskenKodu>
+    <DegiskenAciklama>Aktarma Gemisi IMO nosu</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>209</DegiskenNo>
+    <DegiskenKodu>B41...B4.. </DegiskenKodu>
+    <DegiskenAciklama>Pozisyona ait tüm kalemlerin kalem adını basan değişken seti</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>210</DegiskenNo>
+    <DegiskenKodu>B51…B5..</DegiskenKodu>
+    <DegiskenAciklama>Pozisyona ait tüm kalemlerin tutalarını basan değişken seti </DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>211</DegiskenNo>
+    <DegiskenKodu>Y51…Y5..</DegiskenKodu>
+    <DegiskenAciklama>Yüke ait kalemlerin orijinal tutalarını basan değişken seti </DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>212</DegiskenNo>
+    <DegiskenKodu>Y51…Y5..</DegiskenKodu>
+    <DegiskenAciklama>Yüke ait kalemlerin durum bilgısini (*’lı ,+’lı),Kalem uzun adını  basan değişken seti </DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>213</DegiskenNo>
+    <DegiskenKodu>Y61…Y6..</DegiskenKodu>
+    <DegiskenAciklama>Yüke ait kalemlerin döviz kodunu basan değişken seti </DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>214</DegiskenNo>
+    <DegiskenKodu>Y71...Y7..</DegiskenKodu>
+    <DegiskenAciklama>Yüke ait kalemlerin Kdv tutarı </DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>215</DegiskenNo>
+    <DegiskenKodu>Y81..Y8..</DegiskenKodu>
+    <DegiskenAciklama>Yüke ait kalemlerin referans tutar cinsinden değeri </DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>216</DegiskenNo>
+    <DegiskenKodu>TV</DegiskenKodu>
+    <DegiskenAciklama>Kalem orj.tutarların birim fiyatı </DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>217</DegiskenNo>
+    <DegiskenKodu>XV1.XV99</DegiskenKodu>
+    <DegiskenAciklama>Kalem orj.tutarların miktarı </DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>218</DegiskenNo>
+    <DegiskenKodu>ATH</DegiskenKodu>
+    <DegiskenAciklama>Yük detayı &gt; Rezervasyon bilgisi ekranındaki "Adresten Reslim alma tarihi" </DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>219</DegiskenNo>
+    <DegiskenKodu>TV1..</DegiskenKodu>
+    <DegiskenAciklama>BU1 - BG1 değişkenleri ile kalem ismi ve tutarını evrak üzerinde kullanıyorum, bu gelen orj.tutarların birim fiyat </DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>220</DegiskenNo>
+    <DegiskenKodu>XV1…</DegiskenKodu>
+    <DegiskenAciklama>BU1 - BG1 değişkenleri ile kalem ismi ve tutarını evrak üzerinde kullanıyorum, bu gelen orj.tutarların birim miktarı </DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>221</DegiskenNo>
+    <DegiskenKodu>SVT</DegiskenKodu>
+    <DegiskenAciklama>Yükteki müşterinin ödeme süresi</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>222</DegiskenNo>
+    <DegiskenKodu>MXT</DegiskenKodu>
+    <DegiskenAciklama>Satış Temsilcisi</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>223</DegiskenNo>
+    <DegiskenKodu>MTV</DegiskenKodu>
+    <DegiskenAciklama>Müşteri Temsilcisi </DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>224</DegiskenNo>
+    <DegiskenKodu>SVD</DegiskenKodu>
+    <DegiskenAciklama>Yükteki müşterinin cari tipi</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>225</DegiskenNo>
+    <DegiskenKodu>CZT</DegiskenKodu>
+    <DegiskenAciklama>ODG gibi çalışan cari tip basan değişken</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>226</DegiskenNo>
+    <DegiskenKodu>OLM</DegiskenKodu>
+    <DegiskenAciklama>Cari tipin adını basan değişken</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>227</DegiskenNo>
+    <DegiskenKodu>CV1…</DegiskenKodu>
+    <DegiskenAciklama>Evrakın düzenlendiği firmanın cari bakiyesini basan değişken</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>228</DegiskenNo>
+    <DegiskenKodu>JK1</DegiskenKodu>
+    <DegiskenAciklama>Faturanın kesildiği firma adı ve ünvanı</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>229</DegiskenNo>
+    <DegiskenKodu>JK2,JK3,JK4</DegiskenKodu>
+    <DegiskenAciklama>Fatura kesilen firmanın adres bilgileri</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>230</DegiskenNo>
+    <DegiskenKodu>TN1…</DegiskenKodu>
+    <DegiskenAciklama>O yükteki evrak kesilen firmaya ait fatura nolar</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>231</DegiskenNo>
+    <DegiskenKodu>EV1…</DegiskenKodu>
+    <DegiskenAciklama>O yükteki evrak kesilen firmaya ait fatura tarihleri</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>232</DegiskenNo>
+    <DegiskenKodu>ATM</DegiskenKodu>
+    <DegiskenAciklama>Karayolu cmr ücret kodu</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>233</DegiskenNo>
+    <DegiskenKodu>NOM </DegiskenKodu>
+    <DegiskenAciklama>Yük içerisindeki nominasyon alanını basan değişken</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>234</DegiskenNo>
+    <DegiskenKodu>MXP</DegiskenKodu>
+    <DegiskenAciklama>Deniz için pazarlama temsilcisi </DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>235</DegiskenNo>
+    <DegiskenKodu>MTX</DegiskenKodu>
+    <DegiskenAciklama>Deniz için müşteri temsilcisi </DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>236</DegiskenNo>
+    <DegiskenKodu>SVM</DegiskenKodu>
+    <DegiskenAciklama>Yurtiçi Gemi Acentesinin cari tipini basan değişken </DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>237</DegiskenNo>
+    <DegiskenKodu>SVK</DegiskenKodu>
+    <DegiskenAciklama>Yurtiçi Gemi Acentesinin Ödeme Süresini basan değişken </DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>238</DegiskenNo>
+    <DegiskenKodu>AW1..</DegiskenKodu>
+    <DegiskenAciklama>Firma antet bilgisi  </DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>239</DegiskenNo>
+    <DegiskenKodu>TPK</DegiskenKodu>
+    <DegiskenAciklama>Konteyner tip ve adetlerini 3x40'DC+1x20'DV+… şeklinde basan değişken.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>240</DegiskenNo>
+    <DegiskenKodu>MNE</DegiskenKodu>
+    <DegiskenAciklama>Notify1 E-Posta </DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>241</DegiskenNo>
+    <DegiskenKodu>MNP</DegiskenKodu>
+    <DegiskenAciklama>Notify2 E-Posta </DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>242</DegiskenNo>
+    <DegiskenKodu>MNT</DegiskenKodu>
+    <DegiskenAciklama>Notify1 Tel</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>243</DegiskenNo>
+    <DegiskenKodu>MNF</DegiskenKodu>
+    <DegiskenAciklama>Nofify1 Fax</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>244</DegiskenNo>
+    <DegiskenKodu>MNG</DegiskenKodu>
+    <DegiskenAciklama>Notify2 Tel </DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>245</DegiskenNo>
+    <DegiskenKodu>MNS</DegiskenKodu>
+    <DegiskenAciklama>Nofify2 Fax</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>246</DegiskenNo>
+    <DegiskenKodu>SUB </DegiskenKodu>
+    <DegiskenAciklama>Deniz ve Hat Acenteciliği modüllerinde yükün şubesinin adını basan değişken</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>247</DegiskenNo>
+    <DegiskenKodu>GQZ</DegiskenKodu>
+    <DegiskenAciklama>Deniz ithalat -&gt; Diğer bil.-&gt; Rezervasyon bil. -&gt; Gerçekleşen teslim tarihini basan değişken</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>248</DegiskenNo>
+    <DegiskenKodu>TAT</DegiskenKodu>
+    <DegiskenAciklama>Deniz ihracat -&gt; Diğer bil.-&gt; Rezervasyon bil.-&gt;Alıcı teslim tarihini basan değişken </DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>249</DegiskenNo>
+    <DegiskenKodu>HRN</DegiskenKodu>
+    <DegiskenAciklama>Deniz ihracat yük içerisinde Diğer bilgiler alanının altında Detay bilgilerin içinde Hat Rezervasyon numarasını basan değişken </DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>250</DegiskenNo>
+    <DegiskenKodu>GKM</DegiskenKodu>
+    <DegiskenAciklama>Deniz ihracat yükün rez.bilgileri ekranında bulunan Gemi kapama tarihi alanı</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>251</DegiskenNo>
+    <DegiskenKodu>KPS</DegiskenKodu>
+    <DegiskenAciklama>Deniz ihracat yükün rez.bilgileri ekranında bulunan Gemi kapama saati alanı</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>252</DegiskenNo>
+    <DegiskenKodu>GQZ</DegiskenKodu>
+    <DegiskenAciklama>Deniz ihracat yükün rez.bilgileri ekranında bulunan Gerçekleşen Teslim tarihi alanı</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>253</DegiskenNo>
+    <DegiskenKodu>CTR</DegiskenKodu>
+    <DegiskenAciklama>Muhtemel Kalkış Tarihi / Rezervasyon ekranındakini @@MUT basıyor</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>254</DegiskenNo>
+    <DegiskenKodu>SUB</DegiskenKodu>
+    <DegiskenAciklama>Deniz ve Hat Acenteciliği modüllerinde yükün şubesinin adını basan değişken</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>255</DegiskenNo>
+    <DegiskenKodu>KTR</DegiskenKodu>
+    <DegiskenAciklama>Yük diğer bilgileri öngörülen yükleme tarihi </DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>256</DegiskenNo>
+    <DegiskenKodu>PM -10</DegiskenKodu>
+    <DegiskenAciklama>Mühür no.su </DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>257</DegiskenNo>
+    <DegiskenKodu>PB -10</DegiskenKodu>
+    <DegiskenAciklama>Koli Ağırılığı </DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>258</DegiskenNo>
+    <DegiskenKodu>PN -10</DegiskenKodu>
+    <DegiskenAciklama>Konteyner No.su </DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>259</DegiskenNo>
+    <DegiskenKodu>QAG</DegiskenKodu>
+    <DegiskenAciklama>Pozisyon yurtiçi Gemi acentesini basan değişken</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>260</DegiskenNo>
+    <DegiskenKodu>QW01..9</DegiskenKodu>
+    <DegiskenAciklama>Konteyner tipi</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>261</DegiskenNo>
+    <DegiskenKodu>AMU</DegiskenKodu>
+    <DegiskenAciklama>Firma kartında özelleşen bilgilerdeki müşteri asistanı</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>262</DegiskenNo>
+    <DegiskenKodu>NO2</DegiskenKodu>
+    <DegiskenAciklama>Yükün içindeki Notify2 alanı dolu ise "NOTIFY 2:" başlığını yazacak değişken</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>263</DegiskenNo>
+    <DegiskenKodu>QAD</DegiskenKodu>
+    <DegiskenAciklama>Rezervasyon ve yük ekranındaki toplam kap adetini basan değişken</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>264</DegiskenNo>
+    <DegiskenKodu>MUS</DegiskenKodu>
+    <DegiskenAciklama>Müşteri adı </DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>265</DegiskenNo>
+    <DegiskenKodu>FM1 -FM6</DegiskenKodu>
+    <DegiskenAciklama>Müşteri adres ,telefon ,fax no </DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>266</DegiskenNo>
+    <DegiskenKodu>YNO</DegiskenKodu>
+    <DegiskenAciklama>Yük Numarası</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>267</DegiskenNo>
+    <DegiskenKodu>PRK</DegiskenKodu>
+    <DegiskenAciklama>Pozisyon diğer bilgiler konşimento adet / suret</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>268</DegiskenNo>
+    <DegiskenKodu>GNU</DegiskenKodu>
+    <DegiskenAciklama>Göndericinin ülke adını basan değişken</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>269</DegiskenNo>
+    <DegiskenKodu>QBY</DegiskenKodu>
+    <DegiskenAciklama>Eğer aktarma gemisi var ise aktarma gemisinin yoksa yükleme gemisinin gemi bayrağını basan değişken</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>270</DegiskenNo>
+    <DegiskenKodu>SAN</DegiskenKodu>
+    <DegiskenAciklama>Ara konşimento (HAWB) ekranında Shipper’s Account No alanını basan değişken</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>271</DegiskenNo>
+    <DegiskenKodu>KAN</DegiskenKodu>
+    <DegiskenAciklama>Consignee’s Account No alanını basan değişken </DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>272</DegiskenNo>
+    <DegiskenKodu>FR1,FR2....FR20 </DegiskenKodu>
+    <DegiskenAciklama>Fatura kesilen firma alanında hangi firma yazıyorsa o firmaya ait masrafların varış ihbarı evrağına çıkması için değişken seti yapılmıştır</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>273</DegiskenNo>
+    <DegiskenKodu>KI1….99</DegiskenKodu>
+    <DegiskenAciklama>Rezervasyon Oto_Koli Bilgileri ekranında model kodu</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>274</DegiskenNo>
+    <DegiskenKodu>JJ1….99</DegiskenKodu>
+    <DegiskenAciklama>Rezervasyon Oto_Koli Bilgileri ekranında model adı</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>275</DegiskenNo>
+    <DegiskenKodu>QZ1…..99</DegiskenKodu>
+    <DegiskenAciklama>Rezervasyon Oto_Koli Bilgileri ekranındaki şasi numarası bilgisi</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>276</DegiskenNo>
+    <DegiskenKodu>QX1….99</DegiskenKodu>
+    <DegiskenAciklama>Rezervasyon Oto_Koli Bilgileri ekranındaki marka bilgisi</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>277</DegiskenNo>
+    <DegiskenKodu>OP1..99</DegiskenKodu>
+    <DegiskenAciklama>Genel Proje Yönetimi\Deniz için oto bilgileri ekranındaki otopark no.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>278</DegiskenNo>
+    <DegiskenKodu>ZO1..99</DegiskenKodu>
+    <DegiskenAciklama>Genel Proje Yönetimi\Deniz için oto bilgileri ekranındaki oto fiyatı</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>279</DegiskenNo>
+    <DegiskenKodu>HZ1.99</DegiskenKodu>
+    <DegiskenAciklama>Gtip no.larını basan değişken seti</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>280</DegiskenNo>
+    <DegiskenKodu>TP5</DegiskenKodu>
+    <DegiskenAciklama>pozisyon üzerindeki toplam bilgilerde bulunan konteyner bilgilerini basan</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>281</DegiskenNo>
+    <DegiskenKodu>QTL</DegiskenKodu>
+    <DegiskenAciklama>Y.İçi gemi acentesinin telefonu</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>282</DegiskenNo>
+    <DegiskenKodu>QFA</DegiskenKodu>
+    <DegiskenAciklama>Y.İçi gemi acentesinin faksı</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>283</DegiskenNo>
+    <DegiskenKodu>SGM</DegiskenKodu>
+    <DegiskenAciklama>Pozisyonda  aktarma gemisi var ise aktarma gemisi,yükleme gemisi var ise yük gemisini basar.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>284</DegiskenNo>
+    <DegiskenKodu>SGS</DegiskenKodu>
+    <DegiskenAciklama>Pozisyonda  aktarma gemisi sefer no.su var ise aktarma gemisi sefer no.su,yükleme gemisi sefer no su  var ise yük gemisi sefer no.sunu  basar.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>285</DegiskenNo>
+    <DegiskenKodu>MBE</DegiskenKodu>
+    <DegiskenAciklama>İthalat ve ihracat Yükteki mal bedeli</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>286</DegiskenNo>
+    <DegiskenKodu>MBD</DegiskenKodu>
+    <DegiskenAciklama>İthalat ve ihracat Yükteki mal bedeli dövizi</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>287</DegiskenNo>
+    <DegiskenKodu>AY2</DegiskenKodu>
+    <DegiskenAciklama>Denizyolu İhracat ve İthalat Pozisyon bilgilerindeki yükleme gemisinin gemi tanımlarındaki yapım yılı</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>288</DegiskenNo>
+    <DegiskenKodu>SPO</DegiskenKodu>
+    <DegiskenAciklama>Sipariş Numarası</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>289</DegiskenNo>
+    <DegiskenKodu>RZO</DegiskenKodu>
+    <DegiskenAciklama>Ön görülen yükleme tarihi </DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>290</DegiskenNo>
+    <DegiskenKodu>OTY</DegiskenKodu>
+    <DegiskenAciklama>Döneceği depo ( Deniz ith. Rezervasyon bilgileri)</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>291</DegiskenNo>
+    <DegiskenKodu>OTF</DegiskenKodu>
+    <DegiskenAciklama>Denizyolu Yük Bilgileri - Rezervasyon Bilgileri Ön Taşıma Firması</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>292</DegiskenNo>
+    <DegiskenKodu>ODG</DegiskenKodu>
+    <DegiskenAciklama>ödeme günü</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>293</DegiskenNo>
+    <DegiskenKodu>CZT</DegiskenKodu>
+    <DegiskenAciklama>Cari Tipi</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>294</DegiskenNo>
+    <DegiskenKodu>MYT</DegiskenKodu>
+    <DegiskenAciklama>rezervasyon ekranındaki kalkış tarihi</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>295</DegiskenNo>
+    <DegiskenKodu>AVN</DegiskenKodu>
+    <DegiskenAciklama>Alıcı Vergi Numarası Basar</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>296</DegiskenNo>
+    <DegiskenKodu>AVD</DegiskenKodu>
+    <DegiskenAciklama>Alıcı Vergi Dairesi Basar</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>297</DegiskenNo>
+    <DegiskenKodu>YGE</DegiskenKodu>
+    <DegiskenAciklama>Yurt içi Gemi Acentesi Emailini Basar</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>298</DegiskenNo>
+    <DegiskenKodu>VTR</DegiskenKodu>
+    <DegiskenAciklama>Yük üzerindeki varış tarihi bilgisini basar.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>299</DegiskenNo>
+    <DegiskenKodu>TF8</DegiskenKodu>
+    <DegiskenAciklama>Pozisyon ekranındaki tahliye limanı bilgisini basar.</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>300</DegiskenNo>
+    <DegiskenKodu>AL1-AL4</DegiskenKodu>
+    <DegiskenAciklama>Yük ekranındaki alıcının firma kartındaki fatura adresini basar. </DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>301</DegiskenNo>
+    <DegiskenKodu>NF7-NF10</DegiskenKodu>
+    <DegiskenAciklama>Yük ekranındaki notify1 alanındaki firmanın fatura adresini basar. </DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>302</DegiskenNo>
+    <DegiskenKodu>BY1</DegiskenKodu>
+    <DegiskenAciklama> CIF – ORIGIN *** FOB  – DESTINATION basan değişken</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>2143</DegiskenNo>
+    <DegiskenKodu>OTY</DegiskenKodu>
+    <DegiskenAciklama>Yük Rezervasyon Ekranındaki Konteynerin Alınacağı Yer</DegiskenAciklama>
+    <DegiskenModul>Deniz</DegiskenModul>
+  </Degisken>
+</Degiskenler>

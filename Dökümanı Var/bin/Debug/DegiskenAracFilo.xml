@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Degiskenler>
+  <Degisken>
+    <DegiskenNo>0</DegiskenNo>
+    <DegiskenKodu>SOZ_CARI_ADIUNV</DegiskenKodu>
+    <DegiskenAciklama>Cari Adı + Ünvanı</DegiskenAciklama>
+    <DegiskenModul>AraçFilo_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>1</DegiskenNo>
+    <DegiskenKodu>SOZ_CARI_ADR</DegiskenKodu>
+    <DegiskenAciklama>Cari Adresi</DegiskenAciklama>
+    <DegiskenModul>AraçFilo_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>2</DegiskenNo>
+    <DegiskenKodu>SOZ_BAS_TRH</DegiskenKodu>
+    <DegiskenAciklama>Sözleşme Başlangıç Tarihi</DegiskenAciklama>
+    <DegiskenModul>AraçFilo_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>3</DegiskenNo>
+    <DegiskenKodu>SOZ_ARAC_SAYI</DegiskenKodu>
+    <DegiskenAciklama>Sözleşme Araç Toplamı</DegiskenAciklama>
+    <DegiskenModul>AraçFilo_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>4</DegiskenNo>
+    <DegiskenKodu>SOZ_TES_TRH</DegiskenKodu>
+    <DegiskenAciklama>Araç Teslim Tarihi</DegiskenAciklama>
+    <DegiskenModul>AraçFilo_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>5</DegiskenNo>
+    <DegiskenKodu>SOZ_VADE</DegiskenKodu>
+    <DegiskenAciklama>Sözleşme vadesi</DegiskenAciklama>
+    <DegiskenModul>AraçFilo_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>6</DegiskenNo>
+    <DegiskenKodu>SOZ_BIT_TRH</DegiskenKodu>
+    <DegiskenAciklama>Sözleşme Bitiş Tarihi</DegiskenAciklama>
+    <DegiskenModul>AraçFilo_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>7</DegiskenNo>
+    <DegiskenKodu>SOZ_KMSINIR</DegiskenKodu>
+    <DegiskenAciklama>KM sınırı</DegiskenAciklama>
+    <DegiskenModul>AraçFilo_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>8</DegiskenNo>
+    <DegiskenKodu>SOZ_KMASIM</DegiskenKodu>
+    <DegiskenAciklama>KM Başına Tutar</DegiskenAciklama>
+    <DegiskenModul>AraçFilo_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>9</DegiskenNo>
+    <DegiskenKodu>SOZ_BEDEL</DegiskenKodu>
+    <DegiskenAciklama>Toplam Sözleşme Bedeli</DegiskenAciklama>
+    <DegiskenModul>AraçFilo_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>10</DegiskenNo>
+    <DegiskenKodu>SOZ_ODSURE</DegiskenKodu>
+    <DegiskenAciklama>Sözleşme Ödeme Süresi</DegiskenAciklama>
+    <DegiskenModul>AraçFilo_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>11</DegiskenNo>
+    <DegiskenKodu>SOZ_FATGUN</DegiskenKodu>
+    <DegiskenAciklama>Fatura Kesilecek Gün</DegiskenAciklama>
+    <DegiskenModul>AraçFilo_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>12</DegiskenNo>
+    <DegiskenKodu>SOZ_KURTP</DegiskenKodu>
+    <DegiskenAciklama>Fatura Kur Tipi</DegiskenAciklama>
+    <DegiskenModul>AraçFilo_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>13</DegiskenNo>
+    <DegiskenKodu>SOZ_BNK</DegiskenKodu>
+    <DegiskenAciklama>Sözleşme Bankası</DegiskenAciklama>
+    <DegiskenModul>AraçFilo_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>14</DegiskenNo>
+    <DegiskenKodu>SOZ_BNK_SUBE</DegiskenKodu>
+    <DegiskenAciklama>Sözleşme Banka Şubesi</DegiskenAciklama>
+    <DegiskenModul>AraçFilo_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>15</DegiskenNo>
+    <DegiskenKodu>SOZ_BNK_HSP</DegiskenKodu>
+    <DegiskenAciklama>Sözleşme Banka Hesabı </DegiskenAciklama>
+    <DegiskenModul>AraçFilo_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>16</DegiskenNo>
+    <DegiskenKodu>SOZ_LASTIKKM</DegiskenKodu>
+    <DegiskenAciklama>Sözleşme Lastik Değişim KM </DegiskenAciklama>
+    <DegiskenModul>AraçFilo_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>17</DegiskenNo>
+    <DegiskenKodu>SOZ_IADE_TRH</DegiskenKodu>
+    <DegiskenAciklama>Sözleşme Araç İade Tarihi</DegiskenAciklama>
+    <DegiskenModul>AraçFilo_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>18</DegiskenNo>
+    <DegiskenKodu>SOZ_IMZATRH</DegiskenKodu>
+    <DegiskenAciklama>Sözleşme İmza Tarihi</DegiskenAciklama>
+    <DegiskenModul>AraçFilo_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>19</DegiskenNo>
+    <DegiskenKodu>SOZ_KBEDEL</DegiskenKodu>
+    <DegiskenAciklama>Araç Kira Bedeli</DegiskenAciklama>
+    <DegiskenModul>AraçFilo_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>20</DegiskenNo>
+    <DegiskenKodu>SOZ_ARAC</DegiskenKodu>
+    <DegiskenAciklama>Sözleşme Araçları</DegiskenAciklama>
+    <DegiskenModul>AraçFilo_Bookmark</DegiskenModul>
+  </Degisken>
+</Degiskenler>

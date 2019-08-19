@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Degiskenler>
+  <Degisken>
+    <DegiskenNo>0</DegiskenNo>
+    <DegiskenKodu>M02</DegiskenKodu>
+    <DegiskenAciklama>Hareket tarihi</DegiskenAciklama>
+    <DegiskenModul>Ambar_Barkod</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>1</DegiskenNo>
+    <DegiskenKodu>M03</DegiskenKodu>
+    <DegiskenAciklama>Hareket No</DegiskenAciklama>
+    <DegiskenModul>Ambar_Barkod</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>2</DegiskenNo>
+    <DegiskenKodu>M04</DegiskenKodu>
+    <DegiskenAciklama>Hareket Sıra</DegiskenAciklama>
+    <DegiskenModul>Ambar_Barkod</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>3</DegiskenNo>
+    <DegiskenKodu>M05</DegiskenKodu>
+    <DegiskenAciklama>Malzeme Birimi</DegiskenAciklama>
+    <DegiskenModul>Ambar_Barkod</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>4</DegiskenNo>
+    <DegiskenKodu>M06</DegiskenKodu>
+    <DegiskenAciklama>Miktar</DegiskenAciklama>
+    <DegiskenModul>Ambar_Barkod</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>5</DegiskenNo>
+    <DegiskenKodu>M07</DegiskenKodu>
+    <DegiskenAciklama>Malzeme Kodu</DegiskenAciklama>
+    <DegiskenModul>Ambar_Barkod</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>6</DegiskenNo>
+    <DegiskenKodu>M08</DegiskenKodu>
+    <DegiskenAciklama>Malzeme Adı</DegiskenAciklama>
+    <DegiskenModul>Ambar_Barkod</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>7</DegiskenNo>
+    <DegiskenKodu>M09</DegiskenKodu>
+    <DegiskenAciklama>Ambar Adı , Palet No</DegiskenAciklama>
+    <DegiskenModul>Ambar_Barkod</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>8</DegiskenNo>
+    <DegiskenKodu>M10</DegiskenKodu>
+    <DegiskenAciklama>Sipariş Tarihi , üretim tarihi</DegiskenAciklama>
+    <DegiskenModul>Ambar_Barkod</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>9</DegiskenNo>
+    <DegiskenKodu>M12</DegiskenKodu>
+    <DegiskenAciklama>Sevk / Teslim Cari adı</DegiskenAciklama>
+    <DegiskenModul>Ambar_Barkod</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>10</DegiskenNo>
+    <DegiskenKodu>M13</DegiskenKodu>
+    <DegiskenAciklama>Lojistik Hizmet Alan Firma Adı</DegiskenAciklama>
+    <DegiskenModul>Ambar_Barkod</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>11</DegiskenNo>
+    <DegiskenKodu>m14</DegiskenKodu>
+    <DegiskenAciklama>Lojistik Hizmet Alan Adres</DegiskenAciklama>
+    <DegiskenModul>Ambar_Barkod</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>12</DegiskenNo>
+    <DegiskenKodu>M15</DegiskenKodu>
+    <DegiskenAciklama>Parti No</DegiskenAciklama>
+    <DegiskenModul>Ambar_Barkod</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>13</DegiskenNo>
+    <DegiskenKodu>M21</DegiskenKodu>
+    <DegiskenAciklama>Ağırlık</DegiskenAciklama>
+    <DegiskenModul>Ambar_Barkod</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>14</DegiskenNo>
+    <DegiskenKodu>M22</DegiskenKodu>
+    <DegiskenAciklama>Hacim</DegiskenAciklama>
+    <DegiskenModul>Ambar_Barkod</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>15</DegiskenNo>
+    <DegiskenKodu>m23</DegiskenKodu>
+    <DegiskenAciklama>Koli içi</DegiskenAciklama>
+    <DegiskenModul>Ambar_Barkod</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>16</DegiskenNo>
+    <DegiskenKodu>M24 </DegiskenKodu>
+    <DegiskenAciklama>Seri No</DegiskenAciklama>
+    <DegiskenModul>Ambar_Barkod</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>17</DegiskenNo>
+    <DegiskenKodu>M25 </DegiskenKodu>
+    <DegiskenAciklama>Marka</DegiskenAciklama>
+    <DegiskenModul>Ambar_Barkod</DegiskenModul>
+  </Degisken>
+</Degiskenler>

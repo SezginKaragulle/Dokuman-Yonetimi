@@ -1,0 +1,1677 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Degiskenler>
+  <Degisken>
+    <DegiskenNo>0</DegiskenNo>
+    <DegiskenKodu>A2[1..9]</DegiskenKodu>
+    <DegiskenAciklama>Teslim bilgileri devamı</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>1</DegiskenNo>
+    <DegiskenKodu>AD[1..5]</DegiskenKodu>
+    <DegiskenAciklama>Alıcı firma ad + unvan + adres (Evrak türü "HIHB" ise)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>2</DegiskenNo>
+    <DegiskenKodu>AD[6..9]</DegiskenKodu>
+    <DegiskenAciklama>Gönderici unvan + adres (Evrak türü "HIHB" ise)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>3</DegiskenNo>
+    <DegiskenKodu>AD1</DegiskenKodu>
+    <DegiskenAciklama>Gönderen firma ünvanı</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>4</DegiskenNo>
+    <DegiskenKodu>AD2,3,4 </DegiskenKodu>
+    <DegiskenAciklama>Gönderen firma 1.,2. ve 3. adres satırı</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>5</DegiskenNo>
+    <DegiskenKodu>AD5,6,7,8</DegiskenKodu>
+    <DegiskenAciklama>Alıcı firma ünvan + adres (Pozisyondaki yurt dışı acente alanı boş ise ve pozisyona ait ilk yükteki banka alanı boş ise yükteki alıcı firma) </DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>6</DegiskenNo>
+    <DegiskenKodu>AD5,6,7,8</DegiskenKodu>
+    <DegiskenAciklama>Banka ünvan + adres (Pozisyondaki yurt dışı acente alanı boş ise ve pozisyona ait ilk yükteki banka alanı dolu ise yükteki banka alanları)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>7</DegiskenNo>
+    <DegiskenKodu>AD5,6,7,8</DegiskenKodu>
+    <DegiskenAciklama>Yurt dışı acente ünvan + adres (Pozisyondaki yurt dışı acente alanı dolu ise)   </DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>8</DegiskenNo>
+    <DegiskenKodu>AG[1..9]</DegiskenKodu>
+    <DegiskenAciklama>Koli ağırlığı (Koli bilgilerindeki, Gross Weight)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>9</DegiskenNo>
+    <DegiskenKodu>AGC</DegiskenKodu>
+    <DegiskenAciklama>Çıkış (kalkış) limanı adı (Pozisyondaki kalkış limanı)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>10</DegiskenNo>
+    <DegiskenKodu>AGC</DegiskenKodu>
+    <DegiskenAciklama>Manifesto tarihi (Evrak türü "HIHB" ise)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>11</DegiskenNo>
+    <DegiskenKodu>AGC</DegiskenKodu>
+    <DegiskenAciklama>Toplam parça sayısı (Yazı ile) (Evrak türü "HORD" ise)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>12</DegiskenNo>
+    <DegiskenKodu>AGN</DegiskenKodu>
+    <DegiskenAciklama>Hava gemisinin bayrağı (Evrak türü "HORD" ise)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>13</DegiskenNo>
+    <DegiskenKodu>AGN</DegiskenKodu>
+    <DegiskenAciklama>Konşimentoyu basan firma adı (3 numaralı şirket parametresinde yazan firma kodunda tanımlı firma adı)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>14</DegiskenNo>
+    <DegiskenKodu>AGN</DegiskenKodu>
+    <DegiskenAciklama>Varış limanı (Evrak türü "HIHB" ise)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>15</DegiskenNo>
+    <DegiskenKodu>AI1</DegiskenKodu>
+    <DegiskenAciklama>HAWB no (Pozisyona bağlı ilk yükün ara konşimento numarası)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>16</DegiskenNo>
+    <DegiskenKodu>AI1</DegiskenKodu>
+    <DegiskenAciklama>Türkçe mal adı (Evrak türü "HORD" ya da "HIHB" ise)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>17</DegiskenNo>
+    <DegiskenKodu>AI2</DegiskenKodu>
+    <DegiskenAciklama>Ödeme şekli adı (Pozisyondaki navlun ödeme şekli 'P' ise 'Freight Prepaid','C' ise 'Freight Collect')</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>18</DegiskenNo>
+    <DegiskenKodu>AI2</DegiskenKodu>
+    <DegiskenAciklama>Ödeme şekli kod + ad (Evrak türü "HIHB" ise)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>19</DegiskenNo>
+    <DegiskenKodu>AI3</DegiskenKodu>
+    <DegiskenAciklama>Döviz Kuru (1 USD = 545,000.00 TL şeklinde)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>20</DegiskenNo>
+    <DegiskenKodu>AI3</DegiskenKodu>
+    <DegiskenAciklama>Pozisyon numarası (Uzun) (Evrak türü "HIHB" ise)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>21</DegiskenNo>
+    <DegiskenKodu>AI3</DegiskenKodu>
+    <DegiskenAciklama>Türkçe mal adı (Evrak türü "HIHB" ise)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>22</DegiskenNo>
+    <DegiskenKodu>AI4</DegiskenKodu>
+    <DegiskenAciklama>Pozisyon numarası (Uzun)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>23</DegiskenNo>
+    <DegiskenKodu>AI4</DegiskenKodu>
+    <DegiskenAciklama>Pozisyon numarası (Uzun) + yük numarası (Evrak türü "HIHB" ise)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>24</DegiskenNo>
+    <DegiskenKodu>AI5</DegiskenKodu>
+    <DegiskenAciklama>*** YÜKÜNÜZ BANKA GARANTİLİDİR (Yükteki banka alanı dolu ise ve evrak türü "HIHB" ise)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>25</DegiskenNo>
+    <DegiskenKodu>AI5</DegiskenKodu>
+    <DegiskenAciklama>Havayolu firması özel kodu (Havayolu firma tanımlarındaki özel kod alanı)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>26</DegiskenNo>
+    <DegiskenKodu>AI6,7,8,9,10</DegiskenKodu>
+    <DegiskenAciklama>Boş</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>27</DegiskenNo>
+    <DegiskenKodu>AN[1..5]</DegiskenKodu>
+    <DegiskenAciklama>Aktarma sefer numaraları (Evrak türü "HORD" ise)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>28</DegiskenNo>
+    <DegiskenKodu>ANT</DegiskenKodu>
+    <DegiskenAciklama>Antet</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>29</DegiskenNo>
+    <DegiskenKodu>AR[1..5]</DegiskenKodu>
+    <DegiskenAciklama>Aktarma tarihleri (Evrak türü "HORD" ise)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>30</DegiskenNo>
+    <DegiskenKodu>ATT</DegiskenKodu>
+    <DegiskenAciklama>Bilgisine</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>31</DegiskenNo>
+    <DegiskenKodu>AWB</DegiskenKodu>
+    <DegiskenAciklama>MAWB No (Ana konşimento numarası)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>32</DegiskenNo>
+    <DegiskenKodu>AY[1..5]</DegiskenKodu>
+    <DegiskenAciklama>Aktarma yerleri (Evrak türü "HORD" ise)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>33</DegiskenNo>
+    <DegiskenKodu>BDV</DegiskenKodu>
+    <DegiskenAciklama>MAWB baskı dövizi</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>34</DegiskenNo>
+    <DegiskenKodu>BDV</DegiskenKodu>
+    <DegiskenAciklama>Navlun dövizi collect (Evrak türü "HIHB" ise)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>35</DegiskenNo>
+    <DegiskenKodu>BF1</DegiskenKodu>
+    <DegiskenAciklama>1.Aktarma firması (Pozisyondaki 1.Aktarma ve 2.Aktarma yeri dolu ise 2.Aktarma firması)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>36</DegiskenNo>
+    <DegiskenKodu>BF1</DegiskenKodu>
+    <DegiskenAciklama>1.Aktarma firması (Pozisyondaki 1.Aktarma yeri dolu 2.Aktarma yeri boş ise pozisyondaki havayolu firması) </DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>37</DegiskenNo>
+    <DegiskenKodu>BF2</DegiskenKodu>
+    <DegiskenAciklama>2.Aktarma firması (Pozisyondaki 1.Aktarma ve 2.Aktarma yeri dolu ise pozisyondaki havayolu firması)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>38</DegiskenNo>
+    <DegiskenKodu>BYR</DegiskenKodu>
+    <DegiskenAciklama>Baskı yeri (Ana konşimento düzenleme yeri)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>39</DegiskenNo>
+    <DegiskenKodu>BYR</DegiskenKodu>
+    <DegiskenAciklama>Karar numarası (Evrak türü "HORD" ise)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>40</DegiskenNo>
+    <DegiskenKodu>CCR</DegiskenKodu>
+    <DegiskenAciklama>Baskı dövizi ve baskı kuru (1 &lt;baskı dövizi&gt; = &lt;baskı kuru&gt; TL)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>41</DegiskenNo>
+    <DegiskenKodu>CCR</DegiskenKodu>
+    <DegiskenAciklama>Beklenen varış tarihi (Evrak türü "HIHB" ise)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>42</DegiskenNo>
+    <DegiskenKodu>CCR</DegiskenKodu>
+    <DegiskenAciklama>Manifesto tarihi (Evrak türü "HORD" ise)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>43</DegiskenNo>
+    <DegiskenKodu>CHC</DegiskenKodu>
+    <DegiskenAciklama>Navlun ücreti (Evrak türü "HIHB" ise)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>44</DegiskenNo>
+    <DegiskenKodu>CHC</DegiskenKodu>
+    <DegiskenAciklama>Ödeme şekli (Navlun ve diğer masraflar ve X işaretleri ('PP  X   X' gibi))</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>45</DegiskenNo>
+    <DegiskenKodu>CL[1..9]</DegiskenKodu>
+    <DegiskenAciklama>Fiyat sınıfı (Rate Class)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>46</DegiskenNo>
+    <DegiskenKodu>CM[1..9]</DegiskenKodu>
+    <DegiskenAciklama>Mal sınıfı (Commodity Item Number)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>47</DegiskenNo>
+    <DegiskenKodu>CON</DegiskenKodu>
+    <DegiskenAciklama>Alıcı firma adı (Pozisyondaki yurt dışı acente alanı boş ise ve pozisyona ait ilk yükteki banka alanı boş ise yükteki alıcı firma) </DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>48</DegiskenNo>
+    <DegiskenKodu>CON</DegiskenKodu>
+    <DegiskenAciklama>Banka adı (Pozisyondaki yurt dışı acente alanı boş ise ve pozisyona ait ilk yükteki banka alanı dolu ise yükteki banka alanları)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>49</DegiskenNo>
+    <DegiskenKodu>CON</DegiskenKodu>
+    <DegiskenAciklama>Yurt dışı acente adı (Pozisyondaki yurt dışı acente alanı dolu ise ya da evrak türü "HIHB" ise)   </DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>50</DegiskenNo>
+    <DegiskenKodu>CTL</DegiskenKodu>
+    <DegiskenAciklama>Yükteki alıcı firmanın telefon numarası</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>51</DegiskenNo>
+    <DegiskenKodu>CW[1..9]</DegiskenKodu>
+    <DegiskenAciklama>Ücret ağırlığı (Chargeable Weight)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>52</DegiskenNo>
+    <DegiskenKodu>CW1</DegiskenKodu>
+    <DegiskenAciklama>Toplam ücret ağırlığı (Evrak türü "HIHB" ise)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>53</DegiskenNo>
+    <DegiskenKodu>EN[1..10]</DegiskenKodu>
+    <DegiskenAciklama>Genişlik</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>54</DegiskenNo>
+    <DegiskenKodu>EV[1..9]</DegiskenKodu>
+    <DegiskenAciklama>Ekli evraklar (Orijinal/Kopya belirtimleriyle)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>55</DegiskenNo>
+    <DegiskenKodu>EX[1..10]</DegiskenKodu>
+    <DegiskenAciklama>Koli adedi ve ebat bilgileri (… Adet …x…x…) (Sadece konşimentolarda kullanılan değişken)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>56</DegiskenNo>
+    <DegiskenKodu>FAX</DegiskenKodu>
+    <DegiskenAciklama>Faks no</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>57</DegiskenNo>
+    <DegiskenKodu>FL2</DegiskenKodu>
+    <DegiskenAciklama>2.Sefer numarası</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>58</DegiskenNo>
+    <DegiskenKodu>FL2</DegiskenKodu>
+    <DegiskenAciklama>Teslim tarihi (Evrak türü "HIHB" ise)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>59</DegiskenNo>
+    <DegiskenKodu>FLN</DegiskenKodu>
+    <DegiskenAciklama>Sefer numarası ve tarihi (Tarih dolu ise)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>60</DegiskenNo>
+    <DegiskenKodu>FLN</DegiskenKodu>
+    <DegiskenAciklama>Yük sefer numarası (Evrak türü "HORD" ya da "HIHB" ise ve pozisyon sefer tarihi boş ise)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>61</DegiskenNo>
+    <DegiskenKodu>FLN</DegiskenKodu>
+    <DegiskenAciklama>Yük sefer numarası ve pozisyon sefer tarihi (Evrak türü "HORD" ya da "HIHB" ise ve pozisyon sefer tarihi dolu ise)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>62</DegiskenNo>
+    <DegiskenKodu>FLX</DegiskenKodu>
+    <DegiskenAciklama>Sefer numarası</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>63</DegiskenNo>
+    <DegiskenKodu>FRO</DegiskenKodu>
+    <DegiskenAciklama>Kimden</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>64</DegiskenNo>
+    <DegiskenKodu>FTO</DegiskenKodu>
+    <DegiskenAciklama>Kime</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>65</DegiskenNo>
+    <DegiskenKodu>HFR</DegiskenKodu>
+    <DegiskenAciklama>Hava gemisinin adı (Evrak türü "HORD" ise)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>66</DegiskenNo>
+    <DegiskenKodu>HFR</DegiskenKodu>
+    <DegiskenAciklama>Havayolu firması (Pozisyondaki 1.Aktarma firması boş ise pozisyondaki havayolu firması)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>67</DegiskenNo>
+    <DegiskenKodu>HFR</DegiskenKodu>
+    <DegiskenAciklama>Havayolu firması (Pozisyondaki 1.Aktarma firması dolu ise)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>68</DegiskenNo>
+    <DegiskenKodu>IAT</DegiskenKodu>
+    <DegiskenAciklama>HAWB no (Evrak türü "HORD" ya da "HIHB" ise)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>69</DegiskenNo>
+    <DegiskenKodu>IAT</DegiskenKodu>
+    <DegiskenAciklama>IATA kodu (400 numaralı şirket parametresinde yazan firma IATA kodu)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>70</DegiskenNo>
+    <DegiskenKodu>IE[1..9]</DegiskenKodu>
+    <DegiskenAciklama>Ekli evraklar (Sadece isimler)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>71</DegiskenNo>
+    <DegiskenKodu>KG[1..9]</DegiskenKodu>
+    <DegiskenAciklama>Koli ağırlık tipi ('KG/LB')</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>72</DegiskenNo>
+    <DegiskenKodu>KLM</DegiskenKodu>
+    <DegiskenAciklama>Çıkış (kalkış) limanı adı (Pozisyondaki kalkış limanı)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>73</DegiskenNo>
+    <DegiskenKodu>KS[1..9]</DegiskenKodu>
+    <DegiskenAciklama>Koli adedi (Koli bilgilerindeki, No. Of Pieces)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>74</DegiskenNo>
+    <DegiskenKodu>KX[1..10]</DegiskenKodu>
+    <DegiskenAciklama>Koli adedi (Koli bilgilerindeki, No. Of Pieces)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>75</DegiskenNo>
+    <DegiskenKodu>LG[1..10]</DegiskenKodu>
+    <DegiskenAciklama>Uzunluk</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>76</DegiskenNo>
+    <DegiskenKodu>M1[1..9]</DegiskenKodu>
+    <DegiskenAciklama>Mal tanımı</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>77</DegiskenNo>
+    <DegiskenKodu>M2[1..9]</DegiskenKodu>
+    <DegiskenAciklama>Mal tanımı devamı</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>78</DegiskenNo>
+    <DegiskenKodu>MBD</DegiskenKodu>
+    <DegiskenAciklama>Mal bedeli </DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>79</DegiskenNo>
+    <DegiskenKodu>MBD</DegiskenKodu>
+    <DegiskenAciklama>Manifesto numarası (Evrak türü "HORD" ya da "HIHB" ise, yük bilgilerindeki)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>80</DegiskenNo>
+    <DegiskenKodu>MGB</DegiskenKodu>
+    <DegiskenAciklama>ADR (Evrak türü "HORD" ise)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>81</DegiskenNo>
+    <DegiskenKodu>MGB</DegiskenKodu>
+    <DegiskenAciklama>Gümrükleme bedeli</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>82</DegiskenNo>
+    <DegiskenKodu>MSB</DegiskenKodu>
+    <DegiskenAciklama>Sigorta bedeli</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>83</DegiskenNo>
+    <DegiskenKodu>MT[1..9]</DegiskenKodu>
+    <DegiskenAciklama>Alıcı firmaya ait beklenen değerler (Kalem adı + kalem dövizi + KDV) (Evrak türü "HIHB" ise)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>84</DegiskenNo>
+    <DegiskenKodu>MT[1..9]</DegiskenKodu>
+    <DegiskenAciklama>Mal tanımı</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>85</DegiskenNo>
+    <DegiskenKodu>MTA</DegiskenKodu>
+    <DegiskenAciklama>Mal tanımı 10. Satır</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>86</DegiskenNo>
+    <DegiskenKodu>NEA</DegiskenKodu>
+    <DegiskenAciklama>Havayolu firması başlık bilgisi (Ana konşimento sağ üst köşeye basılan havayolu firma tanımlarındaki başlık bilgisi)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>87</DegiskenNo>
+    <DegiskenKodu>NG[1..3]</DegiskenKodu>
+    <DegiskenAciklama>Havayolu firması adres bilgileri (Ana konşimento sağ üst köşeye basılan havayolu firma tanımlarındaki adres bilgileri)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>88</DegiskenNo>
+    <DegiskenKodu>NG4</DegiskenKodu>
+    <DegiskenAciklama>Boş</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>89</DegiskenNo>
+    <DegiskenKodu>NIH</DegiskenKodu>
+    <DegiskenAciklama>Navlun dövizi (Evrak türü "HIHB" ise)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>90</DegiskenNo>
+    <DegiskenKodu>NIH</DegiskenKodu>
+    <DegiskenAciklama>Nihai varış yeri kodu</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>91</DegiskenNo>
+    <DegiskenKodu>NOI </DegiskenKodu>
+    <DegiskenAciklama>Non-iata firma adı</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>92</DegiskenNo>
+    <DegiskenKodu>OA1</DegiskenKodu>
+    <DegiskenAciklama>Acenteye ait toplam prepaid diğer ücretler (Total prepaid other charges due agent)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>93</DegiskenNo>
+    <DegiskenKodu>OA2</DegiskenKodu>
+    <DegiskenAciklama>Acenteye ait toplam collect diğer ücretler (Total collect other charges due agent)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>94</DegiskenNo>
+    <DegiskenKodu>OC[1..9]</DegiskenKodu>
+    <DegiskenAciklama>Diğer ücretler (Other Charges)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>95</DegiskenNo>
+    <DegiskenKodu>OC[1..9]</DegiskenKodu>
+    <DegiskenAciklama>Koli tipi (Evrak türü "HORD" ya da "HIHB" ise)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>96</DegiskenNo>
+    <DegiskenKodu>OCA</DegiskenKodu>
+    <DegiskenAciklama>Diğer ücretler (10.Kalem)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>97</DegiskenNo>
+    <DegiskenKodu>ORF</DegiskenKodu>
+    <DegiskenAciklama>Referansımız</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>98</DegiskenNo>
+    <DegiskenKodu>RC[1..9]</DegiskenKodu>
+    <DegiskenAciklama>Birim navlun fiyatı (Rate Charge)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>99</DegiskenNo>
+    <DegiskenKodu>SHP</DegiskenKodu>
+    <DegiskenAciklama>Gönderen firma </DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>100</DegiskenNo>
+    <DegiskenKodu>SHP</DegiskenKodu>
+    <DegiskenAciklama>Yük numarası (Evrak türü "HORD" ise)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>101</DegiskenNo>
+    <DegiskenKodu>SIG</DegiskenKodu>
+    <DegiskenAciklama>Baskı sorumlusu</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>102</DegiskenNo>
+    <DegiskenKodu>SRM</DegiskenKodu>
+    <DegiskenAciklama>Konşimentoyu düzenleyen firma (IATA firma adı)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>103</DegiskenNo>
+    <DegiskenKodu>TAG</DegiskenKodu>
+    <DegiskenAciklama>Toplam brüt ağırlık</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>104</DegiskenNo>
+    <DegiskenKodu>TAR</DegiskenKodu>
+    <DegiskenAciklama>Tarih</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>105</DegiskenNo>
+    <DegiskenKodu>TC1</DegiskenKodu>
+    <DegiskenAciklama>Taşıyıcıya ait toplam prepaid diğer ücretler (Total prepaid other charges due carrier)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>106</DegiskenNo>
+    <DegiskenKodu>TC2</DegiskenKodu>
+    <DegiskenAciklama>Taşıyıcıya ait toplam collect diğer ücretler (Total collect other charges due carrier)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>107</DegiskenNo>
+    <DegiskenKodu>TCL</DegiskenKodu>
+    <DegiskenAciklama>Toplam collect ücretler (Total collect)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>108</DegiskenNo>
+    <DegiskenKodu>THC</DegiskenKodu>
+    <DegiskenAciklama>Toplam hacim</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>109</DegiskenNo>
+    <DegiskenKodu>THG</DegiskenKodu>
+    <DegiskenAciklama>Toplam hacim ağırlığı</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>110</DegiskenNo>
+    <DegiskenKodu>TN[1..9]</DegiskenKodu>
+    <DegiskenAciklama>Navlun ücreti (Total)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>111</DegiskenNo>
+    <DegiskenKodu>TON</DegiskenKodu>
+    <DegiskenAciklama>Navlun ücreti collect (Evrak türü "HIHB" ise)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>112</DegiskenNo>
+    <DegiskenKodu>TON</DegiskenKodu>
+    <DegiskenAciklama>Toplam navlun ücreti</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>113</DegiskenNo>
+    <DegiskenKodu>TPR</DegiskenKodu>
+    <DegiskenAciklama>Toplam prepaid ücretler (Total prepaid)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>114</DegiskenNo>
+    <DegiskenKodu>TPS</DegiskenKodu>
+    <DegiskenAciklama>Toplam parça sayısı </DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>115</DegiskenNo>
+    <DegiskenKodu>TRH</DegiskenKodu>
+    <DegiskenAciklama>Günün tarihi (Evrak türü "HIHB" ise)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>116</DegiskenNo>
+    <DegiskenKodu>TRH</DegiskenKodu>
+    <DegiskenAciklama>Karar tarihi (Evrak türü "HORD" ise)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>117</DegiskenNo>
+    <DegiskenKodu>TRH</DegiskenKodu>
+    <DegiskenAciklama>MAWB tarihi (Ana konşimento tarihi)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>118</DegiskenNo>
+    <DegiskenKodu>TU1</DegiskenKodu>
+    <DegiskenAciklama>Prepaid diğer ücretler toplamı</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>119</DegiskenNo>
+    <DegiskenKodu>TU2</DegiskenKodu>
+    <DegiskenAciklama>Collect diğer ücretler toplamı</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>120</DegiskenNo>
+    <DegiskenKodu>TX1</DegiskenKodu>
+    <DegiskenAciklama>Prepaid vergi miktarı (Prepaid tax)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>121</DegiskenNo>
+    <DegiskenKodu>TX2</DegiskenKodu>
+    <DegiskenAciklama>Collect vergi miktarı (Collect tax)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>122</DegiskenNo>
+    <DegiskenKodu>TY1</DegiskenKodu>
+    <DegiskenAciklama>1.Aktarma yeri (Pozisyondaki 1.Aktarma ve 2.Aktarma yeri dolu ise 2.Aktarma yeri) </DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>123</DegiskenNo>
+    <DegiskenKodu>TY1</DegiskenKodu>
+    <DegiskenAciklama>1.Aktarma yeri (Pozisyondaki 1.Aktarma yeri dolu 2.Aktarma yeri boş ise pozisyondaki varış yeri) </DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>124</DegiskenNo>
+    <DegiskenKodu>TY2</DegiskenKodu>
+    <DegiskenAciklama>2.Aktarma yeri (Pozisyondaki 1.Aktarma ve 2.Aktarma yeri dolu ise pozisyondaki varış yeri)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>125</DegiskenNo>
+    <DegiskenKodu>UNI</DegiskenKodu>
+    <DegiskenAciklama>Non-Iata firma varsa non-iata firma yoksa konşimentoyu düzenleyen Iata firma (AGN değişkeninin değeri)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>126</DegiskenNo>
+    <DegiskenKodu>VC1</DegiskenKodu>
+    <DegiskenAciklama>Prepaid değer beyanı ücreti (Prepaid valuation charge)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>127</DegiskenNo>
+    <DegiskenKodu>VC2</DegiskenKodu>
+    <DegiskenAciklama>Collect değer beyanı ücreti (Collect valuation charge)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>128</DegiskenNo>
+    <DegiskenKodu>VLM</DegiskenKodu>
+    <DegiskenAciklama>Ordino ücreti ve dövizi (Evrak türü "HIHB" ise)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>129</DegiskenNo>
+    <DegiskenKodu>VLM</DegiskenKodu>
+    <DegiskenAciklama>Varış limanı </DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>130</DegiskenNo>
+    <DegiskenKodu>VLM</DegiskenKodu>
+    <DegiskenAciklama>Yük sefer numarası (Evrak türü "HORD" ise ve pozisyon beklenen varış tarihi boş ise)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>131</DegiskenNo>
+    <DegiskenKodu>VLM</DegiskenKodu>
+    <DegiskenAciklama>Yük sefer numarası ve pozisyon beklenen varış tarihi (Evrak türü "HORD" ise ve pozisyon beklenen varış tarihi dolu ise)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>132</DegiskenNo>
+    <DegiskenKodu>VRY</DegiskenKodu>
+    <DegiskenAciklama>Varış Yeri (Pozisyondaki 1.Aktarma firması boş ise pozisyondaki varış yeri)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>133</DegiskenNo>
+    <DegiskenKodu>VRY</DegiskenKodu>
+    <DegiskenAciklama>Yük sıra numarası (Evrak türü "HORD" ise)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>134</DegiskenNo>
+    <DegiskenKodu>WC1</DegiskenKodu>
+    <DegiskenAciklama>Toplam prepaid navlun miktarı</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>135</DegiskenNo>
+    <DegiskenKodu>WC2</DegiskenKodu>
+    <DegiskenAciklama>Toplam collect navlun miktarı</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>136</DegiskenNo>
+    <DegiskenKodu>YK[1..10]</DegiskenKodu>
+    <DegiskenAciklama>Yükseklik</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>137</DegiskenNo>
+    <DegiskenKodu>YRF</DegiskenKodu>
+    <DegiskenAciklama>Referansınız</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>138</DegiskenNo>
+    <DegiskenKodu>YTR</DegiskenKodu>
+    <DegiskenAciklama>Sefer tarihi</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>139</DegiskenNo>
+    <DegiskenKodu>MNO    </DegiskenKodu>
+    <DegiskenAciklama>Manifesto No</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>140</DegiskenNo>
+    <DegiskenKodu>MTH    </DegiskenKodu>
+    <DegiskenAciklama>Manifesto Tarihi</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>141</DegiskenNo>
+    <DegiskenKodu>YNO    </DegiskenKodu>
+    <DegiskenAciklama>Yük No</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>142</DegiskenNo>
+    <DegiskenKodu>YSR    </DegiskenKodu>
+    <DegiskenAciklama>Yük Sıra No</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>143</DegiskenNo>
+    <DegiskenKodu>HGA    </DegiskenKodu>
+    <DegiskenAciklama>Hava Gemisinin Adı</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>144</DegiskenNo>
+    <DegiskenKodu>HGB    </DegiskenKodu>
+    <DegiskenAciklama>Hava Gemisinin Bayrağı</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>145</DegiskenNo>
+    <DegiskenKodu>FNP    </DegiskenKodu>
+    <DegiskenAciklama>Pozisyondaki uçuş no</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>146</DegiskenNo>
+    <DegiskenKodu>FY1    </DegiskenKodu>
+    <DegiskenAciklama>Yükteki uçuş no 1</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>147</DegiskenNo>
+    <DegiskenKodu>FY2    </DegiskenKodu>
+    <DegiskenAciklama>Yükteki uçuş no 2</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>148</DegiskenNo>
+    <DegiskenKodu>BTH    </DegiskenKodu>
+    <DegiskenAciklama>Beklenen Varış Tarihi</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>149</DegiskenNo>
+    <DegiskenKodu>CLA    </DegiskenKodu>
+    <DegiskenAciklama>Çıkış Limanı Adı</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>150</DegiskenNo>
+    <DegiskenKodu>CLK    </DegiskenKodu>
+    <DegiskenAciklama>Çıkış Limanı Kodu</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>151</DegiskenNo>
+    <DegiskenKodu>AWN    </DegiskenKodu>
+    <DegiskenAciklama>MAWB No</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>152</DegiskenNo>
+    <DegiskenKodu>AW1    </DegiskenKodu>
+    <DegiskenAciklama>MAWB No, Prefix</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>153</DegiskenNo>
+    <DegiskenKodu>AW2    </DegiskenKodu>
+    <DegiskenAciklama>MAWB No, Numara</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>154</DegiskenNo>
+    <DegiskenKodu>ALB    </DegiskenKodu>
+    <DegiskenAciklama>Banka varsa banka yoksa alıcı</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>155</DegiskenNo>
+    <DegiskenKodu>HBN    </DegiskenKodu>
+    <DegiskenAciklama>HAWB No</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>156</DegiskenNo>
+    <DegiskenKodu>KNO    </DegiskenKodu>
+    <DegiskenAciklama>Karar No</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>157</DegiskenNo>
+    <DegiskenKodu>KTH    </DegiskenKodu>
+    <DegiskenAciklama>Karar Tarihi</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>158</DegiskenNo>
+    <DegiskenKodu>TRM    </DegiskenKodu>
+    <DegiskenAciklama>Türkçe Mal Adı</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>159</DegiskenNo>
+    <DegiskenKodu>YBM    </DegiskenKodu>
+    <DegiskenAciklama>Yabancı Mal Adı</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>160</DegiskenNo>
+    <DegiskenKodu>YPS    </DegiskenKodu>
+    <DegiskenAciklama>Yazı İle Parça Sayısı</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>161</DegiskenNo>
+    <DegiskenKodu>TTH    </DegiskenKodu>
+    <DegiskenAciklama>İthalat Fatura Teslim Tarihi, İhracat Teslim Tarihi</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>162</DegiskenNo>
+    <DegiskenKodu>FTH    </DegiskenKodu>
+    <DegiskenAciklama>Uçuş Tarihi</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>163</DegiskenNo>
+    <DegiskenKodu>VLA    </DegiskenKodu>
+    <DegiskenAciklama>Varış Limanı Adı</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>164</DegiskenNo>
+    <DegiskenKodu>VLK    </DegiskenKodu>
+    <DegiskenAciklama>Varış Limanı Kodu</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>165</DegiskenNo>
+    <DegiskenKodu>OSK    </DegiskenKodu>
+    <DegiskenAciklama>Ödeme Şekli Kodu</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>166</DegiskenNo>
+    <DegiskenKodu>OSA    </DegiskenKodu>
+    <DegiskenAciklama>Ödeme Şekli Adı</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>167</DegiskenNo>
+    <DegiskenKodu>OSI    </DegiskenKodu>
+    <DegiskenAciklama>Ödeme Şekli Kodu - Adı</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>168</DegiskenNo>
+    <DegiskenKodu>UPN    </DegiskenKodu>
+    <DegiskenAciklama>Uzun Poz No</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>169</DegiskenNo>
+    <DegiskenKodu>UPK    </DegiskenKodu>
+    <DegiskenAciklama>Kısa Poz No</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>170</DegiskenNo>
+    <DegiskenKodu>RNO    </DegiskenKodu>
+    <DegiskenAciklama>Yük No - Uzun Poz No</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>171</DegiskenNo>
+    <DegiskenKodu>UG1    </DegiskenKodu>
+    <DegiskenAciklama>Ücret Ağırlığı, Noktadan sonra 1 hane</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>172</DegiskenNo>
+    <DegiskenKodu>UG2    </DegiskenKodu>
+    <DegiskenAciklama>Ücret Ağırlığı, Noktadan sonra 2 hane</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>173</DegiskenNo>
+    <DegiskenKodu>UG3    </DegiskenKodu>
+    <DegiskenAciklama>Ücret Ağırlığı, Noktadan sonra 3 hane</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>174</DegiskenNo>
+    <DegiskenKodu>AC1..5 </DegiskenKodu>
+    <DegiskenAciklama>Alıcı ad, ünvan, adres </DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>175</DegiskenNo>
+    <DegiskenKodu>AC6    </DegiskenKodu>
+    <DegiskenAciklama>Alıcı tel </DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>176</DegiskenNo>
+    <DegiskenKodu>AC7    </DegiskenKodu>
+    <DegiskenAciklama>Alıcı fax</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>177</DegiskenNo>
+    <DegiskenKodu>GN1..5 </DegiskenKodu>
+    <DegiskenAciklama>Gönderici ad, ünvan, adres </DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>178</DegiskenNo>
+    <DegiskenKodu>GN6    </DegiskenKodu>
+    <DegiskenAciklama>Gönderici tel </DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>179</DegiskenNo>
+    <DegiskenKodu>GN7    </DegiskenKodu>
+    <DegiskenAciklama>Gönderici fax</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>180</DegiskenNo>
+    <DegiskenKodu>XS     </DegiskenKodu>
+    <DegiskenAciklama>Koli Parça Sayısı (99 adet)(Sadece konşimentolarda kullanılan değişken)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>181</DegiskenNo>
+    <DegiskenKodu>XA     </DegiskenKodu>
+    <DegiskenAciklama>Koli Ağırlık (99 adet)(Sadece konşimentolarda kullanılan değişken)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>182</DegiskenNo>
+    <DegiskenKodu>XU     </DegiskenKodu>
+    <DegiskenAciklama>Koli Uzunluk (99 adet)(Sadece konşimentolarda kullanılan değişken)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>183</DegiskenNo>
+    <DegiskenKodu>XG     </DegiskenKodu>
+    <DegiskenAciklama>Koli Genişlik (99 adet)(Sadece konşimentolarda kullanılan değişken)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>184</DegiskenNo>
+    <DegiskenKodu>XY     </DegiskenKodu>
+    <DegiskenAciklama>Koli Yükseklik (99 adet)(Sadece konşimentolarda kullanılan değişken)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>185</DegiskenNo>
+    <DegiskenKodu>XH     </DegiskenKodu>
+    <DegiskenAciklama>Koli Hacim (99 adet)(Sadece konşimentolarda kullanılan değişken)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>186</DegiskenNo>
+    <DegiskenKodu>XC     </DegiskenKodu>
+    <DegiskenAciklama>Koli Commo (99 adet)(Sadece konşimentolarda kullanılan değişken)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>187</DegiskenNo>
+    <DegiskenKodu>XT     </DegiskenKodu>
+    <DegiskenAciklama>Koli Tipi (99 adet)(Sadece konşimentolarda kullanılan değişken)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>188</DegiskenNo>
+    <DegiskenKodu>XM     </DegiskenKodu>
+    <DegiskenAciklama>Koli Hacim Ağırlığı (99 adet)(Sadece konşimentolarda kullanılan değişken)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>189</DegiskenNo>
+    <DegiskenKodu>YA1..5 </DegiskenKodu>
+    <DegiskenAciklama>Yurtdışı acente ad, ünvan, adres </DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>190</DegiskenNo>
+    <DegiskenKodu>YA6    </DegiskenKodu>
+    <DegiskenAciklama>Yurtdışı acente tel </DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>191</DegiskenNo>
+    <DegiskenKodu>YA7    </DegiskenKodu>
+    <DegiskenAciklama>Yurtdışı acente fax</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>192</DegiskenNo>
+    <DegiskenKodu>ORU    </DegiskenKodu>
+    <DegiskenAciklama>Ordino/Konşimento ücreti, dövizi</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>193</DegiskenNo>
+    <DegiskenKodu>NVU    </DegiskenKodu>
+    <DegiskenAciklama>Navlun ücreti, dövizi</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>194</DegiskenNo>
+    <DegiskenKodu>AK     </DegiskenKodu>
+    <DegiskenAciklama>Alıcı Kalemleri (99 adet)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>195</DegiskenNo>
+    <DegiskenKodu>GK    </DegiskenKodu>
+    <DegiskenAciklama>Gönderici Kalemleri (99 adet)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>196</DegiskenNo>
+    <DegiskenKodu>KK     </DegiskenKodu>
+    <DegiskenAciklama>Acente Kalemleri (99 adet)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>197</DegiskenNo>
+    <DegiskenKodu>EML    </DegiskenKodu>
+    <DegiskenAciklama>Firma E-MAIL adresi (60 nolu şirket parametresi) Bu değişken denize de eklendi.</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>198</DegiskenNo>
+    <DegiskenKodu>MUS</DegiskenKodu>
+    <DegiskenAciklama>Müşteri adı</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>199</DegiskenNo>
+    <DegiskenKodu>COS</DegiskenKodu>
+    <DegiskenAciklama>Yurtdışı acente ilgili kişisi</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>200</DegiskenNo>
+    <DegiskenKodu>CKS</DegiskenKodu>
+    <DegiskenAciklama>Gümrükçü ilgili kişisi</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>201</DegiskenNo>
+    <DegiskenKodu>OTK</DegiskenKodu>
+    <DegiskenAciklama>Ordinonun teslim edildiği kişi</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>202</DegiskenNo>
+    <DegiskenKodu>FLX</DegiskenKodu>
+    <DegiskenAciklama>yükün sefer numarasını basar</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>203</DegiskenNo>
+    <DegiskenKodu>YTR</DegiskenKodu>
+    <DegiskenAciklama>Yükün sefer tarihini</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>204</DegiskenNo>
+    <DegiskenKodu>OTT</DegiskenKodu>
+    <DegiskenAciklama>Evrak teslim tarihini</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>205</DegiskenNo>
+    <DegiskenKodu>KD(1…10</DegiskenKodu>
+    <DegiskenAciklama>Koli adedi ve ebat bilgileri (… Adet …x…x…) (Sadece evraklarda kullanılan değişken)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>206</DegiskenNo>
+    <DegiskenKodu>AI6</DegiskenKodu>
+    <DegiskenAciklama>Yabancı Mal Adı</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>207</DegiskenNo>
+    <DegiskenKodu>OYT</DegiskenKodu>
+    <DegiskenAciklama>Rezervasyon yükü sefer tarihi</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>208</DegiskenNo>
+    <DegiskenKodu>GEA</DegiskenKodu>
+    <DegiskenAciklama>Hava İthalatta yükteki geliş ambarı</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>209</DegiskenNo>
+    <DegiskenKodu>ACD</DegiskenKodu>
+    <DegiskenAciklama>Hava İthalatta yükteki ambar kodu basan değişken </DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>210</DegiskenNo>
+    <DegiskenKodu>HMB</DegiskenKodu>
+    <DegiskenAciklama>Yükteki mal bedeli dövizi</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>211</DegiskenNo>
+    <DegiskenKodu>HAC</DegiskenKodu>
+    <DegiskenAciklama>Pozisyondaki havayolu acentesi</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>212</DegiskenNo>
+    <DegiskenKodu>DQ1</DegiskenKodu>
+    <DegiskenAciklama>Evraka üretici firma bilgisini basan değişken </DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>213</DegiskenNo>
+    <DegiskenKodu>MAB</DegiskenKodu>
+    <DegiskenAciklama>Yükteki mal bedeli</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>214</DegiskenNo>
+    <DegiskenKodu>RDP</DegiskenKodu>
+    <DegiskenAciklama>Rezervasyon işlemlerindeki Depo</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>215</DegiskenNo>
+    <DegiskenKodu>YHF</DegiskenKodu>
+    <DegiskenAciklama>Yer Hiz. firma adı</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>216</DegiskenNo>
+    <DegiskenKodu>OTK</DegiskenKodu>
+    <DegiskenAciklama>Evrak  teslim edilen kişi </DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>217</DegiskenNo>
+    <DegiskenKodu>OTT</DegiskenKodu>
+    <DegiskenAciklama>Evrak teslim tarihi </DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>218</DegiskenNo>
+    <DegiskenKodu>OTS </DegiskenKodu>
+    <DegiskenAciklama>Evrak teslim etme saati</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>219</DegiskenNo>
+    <DegiskenKodu>BTR </DegiskenKodu>
+    <DegiskenAciklama>Pozisyondaki varış tarihi </DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>220</DegiskenNo>
+    <DegiskenKodu>VAR</DegiskenKodu>
+    <DegiskenAciklama>Pozisyondaki varış tarihi</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>221</DegiskenNo>
+    <DegiskenKodu>CM</DegiskenKodu>
+    <DegiskenAciklama>Commodity no.</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>222</DegiskenNo>
+    <DegiskenKodu>CL</DegiskenKodu>
+    <DegiskenAciklama>Fiyat Sınıfı </DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>223</DegiskenNo>
+    <DegiskenKodu>VAR</DegiskenKodu>
+    <DegiskenAciklama>Pozisyon varış tarihi </DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>224</DegiskenNo>
+    <DegiskenKodu>UCS </DegiskenKodu>
+    <DegiskenAciklama>Hava-İhracat Pozisyondaki Sefer Saatini basan değişken</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>225</DegiskenNo>
+    <DegiskenKodu>HXF</DegiskenKodu>
+    <DegiskenAciklama>Hava yolu firmasının 0104 nolu parametresinin değerine ne yazarsak o bilgiyi evraka basan HXF değişkeni.</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>226</DegiskenNo>
+    <DegiskenKodu>MXP</DegiskenKodu>
+    <DegiskenAciklama>Hava için pazarlama temsilcisi </DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>227</DegiskenNo>
+    <DegiskenKodu>MXM</DegiskenKodu>
+    <DegiskenAciklama>Hava için müşteri temsilcisi </DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>228</DegiskenNo>
+    <DegiskenKodu>IYY </DegiskenKodu>
+    <DegiskenAciklama>HE ilk yükleme yeri </DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>229</DegiskenNo>
+    <DegiskenKodu>KLM </DegiskenKodu>
+    <DegiskenAciklama>Pozisyondaki çıkış limanı </DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>230</DegiskenNo>
+    <DegiskenKodu>BO1..</DegiskenKodu>
+    <DegiskenAciklama>Yük beklenen değerlerindeki borç kalemi </DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>231</DegiskenNo>
+    <DegiskenKodu>YRT</DegiskenKodu>
+    <DegiskenAciklama>Yurt dışı acente bilgisini basan değişken</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>232</DegiskenNo>
+    <DegiskenKodu>MVM</DegiskenKodu>
+    <DegiskenAciklama>Yükteki Müşterinin Ödeme Şeklini basan değişken</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>233</DegiskenNo>
+    <DegiskenKodu>MVP</DegiskenKodu>
+    <DegiskenAciklama>Yükteki Müşterinin Ödeme Süresini basan değişken </DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>234</DegiskenNo>
+    <DegiskenKodu>QW1...9</DegiskenKodu>
+    <DegiskenAciklama>Hava yolu borç kalemlerini basan değişken seti</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>235</DegiskenNo>
+    <DegiskenKodu>BM1…</DegiskenKodu>
+    <DegiskenAciklama>Hava yolu alacak kalemlerini basan değişken seti</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>236</DegiskenNo>
+    <DegiskenKodu>YRT</DegiskenKodu>
+    <DegiskenAciklama>Yurt dışı acente bilgisini basan değişken</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>237</DegiskenNo>
+    <DegiskenKodu>EOR</DegiskenKodu>
+    <DegiskenAciklama>Yurtdışı acentenın eori numarası </DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>238</DegiskenNo>
+    <DegiskenKodu>EMA</DegiskenKodu>
+    <DegiskenAciklama>Merkez acente alanının değişkenini basan değişken</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>239</DegiskenNo>
+    <DegiskenKodu>EGN</DegiskenKodu>
+    <DegiskenAciklama>Pozisyondaki Gönderen alanının eori numarasını basan değişken</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>240</DegiskenNo>
+    <DegiskenKodu>AY1...5</DegiskenKodu>
+    <DegiskenAciklama>Rezervasyon aktarma detayları  ekranında bulunan aktarma yeri </DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>241</DegiskenNo>
+    <DegiskenKodu>AR1…5 </DegiskenKodu>
+    <DegiskenAciklama>Rezervasyon aktarma detayları  bulunan aktarma tarihi </DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>242</DegiskenNo>
+    <DegiskenKodu>AS1...5  </DegiskenKodu>
+    <DegiskenAciklama>Rezervasyon aktarma detayları  ekranında bulunan Aktarma saati</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>243</DegiskenNo>
+    <DegiskenKodu>HF1...5 </DegiskenKodu>
+    <DegiskenAciklama>Rezervasyon  aktarma detayları ekranında bulunan Havayolu firma kodu </DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>244</DegiskenNo>
+    <DegiskenKodu>AN1…5</DegiskenKodu>
+    <DegiskenAciklama>Rezervasyon  aktarma detayları ekranında bulunan sefer no </DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>245</DegiskenNo>
+    <DegiskenKodu>VT1...5</DegiskenKodu>
+    <DegiskenAciklama>Rezervasyon  aktarma detayları ekranında bulunan varış tarihi </DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>246</DegiskenNo>
+    <DegiskenKodu>US1 </DegiskenKodu>
+    <DegiskenAciklama>Rezervasyon  aktarma detayları ekranında bulunan varış saati </DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>247</DegiskenNo>
+    <DegiskenKodu>TPY</DegiskenKodu>
+    <DegiskenAciklama>TPS değişkeninin sola dayalı halini basan değişken</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>248</DegiskenNo>
+    <DegiskenKodu>TGY</DegiskenKodu>
+    <DegiskenAciklama>TAG değişkeninin sola dayalı halini basan değişken</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>249</DegiskenNo>
+    <DegiskenKodu>TKN</DegiskenKodu>
+    <DegiskenAciklama>Havayolu modülü-&gt;Yük Bilgileri-&gt;Diğer Bilgiler içerisinde Pazarlama Bilgileri ekranı\Teklif No</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>250</DegiskenNo>
+    <DegiskenKodu>INC</DegiskenKodu>
+    <DegiskenAciklama>HAWB ÖDEME ŞEKLİ (CIF,FOB.DAP…)</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>251</DegiskenNo>
+    <DegiskenKodu>IYT</DegiskenKodu>
+    <DegiskenAciklama>Sipariş ekranında muhtemel teslim tarihi</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>252</DegiskenNo>
+    <DegiskenKodu>CYS</DegiskenKodu>
+    <DegiskenAciklama>Sipariş ekranında muhtemel teslim  saati</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>253</DegiskenNo>
+    <DegiskenKodu>MSR</DegiskenKodu>
+    <DegiskenAciklama>Pozisyondaki toplam Kap</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>254</DegiskenNo>
+    <DegiskenKodu>NWS</DegiskenKodu>
+    <DegiskenAciklama>Pozisyondaki toplam Kilo</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>255</DegiskenNo>
+    <DegiskenKodu>HK1..2.3..4</DegiskenKodu>
+    <DegiskenAciklama>Hava ithalat GTIP NO değişkenseti </DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>256</DegiskenNo>
+    <DegiskenKodu>TM1</DegiskenKodu>
+    <DegiskenAciklama>Pas eden Temsilci</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>257</DegiskenNo>
+    <DegiskenKodu>TM2</DegiskenKodu>
+    <DegiskenAciklama>Pazarlama Temsilcisi</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>258</DegiskenNo>
+    <DegiskenKodu>TM3</DegiskenKodu>
+    <DegiskenAciklama>Pazarlama asistanı</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>259</DegiskenNo>
+    <DegiskenKodu>TM4</DegiskenKodu>
+    <DegiskenAciklama>Satış Temsilcisi</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>260</DegiskenNo>
+    <DegiskenKodu>TM5</DegiskenKodu>
+    <DegiskenAciklama>Satış Asistanı</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>261</DegiskenNo>
+    <DegiskenKodu>TM6</DegiskenKodu>
+    <DegiskenAciklama>Müşteri Temsilcisi</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>262</DegiskenNo>
+    <DegiskenKodu>TM7</DegiskenKodu>
+    <DegiskenAciklama>Müşteri Asistanı </DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>263</DegiskenNo>
+    <DegiskenKodu>TM8</DegiskenKodu>
+    <DegiskenAciklama>Operasyon Sorumlusu </DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>264</DegiskenNo>
+    <DegiskenKodu>TM9</DegiskenKodu>
+    <DegiskenAciklama>Dökümantasyon Sorumlusu</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>265</DegiskenNo>
+    <DegiskenKodu>NK2-NK3-NK4</DegiskenKodu>
+    <DegiskenAciklama>NK2 NK3 NK4C KONŞİMENTO NUMARASI((( 235 IST 5645645645)) şeklinde Ana konşimento için</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>266</DegiskenNo>
+    <DegiskenKodu>AWK- CLK- AWU</DegiskenKodu>
+    <DegiskenAciklama> KONŞİMENTO NUMARASI((( 235 IST 5645645645)) şeklinde Ara konşimento için</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>267</DegiskenNo>
+    <DegiskenKodu>SPN</DegiskenKodu>
+    <DegiskenAciklama>Yükün içerisindeki sipariş no.su</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>268</DegiskenNo>
+    <DegiskenKodu>FTN</DegiskenKodu>
+    <DegiskenAciklama>Yükün içerisindeki fatura no.su</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>269</DegiskenNo>
+    <DegiskenKodu>LCN</DegiskenKodu>
+    <DegiskenAciklama>Yükün içerisindeki fatura l/c no.su</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>270</DegiskenNo>
+    <DegiskenKodu>MD1</DegiskenKodu>
+    <DegiskenAciklama>Yük içerisinde merkez acente firma kodu</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>271</DegiskenNo>
+    <DegiskenKodu>MD2</DegiskenKodu>
+    <DegiskenAciklama>Yük içerisinde merkez acente firma ismi</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>272</DegiskenNo>
+    <DegiskenKodu>MD3</DegiskenKodu>
+    <DegiskenAciklama>Yük içerisinde merkez acente firma ünvanı</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>273</DegiskenNo>
+    <DegiskenKodu>MD4-15</DegiskenKodu>
+    <DegiskenAciklama>Yük içerisinde merkez acente firma adres bilgileri</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>274</DegiskenNo>
+    <DegiskenKodu>HTS</DegiskenKodu>
+    <DegiskenAciklama>Yük içerisinde Hawb ödeme şekli + teslim şekli</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>275</DegiskenNo>
+    <DegiskenKodu>INC</DegiskenKodu>
+    <DegiskenAciklama>Teslim Şekli</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>276</DegiskenNo>
+    <DegiskenKodu>HXG</DegiskenKodu>
+    <DegiskenAciklama>Havayolu Firma Tanım parametrelerinde 116 no.lu parametrede yazılan antrepo bilgisi</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>277</DegiskenNo>
+    <DegiskenKodu>UPN</DegiskenKodu>
+    <DegiskenAciklama>Pozisyon Numarası</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>278</DegiskenNo>
+    <DegiskenKodu>HVF</DegiskenKodu>
+    <DegiskenAciklama>Pozisyon içerisinde aktarma detayları alanındaki havayolu firmasının adını basan değişken</DegiskenAciklama>
+    <DegiskenModul>Hava</DegiskenModul>
+  </Degisken>
+</Degiskenler>

@@ -1,0 +1,765 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Degiskenler>
+  <Degisken>
+    <DegiskenNo>0</DegiskenNo>
+    <DegiskenKodu>N11-N12</DegiskenKodu>
+    <DegiskenAciklama>FATURADA ÇIKACAK NOTLAR(1)</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>1</DegiskenNo>
+    <DegiskenKodu>N21-N22</DegiskenKodu>
+    <DegiskenAciklama>FATURADA ÇIKACAK NOTLAR(2)</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>2</DegiskenNo>
+    <DegiskenKodu>N31-N32</DegiskenKodu>
+    <DegiskenAciklama>FATURADA ÇIKACAK NOTLAR(3)</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>3</DegiskenNo>
+    <DegiskenKodu>GF1-5</DegiskenKodu>
+    <DegiskenAciklama>GÖNDERİCİ ADI / ADRESİ</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>4</DegiskenNo>
+    <DegiskenKodu>HAC</DegiskenKodu>
+    <DegiskenAciklama>HACİM</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>5</DegiskenNo>
+    <DegiskenKodu>KAL</DegiskenKodu>
+    <DegiskenAciklama>KALKIŞ YERİ - Deniz İthalatta pozisyondaki yükleme limanı</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>6</DegiskenNo>
+    <DegiskenKodu>GID</DegiskenKodu>
+    <DegiskenAciklama>VARIŞ YERİ</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>7</DegiskenNo>
+    <DegiskenKodu>QKV</DegiskenKodu>
+    <DegiskenAciklama>KDV TOPLAMI</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>8</DegiskenNo>
+    <DegiskenKodu>ADE</DegiskenKodu>
+    <DegiskenAciklama>KOLİ ADETİ</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>9</DegiskenNo>
+    <DegiskenKodu>KTP</DegiskenKodu>
+    <DegiskenAciklama>KOLİ TİPİ</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>10</DegiskenNo>
+    <DegiskenKodu>KUR</DegiskenKodu>
+    <DegiskenAciklama>KUR</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>11</DegiskenNo>
+    <DegiskenKodu>MR1-9</DegiskenKodu>
+    <DegiskenAciklama>MARKA BİLGİSİ</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>12</DegiskenNo>
+    <DegiskenKodu>ODE</DegiskenKodu>
+    <DegiskenAciklama>ÖDEME ŞEKLİ</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>13</DegiskenNo>
+    <DegiskenKodu>TES</DegiskenKodu>
+    <DegiskenAciklama>TESLİM ŞEKLİ</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>14</DegiskenNo>
+    <DegiskenKodu>TGR</DegiskenKodu>
+    <DegiskenAciklama>TOPLAM KİLOGRAM</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>15</DegiskenNo>
+    <DegiskenKodu>TTK</DegiskenKodu>
+    <DegiskenAciklama>TOPLAM ÜCRET</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>16</DegiskenNo>
+    <DegiskenKodu>TMA</DegiskenKodu>
+    <DegiskenAciklama>TÜRKÇE MAL ADI</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>17</DegiskenNo>
+    <DegiskenKodu>FVA</DegiskenKodu>
+    <DegiskenAciklama>VERGİ DAİRESİ</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>18</DegiskenNo>
+    <DegiskenKodu>FVN</DegiskenKodu>
+    <DegiskenAciklama>VERGİ NUMARASI</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>19</DegiskenNo>
+    <DegiskenKodu>YMA</DegiskenKodu>
+    <DegiskenAciklama>YABANCI DİLDE MAL ADI</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>20</DegiskenNo>
+    <DegiskenKodu>FYZ</DegiskenKodu>
+    <DegiskenAciklama>YAZI İLE TUTAR</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>21</DegiskenNo>
+    <DegiskenKodu>CKL</DegiskenKodu>
+    <DegiskenAciklama>KULLANICI İSMİ</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>22</DegiskenNo>
+    <DegiskenKodu>AF1-5</DegiskenKodu>
+    <DegiskenAciklama>ALICI İSMİ / ADRESİ</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>23</DegiskenNo>
+    <DegiskenKodu>FF1-5</DegiskenKodu>
+    <DegiskenAciklama>FATURA KESİLECEK FİRMA İSMİ / ADRESİ</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>24</DegiskenNo>
+    <DegiskenKodu>POZ</DegiskenKodu>
+    <DegiskenAciklama>UZUN POZİSYON NUMARASI VE YÜK NUMARASI</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>25</DegiskenNo>
+    <DegiskenKodu>TAR</DegiskenKodu>
+    <DegiskenAciklama>GÜNÜN TARİHİ</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>26</DegiskenNo>
+    <DegiskenKodu>KRU</DegiskenKodu>
+    <DegiskenAciklama>VARIŞ ÜLKESİ</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>27</DegiskenNo>
+    <DegiskenKodu>FOG</DegiskenKodu>
+    <DegiskenAciklama>SON EDEME GÜNÜ (SAYI İLE 0 İSE PEŞİN YAZIYOR)</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>28</DegiskenNo>
+    <DegiskenKodu>SOG</DegiskenKodu>
+    <DegiskenAciklama>SON ÖDEME TARİHİ</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>29</DegiskenNo>
+    <DegiskenKodu>XTK</DegiskenKodu>
+    <DegiskenAciklama>ARA TOPLAM</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>30</DegiskenNo>
+    <DegiskenKodu>CN1-4</DegiskenKodu>
+    <DegiskenAciklama>KONTEYNER NO</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>31</DegiskenNo>
+    <DegiskenKodu>C11-9</DegiskenKodu>
+    <DegiskenAciklama>YÜK ÜZERİNDEKİ DEĞİŞKENLİ EVRAK AÇIKLAMASI</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>32</DegiskenNo>
+    <DegiskenKodu>C21-9</DegiskenKodu>
+    <DegiskenAciklama>YÜK ÜZERİNDEKİ DEĞİŞKENLİ EVRAK AÇIKLAMASI</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>33</DegiskenNo>
+    <DegiskenKodu>C31-9</DegiskenKodu>
+    <DegiskenAciklama>YÜK ÜZERİNDEKİ DEĞİŞKENLİ EVRAK AÇIKLAMASI</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>34</DegiskenNo>
+    <DegiskenKodu>C41-9</DegiskenKodu>
+    <DegiskenAciklama>YÜK ÜZERİNDEKİ DEĞİŞKENLİ EVRAK AÇIKLAMASI</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>35</DegiskenNo>
+    <DegiskenKodu>C51-9</DegiskenKodu>
+    <DegiskenAciklama>YÜK ÜZERİNDEKİ DEĞİŞKENLİ EVRAK AÇIKLAMASI</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>36</DegiskenNo>
+    <DegiskenKodu>FTN</DegiskenKodu>
+    <DegiskenAciklama>YÜK İÇİN TEK SATIRLIK NOT</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>37</DegiskenNo>
+    <DegiskenKodu>FP2</DegiskenKodu>
+    <DegiskenAciklama>KARŞI POZİSYON NO</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>38</DegiskenNo>
+    <DegiskenKodu>TKN</DegiskenKodu>
+    <DegiskenAciklama>TIR KARNE NUMARASI</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>39</DegiskenNo>
+    <DegiskenKodu>BT1</DegiskenKodu>
+    <DegiskenAciklama>BİRİM TUTAR</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>40</DegiskenNo>
+    <DegiskenKodu>MK1</DegiskenKodu>
+    <DegiskenAciklama>MİKTAR</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>41</DegiskenNo>
+    <DegiskenKodu>MI1</DegiskenKodu>
+    <DegiskenAciklama>MİKTAR BİRİMİ</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>42</DegiskenNo>
+    <DegiskenKodu>GUM</DegiskenKodu>
+    <DegiskenAciklama>GÜMRÜK</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>43</DegiskenNo>
+    <DegiskenKodu>FOG</DegiskenKodu>
+    <DegiskenAciklama>FATURA VADESİ </DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>44</DegiskenNo>
+    <DegiskenKodu>SOG</DegiskenKodu>
+    <DegiskenAciklama>FATURA VADE TARİHİ </DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>45</DegiskenNo>
+    <DegiskenKodu>PS1-9</DegiskenKodu>
+    <DegiskenAciklama>KOLI SAYISI </DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>46</DegiskenNo>
+    <DegiskenKodu>TI1-9</DegiskenKodu>
+    <DegiskenAciklama>KOLI TIPI </DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>47</DegiskenNo>
+    <DegiskenKodu>AG1-9</DegiskenKodu>
+    <DegiskenAciklama>KOLI AGIRLIĞI </DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>48</DegiskenNo>
+    <DegiskenKodu>MAT</DegiskenKodu>
+    <DegiskenAciklama>KDV MATRAHI </DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>49</DegiskenNo>
+    <DegiskenKodu>BH1-4</DegiskenKodu>
+    <DegiskenAciklama>BANKA HESAP NOLARI</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>50</DegiskenNo>
+    <DegiskenKodu>CBM</DegiskenKodu>
+    <DegiskenAciklama>ATAMASI YOK</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>51</DegiskenNo>
+    <DegiskenKodu>GTR</DegiskenKodu>
+    <DegiskenAciklama>DEPO GİRİŞ TARİHİ</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>52</DegiskenNo>
+    <DegiskenKodu>CTR</DegiskenKodu>
+    <DegiskenAciklama>DEPO ÇIKIŞ TARİHİ</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>53</DegiskenNo>
+    <DegiskenKodu>YBS</DegiskenKodu>
+    <DegiskenAciklama>DEPODA BEKLEME SÜRESİ</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>54</DegiskenNo>
+    <DegiskenKodu>J1…..</DegiskenKodu>
+    <DegiskenAciklama>Değişken seti: Sipariş başlık tanımlarının 1. kolonu (max.99 satır, 01….99)</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>55</DegiskenNo>
+    <DegiskenKodu>J2….</DegiskenKodu>
+    <DegiskenAciklama>Değişken seti: Sipariş başlık tanımlarının 2. kolonu (max.99 satır, 01….99)</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>56</DegiskenNo>
+    <DegiskenKodu>J3….</DegiskenKodu>
+    <DegiskenAciklama>Değişken seti: Sipariş başlık tanımlarının 3. kolonu (max.99 satır, 01….99)</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>57</DegiskenNo>
+    <DegiskenKodu>J4….</DegiskenKodu>
+    <DegiskenAciklama>Değişken seti: Sipariş başlık tanımlarının 4. kolonu (max.99 satır, 01….99)</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>58</DegiskenNo>
+    <DegiskenKodu>J5….</DegiskenKodu>
+    <DegiskenAciklama>Değişken seti: Sipariş başlık tanımlarının 5. kolonu (max.99 satır, 01….99)</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>59</DegiskenNo>
+    <DegiskenKodu>J6….</DegiskenKodu>
+    <DegiskenAciklama>Değişken seti: Sipariş başlık tanımlarının 6. kolonu (max.99 satır, 01….99)</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>60</DegiskenNo>
+    <DegiskenKodu>J7….</DegiskenKodu>
+    <DegiskenAciklama>Değişken seti: Sipariş başlık tanımlarının 7. kolonu (max.99 satır, 01….99)</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>61</DegiskenNo>
+    <DegiskenKodu>J8….</DegiskenKodu>
+    <DegiskenAciklama>Değişken seti: Sipariş başlık tanımlarının 8. kolonu (max.99 satır, 01….99)</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>62</DegiskenNo>
+    <DegiskenKodu>J9….</DegiskenKodu>
+    <DegiskenAciklama>Değişken seti: Sipariş başlık tanımlarının 9. kolonu (max.99 satır, 01….99)</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>63</DegiskenNo>
+    <DegiskenKodu>U1….</DegiskenKodu>
+    <DegiskenAciklama>Değişken seti: Sipariş başlık tanımlarının 10. kolonu (max.99 satır, 01….99)</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>64</DegiskenNo>
+    <DegiskenKodu>U2….</DegiskenKodu>
+    <DegiskenAciklama>Değişken seti: Sipariş başlık tanımlarının 11. kolonu (max.99 satır, 01….99)</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>65</DegiskenNo>
+    <DegiskenKodu>U3….</DegiskenKodu>
+    <DegiskenAciklama>Değişken seti: Sipariş başlık tanımlarının 12. kolonu (max.99 satır, 01….99)</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>66</DegiskenNo>
+    <DegiskenKodu>U4….</DegiskenKodu>
+    <DegiskenAciklama>Değişken seti: Sipariş başlık tanımlarının 13. kolonu (max.99 satır, 01….99)</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>67</DegiskenNo>
+    <DegiskenKodu>U5….</DegiskenKodu>
+    <DegiskenAciklama>Değişken seti: Sipariş başlık tanımlarının 14. kolonu (max.99 satır, 01….99)</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>68</DegiskenNo>
+    <DegiskenKodu>U6….</DegiskenKodu>
+    <DegiskenAciklama>Değişken seti: Sipariş başlık tanımlarının 15. kolonu (max.99 satır, 01….99)</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>69</DegiskenNo>
+    <DegiskenKodu>U7….</DegiskenKodu>
+    <DegiskenAciklama>Değişken seti: Sipariş başlık tanımlarının 16. kolonu (max.99 satır, 01….99)</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>70</DegiskenNo>
+    <DegiskenKodu>U8….</DegiskenKodu>
+    <DegiskenAciklama>Değişken seti: Sipariş başlık tanımlarının 17. kolonu (max.99 satır, 01….99)</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>71</DegiskenNo>
+    <DegiskenKodu>U9….</DegiskenKodu>
+    <DegiskenAciklama>Değişken seti: Sipariş başlık tanımlarının 18. kolonu (max.99 satır, 01….99)</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>72</DegiskenNo>
+    <DegiskenKodu>HBN</DegiskenKodu>
+    <DegiskenAciklama>İrsaliye numarası (tek numara basar)</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>73</DegiskenNo>
+    <DegiskenKodu>IH01…04</DegiskenKodu>
+    <DegiskenAciklama>IBAN No değişken seti</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>74</DegiskenNo>
+    <DegiskenKodu>SNU</DegiskenKodu>
+    <DegiskenAciklama>Sipariş No (karakter sayısı fazla)</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>75</DegiskenNo>
+    <DegiskenKodu>SNO</DegiskenKodu>
+    <DegiskenAciklama>Sipariş No</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>76</DegiskenNo>
+    <DegiskenKodu>IB01..04</DegiskenKodu>
+    <DegiskenAciklama>Banka ve Şube Adı Değişken Seti</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>77</DegiskenNo>
+    <DegiskenKodu>FKA </DegiskenKodu>
+    <DegiskenAciklama>Firma kartlarındaki Firma Kısa adı</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>78</DegiskenNo>
+    <DegiskenKodu>GGM</DegiskenKodu>
+    <DegiskenAciklama>Yükteki gümrük bilgisi (İthalat ve ihracat için TRTKON.GRCKGUM alanına girilen bilginin basılması için )</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>79</DegiskenNo>
+    <DegiskenKodu>TSX</DegiskenKodu>
+    <DegiskenAciklama>Teslim şeklini basan değişken </DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>80</DegiskenNo>
+    <DegiskenKodu>SKV</DegiskenKodu>
+    <DegiskenAciklama>KDV sıfır olduğunda "0" değerini basan değişken </DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>81</DegiskenNo>
+    <DegiskenKodu>CBN</DegiskenKodu>
+    <DegiskenAciklama>Çıkış Beyanname Numarası</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>82</DegiskenNo>
+    <DegiskenKodu>SFN</DegiskenKodu>
+    <DegiskenAciklama>Sefer numarası</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>83</DegiskenNo>
+    <DegiskenKodu>XYK</DegiskenKodu>
+    <DegiskenAciklama>Yük bilgileri ekranındaki YÜKLEME YERİ KODUNA ait fatura değişkeni (Kara)</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>84</DegiskenNo>
+    <DegiskenKodu>GN1</DegiskenKodu>
+    <DegiskenAciklama>Fatura kesilen yükteki gönderici bilgisini basan değişken</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>85</DegiskenNo>
+    <DegiskenKodu>AX1</DegiskenKodu>
+    <DegiskenAciklama>Fatura kesilen yükteki alıcı bilgisini basan değişken</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>86</DegiskenNo>
+    <DegiskenKodu>SWC</DegiskenKodu>
+    <DegiskenAciklama>Karayolu pozisyon üzerindeki sürücü bilgisini basan değişken </DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>87</DegiskenNo>
+    <DegiskenKodu>TEU</DegiskenKodu>
+    <DegiskenAciklama>euro toplam</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>88</DegiskenNo>
+    <DegiskenKodu>KRU </DegiskenKodu>
+    <DegiskenAciklama>Yükteki ülkesi alanını basan değişken  </DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>89</DegiskenNo>
+    <DegiskenKodu>DMY</DegiskenKodu>
+    <DegiskenAciklama>Demiryolu İthalat fatura için yükleme yeri</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>90</DegiskenNo>
+    <DegiskenKodu>DBT</DegiskenKodu>
+    <DegiskenAciklama>Demiryolu ithalat fatura için boşaltma tarihi </DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>91</DegiskenNo>
+    <DegiskenKodu>DKG</DegiskenKodu>
+    <DegiskenAciklama>Demiryolu ithalat fatura için Çıkış İstasyonu = Kalkış garı</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>92</DegiskenNo>
+    <DegiskenKodu>DVG</DegiskenKodu>
+    <DegiskenAciklama>Demiryolu İthalat fatura için Varış İstasyonu = Varış garı    </DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>93</DegiskenNo>
+    <DegiskenKodu>TTH</DegiskenKodu>
+    <DegiskenAciklama>Genel Toplam (USD)</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>94</DegiskenNo>
+    <DegiskenKodu>TRF</DegiskenKodu>
+    <DegiskenAciklama>Genel Toplam (TL)</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>95</DegiskenNo>
+    <DegiskenKodu>KKM</DegiskenKodu>
+    <DegiskenAciklama>KDV den muaf matrah </DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>96</DegiskenNo>
+    <DegiskenKodu>MAT</DegiskenKodu>
+    <DegiskenAciklama>kdv matrahı </DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>97</DegiskenNo>
+    <DegiskenKodu>SS1.-SS..</DegiskenKodu>
+    <DegiskenAciklama>Y.içi lojistijk sevk irsaliye no.sunu faturaya basan değişken </DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>98</DegiskenNo>
+    <DegiskenKodu>LA01…</DegiskenKodu>
+    <DegiskenAciklama>DI Demuraj tarifesi gün sayısı</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>99</DegiskenNo>
+    <DegiskenKodu>LT01…</DegiskenKodu>
+    <DegiskenAciklama>DI Demuraj tarifesi Konyerner Tipi </DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>100</DegiskenNo>
+    <DegiskenKodu>L201…</DegiskenKodu>
+    <DegiskenAciklama>DI Demuraj tarifesi  20'lik fiyat </DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>101</DegiskenNo>
+    <DegiskenKodu>L401…</DegiskenKodu>
+    <DegiskenAciklama>DI Demuraj tarifesi  40'lık fiyat </DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>102</DegiskenNo>
+    <DegiskenKodu>Z11….19</DegiskenKodu>
+    <DegiskenAciklama>Fatura döviz cinsinden tutar</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>103</DegiskenNo>
+    <DegiskenKodu>X11….19</DegiskenKodu>
+    <DegiskenAciklama>Orijinal Tutar</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>104</DegiskenNo>
+    <DegiskenKodu>FNO</DegiskenKodu>
+    <DegiskenAciklama>Prof Ft.No</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>105</DegiskenNo>
+    <DegiskenKodu>VRA</DegiskenKodu>
+    <DegiskenAciklama>Pozisyon üzerindeki varış yerlerini basan değişken</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>106</DegiskenNo>
+    <DegiskenKodu>X801……99</DegiskenKodu>
+    <DegiskenAciklama>Oto bilgileri ekranındaki Şase Numarası</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>107</DegiskenNo>
+    <DegiskenKodu>X901…99</DegiskenKodu>
+    <DegiskenAciklama>Oto bilgileri ekranındaki Model Adı</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>108</DegiskenNo>
+    <DegiskenKodu>QY</DegiskenKodu>
+    <DegiskenAciklama>Denizyolu fatura şablonunda " konteyner no" basan değişken</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>109</DegiskenNo>
+    <DegiskenKodu>DL1….99</DegiskenKodu>
+    <DegiskenAciklama>Gemi tahliye tarihi</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>110</DegiskenNo>
+    <DegiskenKodu>DZ1…99</DegiskenKodu>
+    <DegiskenAciklama>Kontyener boşaltma tarihi</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>111</DegiskenNo>
+    <DegiskenKodu>DF1….99</DegiskenKodu>
+    <DegiskenAciklama>Demuraj Ücreti</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>112</DegiskenNo>
+    <DegiskenKodu>DH1…99</DegiskenKodu>
+    <DegiskenAciklama>Demuraj günü</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>113</DegiskenNo>
+    <DegiskenKodu>DJ1…99</DegiskenKodu>
+    <DegiskenAciklama>Serbest süre</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>114</DegiskenNo>
+    <DegiskenKodu>QZ1….99</DegiskenKodu>
+    <DegiskenAciklama>Konteyner boyu ve konteyner tipi</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>115</DegiskenNo>
+    <DegiskenKodu>HBN</DegiskenKodu>
+    <DegiskenAciklama>HAWB no</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>116</DegiskenNo>
+    <DegiskenKodu>FPL </DegiskenKodu>
+    <DegiskenAciklama>Mawb no</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>117</DegiskenNo>
+    <DegiskenKodu>UAG</DegiskenKodu>
+    <DegiskenAciklama>Yükteki toplam ücret ağırlığı</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>118</DegiskenNo>
+    <DegiskenKodu>KA01… KA15</DegiskenKodu>
+    <DegiskenAciklama>Kalem adı, güzergah, konteyner numarası ve plakaları basıyor (34 karakter) </DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>119</DegiskenNo>
+    <DegiskenKodu>KW01…KW99</DegiskenKodu>
+    <DegiskenAciklama>Kalem adı, güzergah, konteyner numarası ve plakaları basıyor (80 karakter) </DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>120</DegiskenNo>
+    <DegiskenKodu>GKT</DegiskenKodu>
+    <DegiskenAciklama>DENİZ YOLU POZ ÜZERİNDEKİ KALKIŞ TARİHİ</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>121</DegiskenNo>
+    <DegiskenKodu>BOT</DegiskenKodu>
+    <DegiskenAciklama>DENİZ YOLU POZ ÜZERİNDEKİ VARIŞ TARİHİ</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>122</DegiskenNo>
+    <DegiskenKodu>XML</DegiskenKodu>
+    <DegiskenAciklama>Yük Mal Sınıfı</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>123</DegiskenNo>
+    <DegiskenKodu>ZM01…ZM69</DegiskenKodu>
+    <DegiskenAciklama>Yükün Merkez acentesinden bulunan adres kartının tüm bilgileri sırası ile atanır</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>124</DegiskenNo>
+    <DegiskenKodu>RYP</DegiskenKodu>
+    <DegiskenAciklama>Denizyolu yük rezervasyon bilgileri rezervasyon yaptıran </DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>125</DegiskenNo>
+    <DegiskenKodu>MOZ</DegiskenKodu>
+    <DegiskenAciklama>Fatura ekranında muh. Özel kod</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>126</DegiskenNo>
+    <DegiskenKodu>HAT</DegiskenKodu>
+    <DegiskenAciklama>Pozisyon üzerindeki hat adı</DegiskenAciklama>
+    <DegiskenModul>Fatura</DegiskenModul>
+  </Degisken>
+</Degiskenler>

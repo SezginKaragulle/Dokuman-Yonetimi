@@ -1,0 +1,2799 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Degiskenler>
+  <Degisken>
+    <DegiskenNo>0</DegiskenNo>
+    <DegiskenKodu>FIRMA_DONEM_BASI      </DegiskenKodu>
+    <DegiskenAciklama>  Raporun tarih aralıklarından ilki (Bu tarih itibariyle devir alınır)      </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>1</DegiskenNo>
+    <DegiskenKodu>FIRMA_DONEM_SONU      </DegiskenKodu>
+    <DegiskenAciklama>  Raporun tarih aralıklarından ikincisi     </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>2</DegiskenNo>
+    <DegiskenKodu>FIRMA_CARI_KODU       </DegiskenKodu>
+    <DegiskenAciklama>    Cari kod  </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>3</DegiskenNo>
+    <DegiskenKodu>FIRMA_ADI             </DegiskenKodu>
+    <DegiskenAciklama>     Cari ad </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>4</DegiskenNo>
+    <DegiskenKodu>FIRMA_UNVANI          </DegiskenKodu>
+    <DegiskenAciklama>       Carinin Ünvanı  </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>5</DegiskenNo>
+    <DegiskenKodu>FIRMA_ADRES1          </DegiskenKodu>
+    <DegiskenAciklama>      Carinin Adresi1</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>6</DegiskenNo>
+    <DegiskenKodu>FIRMA_ADRES2          </DegiskenKodu>
+    <DegiskenAciklama>      Carinin Adresi2   </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>7</DegiskenNo>
+    <DegiskenKodu>FIRMA_ADRES3          </DegiskenKodu>
+    <DegiskenAciklama>      Carinin Adresi3   </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>8</DegiskenNo>
+    <DegiskenKodu>FIRMA_TELEFON1        </DegiskenKodu>
+    <DegiskenAciklama>      Carinin Telefonu   </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>9</DegiskenNo>
+    <DegiskenKodu>FIRMA_TELEFON2        </DegiskenKodu>
+    <DegiskenAciklama>      Carinin Telefonu     </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>10</DegiskenNo>
+    <DegiskenKodu>FIRMA_FAKS_NO         </DegiskenKodu>
+    <DegiskenAciklama>      Carinin Fax Numarası</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>11</DegiskenNo>
+    <DegiskenKodu>FIRMA_E_POSTA         </DegiskenKodu>
+    <DegiskenAciklama>      Carinin e-mail Adresi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>12</DegiskenNo>
+    <DegiskenKodu>FIRMA_VERGI_DAIRE     </DegiskenKodu>
+    <DegiskenAciklama>      Carinin Vergi Dairesi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>13</DegiskenNo>
+    <DegiskenKodu>FIRMA_VERGI_NUMARA    </DegiskenKodu>
+    <DegiskenAciklama>      Carinin Vergi Numarası  </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>14</DegiskenNo>
+    <DegiskenKodu>FIRMA_KREDI_LIMITI    </DegiskenKodu>
+    <DegiskenAciklama>      Cariye Ait Kredi limiti + Döviz Kodu</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>15</DegiskenNo>
+    <DegiskenKodu>FIRMA_KREDI_DOVIZI    </DegiskenKodu>
+    <DegiskenAciklama>      Cariye Ait Kredi limitinin Döviz kodu</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>16</DegiskenNo>
+    <DegiskenKodu>FIRMA_BANKHESI        </DegiskenKodu>
+    <DegiskenAciklama>      Şirkete Ait Havale Yapılacak Banka(Çek-Senet Banka tanımlarında Geçerli işaretlenmiş Banka-İngilizce-Swift kodu,IBAN ile)</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>17</DegiskenNo>
+    <DegiskenKodu>FIRMA_METIN           </DegiskenKodu>
+    <DegiskenAciklama>      Mutabakat Yapılacak Bankayı Söylemek İçin Giriş Cümlesi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>18</DegiskenNo>
+    <DegiskenKodu>FIRMA_BANKASI         </DegiskenKodu>
+    <DegiskenAciklama>      Cariye Ait Geçerli İşaretlenmiş Banka Tanımı(IBAN Nolu)</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>19</DegiskenNo>
+    <DegiskenKodu>FIRMA_ANLASMA_VADE    </DegiskenKodu>
+    <DegiskenAciklama>      Cari Döviz Kartında Yoksa Cari Karttaki Ödeme Süresi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>20</DegiskenNo>
+    <DegiskenKodu>FIRMA_TEMSILCISI      </DegiskenKodu>
+    <DegiskenAciklama>      Carinin Temsilcisi </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>21</DegiskenNo>
+    <DegiskenKodu>FIRMA_TEMSILCIMIZ     </DegiskenKodu>
+    <DegiskenAciklama>      Carinin  Döviz Kartında Yoksa Cari</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>22</DegiskenNo>
+    <DegiskenKodu>FIRMA_ODEME_GUNU      </DegiskenKodu>
+    <DegiskenAciklama>      Carinin Ödemesini Yapmasını İstediğimiz Liste Çekilen Hafta İçindeki Tarih</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>23</DegiskenNo>
+    <DegiskenKodu>Firma_ilce_adi        </DegiskenKodu>
+    <DegiskenAciklama>      Carinin ilçe adı   </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>24</DegiskenNo>
+    <DegiskenKodu>Firma_il_adi          </DegiskenKodu>
+    <DegiskenAciklama>      Carinin il adı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>25</DegiskenNo>
+    <DegiskenKodu>Firma_ulke_adi        </DegiskenKodu>
+    <DegiskenAciklama>      Carinin ülke adı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>26</DegiskenNo>
+    <DegiskenKodu>G_FIRMA_ADI           </DegiskenKodu>
+    <DegiskenAciklama>      Raporun Alındığı Şirketin Adı   </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>27</DegiskenNo>
+    <DegiskenKodu>G_FIRMA_UNVANI        </DegiskenKodu>
+    <DegiskenAciklama>      Bu Şirket Koduna İlişkin Ünvan    </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>28</DegiskenNo>
+    <DegiskenKodu>G_FIRMA_ADRES1        </DegiskenKodu>
+    <DegiskenAciklama>      Şirket Adresi1   </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>29</DegiskenNo>
+    <DegiskenKodu>G_FIRMA_ADRES2        </DegiskenKodu>
+    <DegiskenAciklama>      Şirket Adresi2   </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>30</DegiskenNo>
+    <DegiskenKodu>G_FIRMA_ADRES3        </DegiskenKodu>
+    <DegiskenAciklama>      Şirket Adresi3   </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>31</DegiskenNo>
+    <DegiskenKodu>G_FIRMA_TELEFON1      </DegiskenKodu>
+    <DegiskenAciklama>      Şirket Telefon Numarası   </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>32</DegiskenNo>
+    <DegiskenKodu>G_FIRMA_TELEFON2      </DegiskenKodu>
+    <DegiskenAciklama>      Şirket Telefon Numarası 2</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>33</DegiskenNo>
+    <DegiskenKodu>G_FIRMA_FAX_NO        </DegiskenKodu>
+    <DegiskenAciklama>      Şirket Fax Numarası   </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>34</DegiskenNo>
+    <DegiskenKodu>G_FIRMA_E_POSTA       </DegiskenKodu>
+    <DegiskenAciklama>      Şirket Elektronik Posta Adresi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>35</DegiskenNo>
+    <DegiskenKodu>G_FIRMA_VERGID        </DegiskenKodu>
+    <DegiskenAciklama>      Şirket Vergi Dairesi   </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>36</DegiskenNo>
+    <DegiskenKodu>G_FIRMA_VERGIN        </DegiskenKodu>
+    <DegiskenAciklama>      Şirket Vergi Numarası</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>37</DegiskenNo>
+    <DegiskenKodu>G_FIRMA_YMAIL         </DegiskenKodu>
+    <DegiskenAciklama>      Şirket Yetkilisinin Mail Adresi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>38</DegiskenNo>
+    <DegiskenKodu>G_FIRMA_T_SICIL       </DegiskenKodu>
+    <DegiskenAciklama>      Şirket Ticaret Sicil Numarası</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>39</DegiskenNo>
+    <DegiskenKodu>G_FIRMA_WEB           </DegiskenKodu>
+    <DegiskenAciklama>      Şirket WEB Sitesi G_KUL_ADI                   Rapor Çeken Kullanıcı Adı Soyadı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>40</DegiskenNo>
+    <DegiskenKodu>G_KUL_EPOSTA          </DegiskenKodu>
+    <DegiskenAciklama>      Rapor Çeken Kullanıcı E-posta</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>41</DegiskenNo>
+    <DegiskenKodu>FIRMA_KDV_itop        </DegiskenKodu>
+    <DegiskenAciklama>      Carinin anapara cinsinden toplam fatura tutarı(alınan- indirilecek KDV)</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>42</DegiskenNo>
+    <DegiskenKodu>FIRMA_KDV_ihrc        </DegiskenKodu>
+    <DegiskenAciklama>      Carinin anapara cinsinden toplam KDV hariç fatura tutarı(alınan- indirilecek KDV)</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>43</DegiskenNo>
+    <DegiskenKodu>FIRMA_KDV_iblg        </DegiskenKodu>
+    <DegiskenAciklama>      Carinin toplam fatura adedi(alınan- indirilecek KDV)</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>44</DegiskenNo>
+    <DegiskenKodu>FIRMA_KDV_htop        </DegiskenKodu>
+    <DegiskenAciklama>      Carinin anapara cinsinden toplam fatura tutarı(satış- hesaplanan KDV)</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>45</DegiskenNo>
+    <DegiskenKodu>FIRMA_KDV_hhrc        </DegiskenKodu>
+    <DegiskenAciklama>      Carinin anapara cinsinden toplam KDV hariç fatura tutarı(satış- hesaplanan KDV)</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>46</DegiskenNo>
+    <DegiskenKodu>FIRMA_KDV_hblg        </DegiskenKodu>
+    <DegiskenAciklama>      Carinin toplam fatura adedi(satış- hesaplanan KDV)</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>47</DegiskenNo>
+    <DegiskenKodu>FIRMA_KDV_01itop      </DegiskenKodu>
+    <DegiskenAciklama>        Carinin anapara cinsinden 1  ay toplam fatura tutarı(alınan- indirilecek KDV)</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>48</DegiskenNo>
+    <DegiskenKodu>FIRMA_KDV_01ihrc      </DegiskenKodu>
+    <DegiskenAciklama>        Carinin anapara cinsinden 1  ay toplam KDV hariç fatura tutarı(alınan- indirilecek KDV)</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>49</DegiskenNo>
+    <DegiskenKodu>FIRMA_KDV_01iblg      </DegiskenKodu>
+    <DegiskenAciklama>        Carinin toplam 1  ay fatura adedi(alınan- indirilecek KDV)</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>50</DegiskenNo>
+    <DegiskenKodu>FIRMA_KDV_01htop      </DegiskenKodu>
+    <DegiskenAciklama>        Carinin anapara cinsinden 1  ay toplam fatura tutarı(satış- hesaplanan KDV)</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>51</DegiskenNo>
+    <DegiskenKodu>FIRMA_KDV_01hhrc      </DegiskenKodu>
+    <DegiskenAciklama>        Carinin anapara cinsinden 1  ay toplam KDV hariç fatura tutarı(satış- hesaplanan KDV)</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>52</DegiskenNo>
+    <DegiskenKodu>FIRMA_KDV_01hblg      </DegiskenKodu>
+    <DegiskenAciklama>        Carinin toplam 1  ay fatura adedi(satış- hesaplanan KDV)</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>53</DegiskenNo>
+    <DegiskenKodu>BANKA_BANKHES         </DegiskenKodu>
+    <DegiskenAciklama>      Banka bilgileri(çek banka tanımlarında öncelik kodu boşluktan farklı olanlar,Iban Nolu)</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>54</DegiskenNo>
+    <DegiskenKodu>CARIHRK_FIS_TARIHI    </DegiskenKodu>
+    <DegiskenAciklama>     Hareket Fiş Tarihi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>55</DegiskenNo>
+    <DegiskenKodu>CARIHRK_FIS_NO        </DegiskenKodu>
+    <DegiskenAciklama>     Hareket Fiş Numarası</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>56</DegiskenNo>
+    <DegiskenKodu>CARIHRK_KAREKET_KODU  </DegiskenKodu>
+    <DegiskenAciklama>     Hareket Türü + Hareket Kodu Bir Arada</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>57</DegiskenNo>
+    <DegiskenKodu>CARIHRK_HRK_OZEL_KOD  </DegiskenKodu>
+    <DegiskenAciklama>     Hareket Özel Kodu</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>58</DegiskenNo>
+    <DegiskenKodu>CARIHRK_ODEME_TARIHI  </DegiskenKodu>
+    <DegiskenAciklama>     Hareket Ödeme Tarihi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>59</DegiskenNo>
+    <DegiskenKodu>CARIHRK_BELGE_NO      </DegiskenKodu>
+    <DegiskenAciklama>     Hareket Belge Numarası</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>60</DegiskenNo>
+    <DegiskenKodu>CARIHRK_BELGE_TARIHI  </DegiskenKodu>
+    <DegiskenAciklama>     Hareket Belge Tarihi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>61</DegiskenNo>
+    <DegiskenKodu>CARIHRK_ACIKLAMA      </DegiskenKodu>
+    <DegiskenAciklama>     Hareket Açıklaması </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>62</DegiskenNo>
+    <DegiskenKodu>CARIHRK_GIRILEN_TUT   </DegiskenKodu>
+    <DegiskenAciklama>     Hareketin Girilen Tutarı + Dövizi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>63</DegiskenNo>
+    <DegiskenKodu>CARIHRK_GIRILEN_TUTB  </DegiskenKodu>
+    <DegiskenAciklama>     Hareketin Girilen Tutarı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>64</DegiskenNo>
+    <DegiskenKodu>CARIHRK_CARDOV        </DegiskenKodu>
+    <DegiskenAciklama>     Hareket Cari Dövizi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>65</DegiskenNo>
+    <DegiskenKodu>CARIHRK_IRSALIYE_NO   </DegiskenKodu>
+    <DegiskenAciklama>     Kullanılmıyor</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>66</DegiskenNo>
+    <DegiskenKodu>CARIHRK_ODEME_SURESI  </DegiskenKodu>
+    <DegiskenAciklama>     Hareket Ödeme Süresi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>67</DegiskenNo>
+    <DegiskenKodu>CARIHRK_GECIKME_SUR   </DegiskenKodu>
+    <DegiskenAciklama>     Hareketin Gecikme Süresi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>68</DegiskenNo>
+    <DegiskenKodu>CARIHRK_IRSALIYE_TRH  </DegiskenKodu>
+    <DegiskenAciklama>     Hareket Belge Tarihi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>69</DegiskenNo>
+    <DegiskenKodu>CARIHRK_SIPARIS_NO    </DegiskenKodu>
+    <DegiskenAciklama>     Kullanılmıyor</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>70</DegiskenNo>
+    <DegiskenKodu>CARIHRK_SIPARIS_TRH   </DegiskenKodu>
+    <DegiskenAciklama>     Kullanılmıyor</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>71</DegiskenNo>
+    <DegiskenKodu>CARIHRK_UYGULAMA_KOD  </DegiskenKodu>
+    <DegiskenAciklama>     Hareket Uygulama Kodu</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>72</DegiskenNo>
+    <DegiskenKodu>CARIHRK_TAHSIL_FISI   </DegiskenKodu>
+    <DegiskenAciklama>     Kullanılmıyor</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>73</DegiskenNo>
+    <DegiskenKodu>CARIHRK_BORC_ALACAK   </DegiskenKodu>
+    <DegiskenAciklama>     Hareket Borç-Alacak Kodu(B-A) </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>74</DegiskenNo>
+    <DegiskenKodu>CARIHRK_GIRIS_DOVIZI  </DegiskenKodu>
+    <DegiskenAciklama>     Hareket Girilen Tutar Dövizi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>75</DegiskenNo>
+    <DegiskenKodu>CARIHRK_KURTIPI       </DegiskenKodu>
+    <DegiskenAciklama>     Hareket Girilen Tutar Kur Tipi          </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>76</DegiskenNo>
+    <DegiskenKodu>CARIHRK_KUR_TARIHI    </DegiskenKodu>
+    <DegiskenAciklama>     Hareket Girilen Tutar Kur Tarihi      </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>77</DegiskenNo>
+    <DegiskenKodu>CARIHRK_KUR_TUTARI    </DegiskenKodu>
+    <DegiskenAciklama>     Hareket Girilen Tutar Kur Tutarı      </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>78</DegiskenNo>
+    <DegiskenKodu>CARIHRK_TL_TUTAR      </DegiskenKodu>
+    <DegiskenAciklama>     Hareket Ana Para Birimi Tutarı + Döviz     </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>79</DegiskenNo>
+    <DegiskenKodu>CARIHRK_TL_TUTARB     </DegiskenKodu>
+    <DegiskenAciklama>     Hareket Ana Para Birimi Tutarı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>80</DegiskenNo>
+    <DegiskenKodu>CARIHRK_REF_TUTAR     </DegiskenKodu>
+    <DegiskenAciklama>     Hareket Referans Tutarı + Döviz     </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>81</DegiskenNo>
+    <DegiskenKodu>CARIHRK_REF_TUTARB    </DegiskenKodu>
+    <DegiskenAciklama>     Hareket Referans Para Birimi Tutarı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>82</DegiskenNo>
+    <DegiskenKodu>CARIHRK_EURO_TUTAR    </DegiskenKodu>
+    <DegiskenAciklama>     Hareket Euro Tutarı + Döviz</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>83</DegiskenNo>
+    <DegiskenKodu>CARIHRK_EURO_TUTARB   </DegiskenKodu>
+    <DegiskenAciklama>     Hareket Euro Tutarı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>84</DegiskenNo>
+    <DegiskenKodu>CARIHRK_KART_TUTAR    </DegiskenKodu>
+    <DegiskenAciklama>     Hareket Orijinal Döviz Tutarı+ Döviz      </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>85</DegiskenNo>
+    <DegiskenKodu>CARIHRK_KART_TUTARB   </DegiskenKodu>
+    <DegiskenAciklama>     Hareket Orijinal Tutarı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>86</DegiskenNo>
+    <DegiskenKodu>CARIHRK_BAKIYE_TLTUT  </DegiskenKodu>
+    <DegiskenAciklama>     Hareketli Bakiye Anapara Birimi Tutarı+ D </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>87</DegiskenNo>
+    <DegiskenKodu>CARIHRK_BAKIYE_TLTUB  </DegiskenKodu>
+    <DegiskenAciklama>     Hareketli Bakiye Anapara Birimi Tutarı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>88</DegiskenNo>
+    <DegiskenKodu>CARIHRK_BAKOD_TL      </DegiskenKodu>
+    <DegiskenAciklama>     Hareketli Bakiye Ana  Birimi B-A Kodu      </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>89</DegiskenNo>
+    <DegiskenKodu>CARIHRK_BAKIYE_RFTUT  </DegiskenKodu>
+    <DegiskenAciklama>     Hareketli Bakiye Ref  Birimi Tutarı+D</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>90</DegiskenNo>
+    <DegiskenKodu>CARIHRK_BAKIYE_RFTUB  </DegiskenKodu>
+    <DegiskenAciklama>     Hareketli Bakiye Ref  Birimi Tutarı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>91</DegiskenNo>
+    <DegiskenKodu>CARIHRK_BAKOD_REF     </DegiskenKodu>
+    <DegiskenAciklama>     Hareketli Bakiye Ref  Birimi B-A Kodu     </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>92</DegiskenNo>
+    <DegiskenKodu>CARIHRK_BAKIYE_EUTUT  </DegiskenKodu>
+    <DegiskenAciklama>     Hareketli Bakiye Euro Tutarı + D </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>93</DegiskenNo>
+    <DegiskenKodu>CARIHRK_BAKIYE_EUTUB  </DegiskenKodu>
+    <DegiskenAciklama>     Hareketli Bakiye Euro Tutarı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>94</DegiskenNo>
+    <DegiskenKodu>CARIHRK_BAKOD_EURO    </DegiskenKodu>
+    <DegiskenAciklama>     Hareketli Bakiye Euro B-A Kodu             </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>95</DegiskenNo>
+    <DegiskenKodu>CARIHRK_BAKIYE_KRTUT  </DegiskenKodu>
+    <DegiskenAciklama>     Hareketli Bakiye Orijinal Tutarı+D</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>96</DegiskenNo>
+    <DegiskenKodu>CARIHRK_BAKIYE_KRTUB  </DegiskenKodu>
+    <DegiskenAciklama>     Hareketli Bakiye Orijinal Tutarı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>97</DegiskenNo>
+    <DegiskenKodu>CARIHRK_BAKOD_KART    </DegiskenKodu>
+    <DegiskenAciklama>     Hareketli Bakiye Orijinal B-A Kodu</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>98</DegiskenNo>
+    <DegiskenKodu>CARIHRK_TL_TUTAR_B    </DegiskenKodu>
+    <DegiskenAciklama>     Hareket TL Tutarı + Dövizi(Borç ise dolu) </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>99</DegiskenNo>
+    <DegiskenKodu>CARIHRK_TL_TUTAR_A    </DegiskenKodu>
+    <DegiskenAciklama>     Hareket TL Tutarı + Dövizi(Alacak ise Dolu)</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>100</DegiskenNo>
+    <DegiskenKodu>CARIHRK_REF_TUTAR_B   </DegiskenKodu>
+    <DegiskenAciklama>     Hareket Ref  Tutarı + Dövizi(Borç hareketi ise dolu)</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>101</DegiskenNo>
+    <DegiskenKodu>CARIHRK_REF_TUTAR_A   </DegiskenKodu>
+    <DegiskenAciklama>     Hareket Ref  Tutarı + Dövizi(Alacak hareketi ise dolu)</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>102</DegiskenNo>
+    <DegiskenKodu>CARIHRK_EURO_TUTAR_B  </DegiskenKodu>
+    <DegiskenAciklama>     Hareket EUR Tutarı + Dövizi(Borç hareketi ise dolu)</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>103</DegiskenNo>
+    <DegiskenKodu>CARIHRK_EURO_TUTAR_A  </DegiskenKodu>
+    <DegiskenAciklama>     Hareket EUR Tutarı + Dövizi(Alacak hareketi ise dolu)</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>104</DegiskenNo>
+    <DegiskenKodu>CARIHRK_KART_TUTAR_B  </DegiskenKodu>
+    <DegiskenAciklama>     Hareket Orijinal Tutarı + Dövizi(Borç hareketi ise dolu)         </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>105</DegiskenNo>
+    <DegiskenKodu>CARIHRK_KART_TUTAR_A  </DegiskenKodu>
+    <DegiskenAciklama>     Hareket Orijinal Tutarı + Dövizi( Alacak hareketi ise dolu)</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>106</DegiskenNo>
+    <DegiskenKodu>CARIHRK_KART_TUTARBB  </DegiskenKodu>
+    <DegiskenAciklama>     Hareket Orijinal Tutarı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>107</DegiskenNo>
+    <DegiskenKodu>CARIHRK_KART_TUTARAB  </DegiskenKodu>
+    <DegiskenAciklama>     Hareket Orijinal Tutarı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>108</DegiskenNo>
+    <DegiskenKodu>CARIHRK_CARKOD        </DegiskenKodu>
+    <DegiskenAciklama>     Hareketin Cari Kodu</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>109</DegiskenNo>
+    <DegiskenKodu>CARIHRK_KALAN_ TUTAR  </DegiskenKodu>
+    <DegiskenAciklama>      Hareket Kalan Tutarı + Dövizi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>110</DegiskenNo>
+    <DegiskenKodu>CARIHRK_KALAN_TUTARB  </DegiskenKodu>
+    <DegiskenAciklama>     Hareket Kalan Tutarı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>111</DegiskenNo>
+    <DegiskenKodu>CARIHRK_KDV_TUT       </DegiskenKodu>
+    <DegiskenAciklama>     KDV’yi uygulamasından bul çentiği işaretli ise hareketin KDV Tutarını Anapara cinsinden verir     </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>112</DegiskenNo>
+    <DegiskenKodu>CARIHRK_KDV_HRC_TUT   </DegiskenKodu>
+    <DegiskenAciklama>     KDV’yi uygulamasından bul çentiği işaretli ise hareketin KDV hariç tutarını Anapara cinsinden verir</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>113</DegiskenNo>
+    <DegiskenKodu>DEVIR_CARI_KOD        </DegiskenKodu>
+    <DegiskenAciklama>     Devri Alınan Cari Kod</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>114</DegiskenNo>
+    <DegiskenKodu>DEVIR_CARI_DOVIZ      </DegiskenKodu>
+    <DegiskenAciklama>     Devri Alınan Cari Kartın Döviz Kodu</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>115</DegiskenNo>
+    <DegiskenKodu>DEVIR_TL_TUTAR        </DegiskenKodu>
+    <DegiskenAciklama>     Devir Anapara Birimi Cinsinden Tutarı   </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>116</DegiskenNo>
+    <DegiskenKodu>DEVIR_TL_BA           </DegiskenKodu>
+    <DegiskenAciklama>     Devir Anapara Birimi tutarı B-A Kodu </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>117</DegiskenNo>
+    <DegiskenKodu>DEVIR_REF_TUTAR       </DegiskenKodu>
+    <DegiskenAciklama>     Devir Referans Cinsi Tutarı   </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>118</DegiskenNo>
+    <DegiskenKodu>DEVIR_REF_BA          </DegiskenKodu>
+    <DegiskenAciklama>     Devir Referans Cinsi Tutarı B-A Kodu  </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>119</DegiskenNo>
+    <DegiskenKodu>DEVIR_EURO_TUTAR      </DegiskenKodu>
+    <DegiskenAciklama>     Devir Euro Para Birimi Tutarı  </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>120</DegiskenNo>
+    <DegiskenKodu>DEVIR_EURO_BA         </DegiskenKodu>
+    <DegiskenAciklama>     Devir Euro Para Birimi Tutarı B-A Kodu  </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>121</DegiskenNo>
+    <DegiskenKodu>DEVIR_KART_TUTAR      </DegiskenKodu>
+    <DegiskenAciklama>     Devir Orijinal Tutarı   </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>122</DegiskenNo>
+    <DegiskenKodu>DEVIR_KART_BA         </DegiskenKodu>
+    <DegiskenAciklama>     Devir Orijinal Tutarı B-A Kodu   </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>123</DegiskenNo>
+    <DegiskenKodu>HRK_TOP_DOVIZ         </DegiskenKodu>
+    <DegiskenAciklama>     Toplamı Alınan Cari Döviz Kartı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>124</DegiskenNo>
+    <DegiskenKodu>HRK_TOP_TL_BORC       </DegiskenKodu>
+    <DegiskenAciklama>     Döviz Kartının Anapara Birimi Borç Tutarı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>125</DegiskenNo>
+    <DegiskenKodu>HRK_TOP_TL_ALACAK     </DegiskenKodu>
+    <DegiskenAciklama>     Döviz Kartının Anapara Birimi Alacak Tutarı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>126</DegiskenNo>
+    <DegiskenKodu>HRK_TOP_REF_BORC      </DegiskenKodu>
+    <DegiskenAciklama>     Döviz Kartının Referans Borç Tutarı </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>127</DegiskenNo>
+    <DegiskenKodu>HRK_TOP_REF_ALACAK    </DegiskenKodu>
+    <DegiskenAciklama>     Döviz Kartının Referans Alacak Tutarı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>128</DegiskenNo>
+    <DegiskenKodu>HRK_TOP_EURO_BORC     </DegiskenKodu>
+    <DegiskenAciklama>     Döviz Kartının Euro Borç Tutarı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>129</DegiskenNo>
+    <DegiskenKodu>HRK_TOP_EURO_ALACAK   </DegiskenKodu>
+    <DegiskenAciklama>     Döviz Kartının Euro Alacak Tutarı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>130</DegiskenNo>
+    <DegiskenKodu>HRK_TOP_KART_BORC     </DegiskenKodu>
+    <DegiskenAciklama>     Döviz Kartının Orjinal Borç Tutarı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>131</DegiskenNo>
+    <DegiskenKodu>HRK_TOP_KART_ALACAK   </DegiskenKodu>
+    <DegiskenAciklama>     Döviz Kartının Orjinal Alacak Tutarı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>132</DegiskenNo>
+    <DegiskenKodu>YAS_30                </DegiskenKodu>
+    <DegiskenAciklama>     Rapor alınan İki Tarih Arasındaki Hareketlerin Vadelerine, Göre 0-30 Gün Arasında Gecikmiş Olanların Kalan Tutarları Toplamı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>133</DegiskenNo>
+    <DegiskenKodu>YAS_60                </DegiskenKodu>
+    <DegiskenAciklama>     Rapor alınan İki Tarih Arasındaki Hareketlerin Vadelerine, Göre 31-60 Gün Arasında Gecikmiş Olanların Kalan Tutarları Toplamı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>134</DegiskenNo>
+    <DegiskenKodu>YAS_90                </DegiskenKodu>
+    <DegiskenAciklama>     Rapor alınan İki Tarih Arasındaki Hareketlerin Vadelerine, Göre 61-90 Gün Arasında Gecikmiş Olanların Kalan Tutarları Toplamı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>135</DegiskenNo>
+    <DegiskenKodu>YAS_120               </DegiskenKodu>
+    <DegiskenAciklama>     Rapor alınan İki Tarih Arasındaki Hareketlerin Vadelerine, Göre 91 ve Üstü Gün Arasında Gecikmiş Olanların Kalan Tutarları Toplamı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>136</DegiskenNo>
+    <DegiskenKodu>KDV_iTop              </DegiskenKodu>
+    <DegiskenAciklama>      Raporda Uygulamasından Bul çentiği işaretli ise toplam İndirilecek KDV tutarı      </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>137</DegiskenNo>
+    <DegiskenKodu>KDV_iHaric_Top        </DegiskenKodu>
+    <DegiskenAciklama>      Raporda Uygulamasından Bul çentiği işaretli ise toplam İndirilecek KDV Matrahı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>138</DegiskenNo>
+    <DegiskenKodu>KDV_ibelge_sayisi     </DegiskenKodu>
+    <DegiskenAciklama>      Raporda Uygulamasından Bul çentiği işaretli ise İndirilecek KDV bulunan hareket sayısı </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>139</DegiskenNo>
+    <DegiskenKodu>KDV_hTop              </DegiskenKodu>
+    <DegiskenAciklama>      Raporda Uygulamasından Bul çentiği işaretli ise toplam Hesaplanan KDV tutarı      </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>140</DegiskenNo>
+    <DegiskenKodu>KDV_hHaric_Top        </DegiskenKodu>
+    <DegiskenAciklama>      Raporda Uygulamasından Bul çentiği işaretli ise toplam Hesaplanan KDV Matrahı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>141</DegiskenNo>
+    <DegiskenKodu>KDV_hbelge_sayisi     </DegiskenKodu>
+    <DegiskenAciklama>      Raporda Uygulamasından Bul çentiği işaretli ise Hesaplanan KDV bulunan hareket sayısı </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>142</DegiskenNo>
+    <DegiskenKodu>GENEL_BAKIYE_D        </DegiskenKodu>
+    <DegiskenAciklama>     Bakiyesi Alınan Cari Döviz Kartı    </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>143</DegiskenNo>
+    <DegiskenKodu>GENEL_BAKIYE_TL       </DegiskenKodu>
+    <DegiskenAciklama>     Anapara Birimi Cinsinden Bakiye   </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>144</DegiskenNo>
+    <DegiskenKodu>GENEL_BAKIYE_TAB      </DegiskenKodu>
+    <DegiskenAciklama>     Anapara Birimi Cinsinden Bakiye B-A Kodu</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>145</DegiskenNo>
+    <DegiskenKodu>GENEL_BAKIYE_REF      </DegiskenKodu>
+    <DegiskenAciklama>     Referans Cinsinden Bakiye   </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>146</DegiskenNo>
+    <DegiskenKodu>GENEL_BAKIYE_RAB      </DegiskenKodu>
+    <DegiskenAciklama>     Referans Cinsinden Bakiye B-A Kodu   </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>147</DegiskenNo>
+    <DegiskenKodu>GENEL_BAKIYE_EUR      </DegiskenKodu>
+    <DegiskenAciklama>     Euro Cinsinden Bakiye</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>148</DegiskenNo>
+    <DegiskenKodu>GENEL_BAKIYE_EAB      </DegiskenKodu>
+    <DegiskenAciklama>     Euro Cinsinden Bakiye B-A Kodu   </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>149</DegiskenNo>
+    <DegiskenKodu>GENEL_BAKIYE_KOR      </DegiskenKodu>
+    <DegiskenAciklama>     Orijinal Cinsinden Bakiye</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>150</DegiskenNo>
+    <DegiskenKodu>GENEL_BAKIYE_KRT      </DegiskenKodu>
+    <DegiskenAciklama>     Orijinal Cinsinden Bakiye + Dövizi   </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>151</DegiskenNo>
+    <DegiskenKodu>GENEL_BAKIYE_KAB      </DegiskenKodu>
+    <DegiskenAciklama>     Orijinal Cinsinden Bakiye B-A Kodu              </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>152</DegiskenNo>
+    <DegiskenKodu>GENEL_BAKIYE_KABT     </DegiskenKodu>
+    <DegiskenAciklama>     Orijinal Bakiye B-A kodu Türkçe Uzun</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>153</DegiskenNo>
+    <DegiskenKodu>GENEL_BAKIYE_KABI     </DegiskenKodu>
+    <DegiskenAciklama>     Orijinal Bakiye B-A kodu İngilizce Uzun</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>154</DegiskenNo>
+    <DegiskenKodu>GENEL_BAKIYE_TA       </DegiskenKodu>
+    <DegiskenAciklama>     Anapara Cinsinden Bakiye(Alacak İse Dolu) + Anapara Birimi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>155</DegiskenNo>
+    <DegiskenKodu>GENEL_BAKIYE_TB       </DegiskenKodu>
+    <DegiskenAciklama>     Anapara Cinsinden Bakiye(Borç İse Dolu) + Anapara Birimi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>156</DegiskenNo>
+    <DegiskenKodu>GENEL_BAKIYE_RA       </DegiskenKodu>
+    <DegiskenAciklama>     Referans Cinsinden Bakiye(Alacak İse Dolu) + Referans Para Birimi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>157</DegiskenNo>
+    <DegiskenKodu>GENEL_BAKIYE_RB       </DegiskenKodu>
+    <DegiskenAciklama>     Referans Cinsinden Bakiye(Borç İse Dolu) + Referans Para Birimi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>158</DegiskenNo>
+    <DegiskenKodu>GENEL_BAKIYE_EA       </DegiskenKodu>
+    <DegiskenAciklama>     Euro Bakiye(Alacak İse Dolu) + Euro Para Birimi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>159</DegiskenNo>
+    <DegiskenKodu>GENEL_BAKIYE_EB       </DegiskenKodu>
+    <DegiskenAciklama>     Euro Bakiye(Borç İse Dolu) + Euro Para Birimi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>160</DegiskenNo>
+    <DegiskenKodu>GENEL_BAKIYE_KA       </DegiskenKodu>
+    <DegiskenAciklama>     Orijinal Bakiye(Alacak İse Dolu) + Orijinal Birimi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>161</DegiskenNo>
+    <DegiskenKodu>GENEL_BAKIYE_KB       </DegiskenKodu>
+    <DegiskenAciklama>     Orijinal Bakiye(Borç İse Dolu) + Orijinal Birimi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>162</DegiskenNo>
+    <DegiskenKodu>GENEL_BAKIYE_SAN      </DegiskenKodu>
+    <DegiskenAciklama>     Ana Para Birimi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>163</DegiskenNo>
+    <DegiskenKodu>GENEL_BAKIYE_SRF      </DegiskenKodu>
+    <DegiskenAciklama>     Referans Para Birimi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>164</DegiskenNo>
+    <DegiskenKodu>TGENEL_BAKIYE_TD      </DegiskenKodu>
+    <DegiskenAciklama>       Bakiyesi Alınan Cari Döviz Kartı    </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>165</DegiskenNo>
+    <DegiskenKodu>TGENEL_BAKIYE_TKOR    </DegiskenKodu>
+    <DegiskenAciklama>       Orijinal Cinsinden Bakiye</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>166</DegiskenNo>
+    <DegiskenKodu>TGENEL_BAKIYE_TKRT    </DegiskenKodu>
+    <DegiskenAciklama>       Orijinal Cinsinden Bakiye + Dövizi </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>167</DegiskenNo>
+    <DegiskenKodu>TGENEL_BAKIYE_TTL     </DegiskenKodu>
+    <DegiskenAciklama>       Anapara Birimi Cinsinden Bakiye   </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>168</DegiskenNo>
+    <DegiskenKodu>TGENEL_BAKIYE_TREF    </DegiskenKodu>
+    <DegiskenAciklama>       Referans Cinsinden Bakiye   </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>169</DegiskenNo>
+    <DegiskenKodu>TGENEL_BAKIYE_TEUR    </DegiskenKodu>
+    <DegiskenAciklama>       Euro Cinsinden Bakiye</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>170</DegiskenNo>
+    <DegiskenKodu>TGENEL_BAKIYE_TTAB    </DegiskenKodu>
+    <DegiskenAciklama>     Anapara Birimi Cinsinden Bakiyenin Ters B-A Kodu(mutabakatın karşı firma kısmında kullanmak için)</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>171</DegiskenNo>
+    <DegiskenKodu>TGENEL_BAKIYE_TKAB    </DegiskenKodu>
+    <DegiskenAciklama>     Orijinal Bakiyenin Ters B-A Kodu(mutabakatın karşı firma kısmında kullanmak için)</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>172</DegiskenNo>
+    <DegiskenKodu>TGENEL_BAKIYE_TEAB    </DegiskenKodu>
+    <DegiskenAciklama>     EURO Cinsinden Bakiyenin Ters B-A Kodu(mutabakatın karşı firma kısmında kullanmak için)</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>173</DegiskenNo>
+    <DegiskenKodu>TGENEL_BAKIYE_TRAB    </DegiskenKodu>
+    <DegiskenAciklama>     Referans Cinsinden Bakiyenin Ters B-A Kodu(mutabakatın karşı firma kısmında kullanmak için)</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>174</DegiskenNo>
+    <DegiskenKodu>TGENEL_BAKIYE_TKXT    </DegiskenKodu>
+    <DegiskenAciklama>      Yazı ile Orijinal Bakiyenin Ters B-A bilgisi(mutabakatın karşı firma kısmında kullanmak için)</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>175</DegiskenNo>
+    <DegiskenKodu>GENEL_TOP_DOVIZ       </DegiskenKodu>
+    <DegiskenAciklama>     Genel Toplam Dövizi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>176</DegiskenNo>
+    <DegiskenKodu>GENEL_TOP_TL_BORC     </DegiskenKodu>
+    <DegiskenAciklama>     Anapara Birimi Genel Toplam Borç   </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>177</DegiskenNo>
+    <DegiskenKodu>GENEL_TOP_TL_ALACAK   </DegiskenKodu>
+    <DegiskenAciklama>     Anapara Birimi Genel Toplam Alacak      </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>178</DegiskenNo>
+    <DegiskenKodu>GENEL_TOP_REF_BORC    </DegiskenKodu>
+    <DegiskenAciklama>     Referans Para Birimi Genel Toplam Borç   </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>179</DegiskenNo>
+    <DegiskenKodu>GENEL_TOP_REF_ALACAK  </DegiskenKodu>
+    <DegiskenAciklama>     Referans Para Birimi Genel Toplam Alacak</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>180</DegiskenNo>
+    <DegiskenKodu>GENEL_TOP_EURO_BORC   </DegiskenKodu>
+    <DegiskenAciklama>     Euro Para Birimi Genel Toplam Borç</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>181</DegiskenNo>
+    <DegiskenKodu>GENEL_TOP_EURO_ALAC   </DegiskenKodu>
+    <DegiskenAciklama>     Euro Para Birimi Genel Toplam Alacak      </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>182</DegiskenNo>
+    <DegiskenKodu>GENEL_TOP_KART_BORC   </DegiskenKodu>
+    <DegiskenAciklama>     Orijinaller Cinsinden Genel Toplam Borç   </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>183</DegiskenNo>
+    <DegiskenKodu>GENEL_TOP_KART_ALAC   </DegiskenKodu>
+    <DegiskenAciklama>     Orijinaller Cinsinden Genel Toplam Alacak </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>184</DegiskenNo>
+    <DegiskenKodu>BAKIYE_TL_A           </DegiskenKodu>
+    <DegiskenAciklama>    Ana Para Birimi Bakiyesi(Bakiye Alacak İse Dolu)</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>185</DegiskenNo>
+    <DegiskenKodu>BAKIYE_TL_B           </DegiskenKodu>
+    <DegiskenAciklama>    Anapara Birimi Bakiyesi(Bakiye Borç İse Dolu)</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>186</DegiskenNo>
+    <DegiskenKodu>BAKIYE_TL             </DegiskenKodu>
+    <DegiskenAciklama>    Anapara Bakiyesi + Borç-Alacak Kodu + Anapara Birimi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>187</DegiskenNo>
+    <DegiskenKodu>BAKIYE_BAKOD_TL       </DegiskenKodu>
+    <DegiskenAciklama>    Anapara Bakiyesi Borç-Alacak Kodu BAKIYE_Rf_A               Referans Cinsinden Bakiyesi(Bakiye Alacak İse Dolu) </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>188</DegiskenNo>
+    <DegiskenKodu>BAKIYE_Rf_B           </DegiskenKodu>
+    <DegiskenAciklama>    Referans Cinsinden Bakiyesi(Bakiye Borç İse Dolu)</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>189</DegiskenNo>
+    <DegiskenKodu>BAKIYE_Rf             </DegiskenKodu>
+    <DegiskenAciklama>    Referans Cinsinden Bakiyesi + Borç-Alacak Kodu +Referans Para Birimi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>190</DegiskenNo>
+    <DegiskenKodu>BAKIYE_BAKOD_Rf       </DegiskenKodu>
+    <DegiskenAciklama>    Referans Bakiyesi Borç-Alacak Kodu</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>191</DegiskenNo>
+    <DegiskenKodu>BAKIYE_eu_A           </DegiskenKodu>
+    <DegiskenAciklama>    Euro Cinsinden Bakiyesi(Bakiye Alacak İse Dolu)</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>192</DegiskenNo>
+    <DegiskenKodu>BAKIYE_eu_B           </DegiskenKodu>
+    <DegiskenAciklama>    Euro Cinsinden Bakiyesi(Bakiye Borç İse Dolu)</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>193</DegiskenNo>
+    <DegiskenKodu>BAKIYE_eu             </DegiskenKodu>
+    <DegiskenAciklama>    Euro Cinsinden Bakiyesi + Euro  BAKIYE_BAKOD_eu           Euro Bakiyesi Borç-Alacak Kodu</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>194</DegiskenNo>
+    <DegiskenKodu>BAKIYE_Or_A           </DegiskenKodu>
+    <DegiskenAciklama>    Orijinal Para Birimi Cinsinden Bakiyesi(Bakiye Alacak İse Dolu)</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>195</DegiskenNo>
+    <DegiskenKodu>BAKIYE_Or_B           </DegiskenKodu>
+    <DegiskenAciklama>    Orijinal Para Birimi Cinsinden Bakiyesi(Bakiye Borç İse Dolu)</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>196</DegiskenNo>
+    <DegiskenKodu>BAKIYE_Or             </DegiskenKodu>
+    <DegiskenAciklama>    Orijinal Para Birimi Cinsinden Bakiyesi + Orijinal Para birimi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>197</DegiskenNo>
+    <DegiskenKodu>BAKIYE_BAKOD_Or       </DegiskenKodu>
+    <DegiskenAciklama>    Orijinal Para Birimi Bakiyesi Borç-Alacak Kodu</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>198</DegiskenNo>
+    <DegiskenKodu>BAKIYE_SRF            </DegiskenKodu>
+    <DegiskenAciklama>    Referans Para Birimi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>199</DegiskenNo>
+    <DegiskenKodu>BAKIYE_SAN            </DegiskenKodu>
+    <DegiskenAciklama>    Anapara Para Birimi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>200</DegiskenNo>
+    <DegiskenKodu>BAKIYE_SOR            </DegiskenKodu>
+    <DegiskenAciklama>    Orijinal Para Birimi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>201</DegiskenNo>
+    <DegiskenKodu>Sirket_kodu           </DegiskenKodu>
+    <DegiskenAciklama>   Şirket Kodu   </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>202</DegiskenNo>
+    <DegiskenKodu>Sirket_adi            </DegiskenKodu>
+    <DegiskenAciklama>   Şirket Adı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>203</DegiskenNo>
+    <DegiskenKodu>Sirket_adresi_1       </DegiskenKodu>
+    <DegiskenAciklama>   Şirket Adresi 1</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>204</DegiskenNo>
+    <DegiskenKodu>Sirket_adresi_2       </DegiskenKodu>
+    <DegiskenAciklama>   Şirket Adresi 2</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>205</DegiskenNo>
+    <DegiskenKodu>Sirket_TELEFON_1      </DegiskenKodu>
+    <DegiskenAciklama>   Şirket Telefon Numarası   </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>206</DegiskenNo>
+    <DegiskenKodu>Sirket_FAX_NO         </DegiskenKodu>
+    <DegiskenAciklama>   Şirket Fax Numarası </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>207</DegiskenNo>
+    <DegiskenKodu>Sirket_E_POSTA        </DegiskenKodu>
+    <DegiskenAciklama>   Şirket Elektronik Posta Adresi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>208</DegiskenNo>
+    <DegiskenKodu>Sirket_vergi_dai      </DegiskenKodu>
+    <DegiskenAciklama>   Şirket Vergi dairesi </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>209</DegiskenNo>
+    <DegiskenKodu>Sirket_vergi_num      </DegiskenKodu>
+    <DegiskenAciklama>   Şirket Vergi numarası</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>210</DegiskenNo>
+    <DegiskenKodu>Cari_kodu             </DegiskenKodu>
+    <DegiskenAciklama>   Cari Hesap Kodu </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>211</DegiskenNo>
+    <DegiskenKodu>Cari_Adi              </DegiskenKodu>
+    <DegiskenAciklama>   Cari Hesap Adı Ve Ünvanı Cari_doviz               Cari Hesap Dövizi </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>212</DegiskenNo>
+    <DegiskenKodu>Cari_koduV            </DegiskenKodu>
+    <DegiskenAciklama>   Virman Yapılan Cari Hesap Kodu </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>213</DegiskenNo>
+    <DegiskenKodu>Cari_adiV             </DegiskenKodu>
+    <DegiskenAciklama>   Virman Yapılan Cari Hesap Adı Ve Ünvanı veya Dekont yapılan muhasebe hesap ismi </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>214</DegiskenNo>
+    <DegiskenKodu>Cari_dovizV           </DegiskenKodu>
+    <DegiskenAciklama>   Virman Yapılan Cari Hesap Dövizi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>215</DegiskenNo>
+    <DegiskenKodu>Fatura_Adresi1        </DegiskenKodu>
+    <DegiskenAciklama>   Cari Hesap Fatura Adresi 1 Fatura_Adresi2           Cari Hesap Fatura Adresi 2</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>216</DegiskenNo>
+    <DegiskenKodu>Fatura_Adresi3        </DegiskenKodu>
+    <DegiskenAciklama>   Cari Hesap Fatura Adresi 3</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>217</DegiskenNo>
+    <DegiskenKodu>Vergi_dairesi         </DegiskenKodu>
+    <DegiskenAciklama>   Cari Hesap Vergi Dairesi Vergi_numarasi           Cari Hesap Vergi Numarası Bagli_Grup_Kodu          Cari Hesap Bağlı Grup Kodu</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>218</DegiskenNo>
+    <DegiskenKodu>Bagli_Cari_Kodu       </DegiskenKodu>
+    <DegiskenAciklama>   Cari Hesap Bağlı Olduğu Grubun İlk Cari Kodu</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>219</DegiskenNo>
+    <DegiskenKodu>M_S_Kodu              </DegiskenKodu>
+    <DegiskenAciklama>   Cari Hesap Müşteri-Satıcı Kodu  Cari_Tipi                Cari Hesap Tipi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>220</DegiskenNo>
+    <DegiskenKodu>Cari_Tel              </DegiskenKodu>
+    <DegiskenAciklama>   Cari Hesap Telefon Numarası</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>221</DegiskenNo>
+    <DegiskenKodu>Cari_Fax              </DegiskenKodu>
+    <DegiskenAciklama>   Cari Hesap Fax Numarası</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>222</DegiskenNo>
+    <DegiskenKodu>Cari_eposta           </DegiskenKodu>
+    <DegiskenAciklama>   Cari Hesap E-posta Adresi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>223</DegiskenNo>
+    <DegiskenKodu>Cari_Riskkodu         </DegiskenKodu>
+    <DegiskenAciklama>   Cari Hesap Risk Kodu Fis_TARIH                Cari Fiş Tarihi Fis_no                   Cari Fiş Numarası         </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>224</DegiskenNo>
+    <DegiskenKodu>Belge_Tarih           </DegiskenKodu>
+    <DegiskenAciklama>   Belge Tarihi    </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>225</DegiskenNo>
+    <DegiskenKodu>Belge_No              </DegiskenKodu>
+    <DegiskenAciklama>   Belge Numarası      </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>226</DegiskenNo>
+    <DegiskenKodu>Borc_Alacak           </DegiskenKodu>
+    <DegiskenAciklama>   Borç-Alacak   </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>227</DegiskenNo>
+    <DegiskenKodu>B_A_kodu              </DegiskenKodu>
+    <DegiskenAciklama>   Borç Ve Alacağın Baş Harfleri    </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>228</DegiskenNo>
+    <DegiskenKodu>Aciklama              </DegiskenKodu>
+    <DegiskenAciklama>   Cari Hesap Fiş Açıklaması</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>229</DegiskenNo>
+    <DegiskenKodu>Hrk_Ozel_kodu         </DegiskenKodu>
+    <DegiskenAciklama>   Hareket Özel Kodu</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>230</DegiskenNo>
+    <DegiskenKodu>Rap_tarih             </DegiskenKodu>
+    <DegiskenAciklama>   Rapor Tarihi      </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>231</DegiskenNo>
+    <DegiskenKodu>Girilen_Tutar         </DegiskenKodu>
+    <DegiskenAciklama>   Girilen Tutar + Girilen Para Birimi  </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>232</DegiskenNo>
+    <DegiskenKodu>Para_Birimi           </DegiskenKodu>
+    <DegiskenAciklama>   Girilen Para Birimi  </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>233</DegiskenNo>
+    <DegiskenKodu>Kur Tutarı            </DegiskenKodu>
+    <DegiskenAciklama>   Kur Tutarı  </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>234</DegiskenNo>
+    <DegiskenKodu>Tl_tutar              </DegiskenKodu>
+    <DegiskenAciklama>   Ana Para Birimi Cinsinden Tutar+Ana Para</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>235</DegiskenNo>
+    <DegiskenKodu>Or_tutar              </DegiskenKodu>
+    <DegiskenAciklama>   Orijinal Para Birimi Cinsinden Tutar+Orijinal Para Birimi      </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>236</DegiskenNo>
+    <DegiskenKodu>Or_tutarV             </DegiskenKodu>
+    <DegiskenAciklama>   Virman Yapılan Cariye Ait Orijinal Para Birimi Cinsinden Tutar+Orijinal Para Birimi  </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>237</DegiskenNo>
+    <DegiskenKodu>Yaziyla_gr_tutar      </DegiskenKodu>
+    <DegiskenAciklama>   Yazı İle Girilen Tutar+Girilen Para Birimi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>238</DegiskenNo>
+    <DegiskenKodu>Yaziyla_or_tutar      </DegiskenKodu>
+    <DegiskenAciklama>   Yazı İle Orijinal Tutar+Para Birimi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>239</DegiskenNo>
+    <DegiskenKodu>Yaziyla_tl_tutar      </DegiskenKodu>
+    <DegiskenAciklama>   Yazı İle Ana Para Birimi Tutarı+Para Birimi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>240</DegiskenNo>
+    <DegiskenKodu>Yaziyla_I_tl_tutar    </DegiskenKodu>
+    <DegiskenAciklama>   İng Yazı İle Ana Para Birimi Tutarı+Para Birimi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>241</DegiskenNo>
+    <DegiskenKodu>Yaziyla_I_gr_tutar    </DegiskenKodu>
+    <DegiskenAciklama>   İng Yazı İle Girilen Tutar+Girilen Para Birimi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>242</DegiskenNo>
+    <DegiskenKodu>Yaziyla_I_or_tutar    </DegiskenKodu>
+    <DegiskenAciklama>   İng Yazı İle Orijinal Tutar+Para Birimi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>243</DegiskenNo>
+    <DegiskenKodu>Hrk_Ozel_kodu         </DegiskenKodu>
+    <DegiskenAciklama>   Hareket Özel Kodu  </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>244</DegiskenNo>
+    <DegiskenKodu>Baslik                </DegiskenKodu>
+    <DegiskenAciklama>   Türkçe Başlık         </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>245</DegiskenNo>
+    <DegiskenKodu>Baslik_B_A            </DegiskenKodu>
+    <DegiskenAciklama>   İng Veya Türkçe Borç Ve Alacak Yazısı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>246</DegiskenNo>
+    <DegiskenKodu>T_Girilen_tutar       </DegiskenKodu>
+    <DegiskenAciklama>   Girilen Tutar+Girilen Para Birimi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>247</DegiskenNo>
+    <DegiskenKodu>T_Tl_tutar            </DegiskenKodu>
+    <DegiskenAciklama>   TL Tutar+TL Para Birimi  </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>248</DegiskenNo>
+    <DegiskenKodu>Bolum                 </DegiskenKodu>
+    <DegiskenAciklama>   Cari Hareket Bölüm Kodu          </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>249</DegiskenNo>
+    <DegiskenKodu>Banka_kodu            </DegiskenKodu>
+    <DegiskenAciklama>   Banka Kodu</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>250</DegiskenNo>
+    <DegiskenKodu>Banka_adi             </DegiskenKodu>
+    <DegiskenAciklama>   Banka Adı  </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>251</DegiskenNo>
+    <DegiskenKodu>Banka_Sube            </DegiskenKodu>
+    <DegiskenAciklama>   Banka Şubesi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>252</DegiskenNo>
+    <DegiskenKodu>Banka_hesap           </DegiskenKodu>
+    <DegiskenAciklama>   Banka Hesabı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>253</DegiskenNo>
+    <DegiskenKodu>Banka_dov             </DegiskenKodu>
+    <DegiskenAciklama>   Banka Hesap Dövizi  </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>254</DegiskenNo>
+    <DegiskenKodu>Banka                 </DegiskenKodu>
+    <DegiskenAciklama>   Banka Ait Tüm Bilgiler Yan Yana </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>255</DegiskenNo>
+    <DegiskenKodu>KBanka_kodu           </DegiskenKodu>
+    <DegiskenAciklama>   Carinin Bankası </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>256</DegiskenNo>
+    <DegiskenKodu>KBanka_adi            </DegiskenKodu>
+    <DegiskenAciklama>   Carinin Adi </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>257</DegiskenNo>
+    <DegiskenKodu>KBanka_Sube           </DegiskenKodu>
+    <DegiskenAciklama>   Carinin Şubesi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>258</DegiskenNo>
+    <DegiskenKodu>KBanka_hesap          </DegiskenKodu>
+    <DegiskenAciklama>   Carinin Banka Hesap Numarası</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>259</DegiskenNo>
+    <DegiskenKodu>KBanka_dov            </DegiskenKodu>
+    <DegiskenAciklama>   Carinin Banka Hesap Dövizi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>260</DegiskenNo>
+    <DegiskenKodu>KBanka                </DegiskenKodu>
+    <DegiskenAciklama>   Carinin Banka Ait Tüm Bilgiler Yan Yana(IBAN No da var)</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>261</DegiskenNo>
+    <DegiskenKodu>Referans              </DegiskenKodu>
+    <DegiskenAciklama>   Havale Talimatı Referans Bilgisi    </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>262</DegiskenNo>
+    <DegiskenKodu>Ozel_not              </DegiskenKodu>
+    <DegiskenAciklama>   Havale Talimatı Özel Not Bilgisi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>263</DegiskenNo>
+    <DegiskenKodu>Eft_havale            </DegiskenKodu>
+    <DegiskenAciklama>   Havale-Eft Bilgisi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>264</DegiskenNo>
+    <DegiskenKodu>Muh_detay_satir       </DegiskenKodu>
+    <DegiskenAciklama>   Cari Hareket Detayları Satır No</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>265</DegiskenNo>
+    <DegiskenKodu>Muh_detay_hesap       </DegiskenKodu>
+    <DegiskenAciklama>   Cari Hareket Detayları Hesap Kodu</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>266</DegiskenNo>
+    <DegiskenKodu>Muh_detay_hesadi      </DegiskenKodu>
+    <DegiskenAciklama>   Cari Hareket Detayları Hesap Adı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>267</DegiskenNo>
+    <DegiskenKodu>Muh_detay_aciklama    </DegiskenKodu>
+    <DegiskenAciklama>   Cari Hareket Detayları Açıklaması</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>268</DegiskenNo>
+    <DegiskenKodu>Muh_detay_masrafyeri  </DegiskenKodu>
+    <DegiskenAciklama>   Cari Hareket Detayları Masraf Yeri</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>269</DegiskenNo>
+    <DegiskenKodu>Muh_detay_ozelkod     </DegiskenKodu>
+    <DegiskenAciklama>   Cari Hareket Detayları Özel Kod</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>270</DegiskenNo>
+    <DegiskenKodu>Muh_detay_hturu       </DegiskenKodu>
+    <DegiskenAciklama>   Cari Hareket Detayları Hizmet Türü</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>271</DegiskenNo>
+    <DegiskenKodu>Muh_detay_hmiktar     </DegiskenKodu>
+    <DegiskenAciklama>   Cari Hareket Detayları Hizmet Miktarı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>272</DegiskenNo>
+    <DegiskenKodu>Muh_detay_hcinsi      </DegiskenKodu>
+    <DegiskenAciklama>   Cari Hareket Detayları Hizmet Cinsi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>273</DegiskenNo>
+    <DegiskenKodu>Muh_detay_grtutar     </DegiskenKodu>
+    <DegiskenAciklama>   Cari Hareket Detayları Girilen Tutarı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>274</DegiskenNo>
+    <DegiskenKodu>Muh_detay_grpara      </DegiskenKodu>
+    <DegiskenAciklama>   Cari Hareket Detayları Girilen ParaBrm</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>275</DegiskenNo>
+    <DegiskenKodu>Muh_detay_ortutar     </DegiskenKodu>
+    <DegiskenAciklama>   Cari Hareket Detayları Orj Tutarı+DVZ</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>276</DegiskenNo>
+    <DegiskenKodu>Muh_detay_tltutar     </DegiskenKodu>
+    <DegiskenAciklama>   Cari Hareket Detayları Anapara Tutarı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>277</DegiskenNo>
+    <DegiskenKodu>Muh_detay_kurtut      </DegiskenKodu>
+    <DegiskenAciklama>   Cari Hareket Detayları Kur Tutarı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>278</DegiskenNo>
+    <DegiskenKodu>Sayfa_no              </DegiskenKodu>
+    <DegiskenAciklama>   Bordro bazında talimat sayfası numarası</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>279</DegiskenNo>
+    <DegiskenKodu>Banka_kodu            </DegiskenKodu>
+    <DegiskenAciklama>   Banka Kodu</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>280</DegiskenNo>
+    <DegiskenKodu>Banka_adi             </DegiskenKodu>
+    <DegiskenAciklama>   Banka Adı  </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>281</DegiskenNo>
+    <DegiskenKodu>Banka_Sube            </DegiskenKodu>
+    <DegiskenAciklama>   Banka Şubesi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>282</DegiskenNo>
+    <DegiskenKodu>Banka_hesap           </DegiskenKodu>
+    <DegiskenAciklama>   Banka Hesabı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>283</DegiskenNo>
+    <DegiskenKodu>Banka_iban            </DegiskenKodu>
+    <DegiskenAciklama>   Banka Iban No</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>284</DegiskenNo>
+    <DegiskenKodu>Banka_doviz           </DegiskenKodu>
+    <DegiskenAciklama>   Banka Hesap Dövizi  </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>285</DegiskenNo>
+    <DegiskenKodu>Banka_yetkilisi       </DegiskenKodu>
+    <DegiskenAciklama>   Banka yetkilisi  </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>286</DegiskenNo>
+    <DegiskenKodu>Rap_tarih             </DegiskenKodu>
+    <DegiskenAciklama>   Rapor Tarihi  </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>287</DegiskenNo>
+    <DegiskenKodu>Bordro_tarih          </DegiskenKodu>
+    <DegiskenAciklama>   Bordro çekilme tarihi  </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>288</DegiskenNo>
+    <DegiskenKodu>Bordro_No             </DegiskenKodu>
+    <DegiskenAciklama>   Bordro Numarası</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>289</DegiskenNo>
+    <DegiskenKodu>Sirket_kodu           </DegiskenKodu>
+    <DegiskenAciklama>   Şirket Kodu   </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>290</DegiskenNo>
+    <DegiskenKodu>Sirket_adi            </DegiskenKodu>
+    <DegiskenAciklama>   Şirket Adı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>291</DegiskenNo>
+    <DegiskenKodu>Sirket_adresi_1       </DegiskenKodu>
+    <DegiskenAciklama>   Şirket Adresi 1</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>292</DegiskenNo>
+    <DegiskenKodu>Sirket_adresi_2       </DegiskenKodu>
+    <DegiskenAciklama>   Şirket Adresi 2</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>293</DegiskenNo>
+    <DegiskenKodu>Sirket_ili            </DegiskenKodu>
+    <DegiskenAciklama>   Şirket İli</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>294</DegiskenNo>
+    <DegiskenKodu>Sirket_TEL            </DegiskenKodu>
+    <DegiskenAciklama>   Şirket Telefon Numarası   </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>295</DegiskenNo>
+    <DegiskenKodu>Sirket_FAX            </DegiskenKodu>
+    <DegiskenAciklama>   Şirket Fax Numarası </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>296</DegiskenNo>
+    <DegiskenKodu>Sirket_POSTA          </DegiskenKodu>
+    <DegiskenAciklama>   Şirket Elektronik Posta Adresi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>297</DegiskenNo>
+    <DegiskenKodu>Sirket_vrgdai         </DegiskenKodu>
+    <DegiskenAciklama>   Şirket Elektronik Posta Adresi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>298</DegiskenNo>
+    <DegiskenKodu>Sirket_vrgnum         </DegiskenKodu>
+    <DegiskenAciklama>   Şirket Elektronik Posta Adresi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>299</DegiskenNo>
+    <DegiskenKodu>Sirket_POSTA          </DegiskenKodu>
+    <DegiskenAciklama>   Şirket Elektronik Posta Adresi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>300</DegiskenNo>
+    <DegiskenKodu>Banka                 </DegiskenKodu>
+    <DegiskenAciklama>   Banka Ait Tüm Bilgiler Yan Yana</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>301</DegiskenNo>
+    <DegiskenKodu>Odeme_tahsil          </DegiskenKodu>
+    <DegiskenAciklama>   Talimatın Ödeme/Havale bilgisi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>302</DegiskenNo>
+    <DegiskenKodu>Eft_havale            </DegiskenKodu>
+    <DegiskenAciklama>   Talimatın EFT/Havale Bilgisi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>303</DegiskenNo>
+    <DegiskenKodu>Dosya_ad              </DegiskenKodu>
+    <DegiskenAciklama>   Sistemin oluşturduğu dosya adı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>304</DegiskenNo>
+    <DegiskenKodu>Cari_kodu             </DegiskenKodu>
+    <DegiskenAciklama>   Cari Hesap Kodu Cari_Adi                 Cari Hesap Adı Ve Ünvanı Vergi_dairesi            Cari Hesap Vergi Dairesi Vergi_numarasi           Cari Hesap Vergi Numarası Fis_TARIH                Cari Fiş Tarihi Fis_no                </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>305</DegiskenNo>
+    <DegiskenKodu>Vade_tarih            </DegiskenKodu>
+    <DegiskenAciklama>   Hareket Vade tarihi(valör)</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>306</DegiskenNo>
+    <DegiskenKodu>odeme_tahsil          </DegiskenKodu>
+    <DegiskenAciklama>   Ödeme-Tahsilat   </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>307</DegiskenNo>
+    <DegiskenKodu>B_A                   </DegiskenKodu>
+    <DegiskenAciklama>   Borç,Alacak    </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>308</DegiskenNo>
+    <DegiskenKodu>Aciklama              </DegiskenKodu>
+    <DegiskenAciklama>   Cari Hesap Fiş Açıklaması Tl_tutar                 Ana Para Birimi Cinsinden Tutar  </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>309</DegiskenNo>
+    <DegiskenKodu>Or_tutar              </DegiskenKodu>
+    <DegiskenAciklama>   Orijinal Para Birimi Cinsinden Tutar+Orijinal Para Birimi      </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>310</DegiskenNo>
+    <DegiskenKodu>KBanka_kodu           </DegiskenKodu>
+    <DegiskenAciklama>   Carinin Bankası </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>311</DegiskenNo>
+    <DegiskenKodu>KBanka_adi            </DegiskenKodu>
+    <DegiskenAciklama>   Carinin Adi </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>312</DegiskenNo>
+    <DegiskenKodu>KBanka_Sube           </DegiskenKodu>
+    <DegiskenAciklama>   Carinin Şubesi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>313</DegiskenNo>
+    <DegiskenKodu>KBanka_hesap          </DegiskenKodu>
+    <DegiskenAciklama>   Carinin Banka Hesap Numarası</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>314</DegiskenNo>
+    <DegiskenKodu>Iban                  </DegiskenKodu>
+    <DegiskenAciklama>   Carinin Banka IBAN Numarası </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>315</DegiskenNo>
+    <DegiskenKodu>KBanka_dov            </DegiskenKodu>
+    <DegiskenAciklama>   Carinin Banka Hesap Dövizi –kullanıl mıyor-</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>316</DegiskenNo>
+    <DegiskenKodu>KBanka                </DegiskenKodu>
+    <DegiskenAciklama>   Carinin Banka Ait Tüm Bilgiler Yan Yana(IBAN Nolu)</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>317</DegiskenNo>
+    <DegiskenKodu>Referans              </DegiskenKodu>
+    <DegiskenAciklama>   Havale Talimatı Referans Bilgisi    </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>318</DegiskenNo>
+    <DegiskenKodu>Ozel_not              </DegiskenKodu>
+    <DegiskenAciklama>   Havale Talimatı Özel Not Bilgisi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>319</DegiskenNo>
+    <DegiskenKodu>Hrk_Ozel_kodu         </DegiskenKodu>
+    <DegiskenAciklama>   Hareket Özel Kodu  </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>320</DegiskenNo>
+    <DegiskenKodu>Bolum                 </DegiskenKodu>
+    <DegiskenAciklama>   Cari Hareket Bölüm Kodu</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>321</DegiskenNo>
+    <DegiskenKodu>Odm_tltop             </DegiskenKodu>
+    <DegiskenAciklama>   Yazı İle Orijinal Tutar+Para Birimi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>322</DegiskenNo>
+    <DegiskenKodu>Tah_tltop             </DegiskenKodu>
+    <DegiskenAciklama>   Yazı İle Ana Para Birimi Tutarı+Para Birimi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>323</DegiskenNo>
+    <DegiskenKodu>Odm_ortop             </DegiskenKodu>
+    <DegiskenAciklama>   Yazı İle Orijinal Tutar+Para Birimi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>324</DegiskenNo>
+    <DegiskenKodu>Tah_ortop             </DegiskenKodu>
+    <DegiskenAciklama>   Yazı İle Ana Para Birimi Tutarı+Para Birimi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>325</DegiskenNo>
+    <DegiskenKodu>Yaziyla_odm_Tl_top    </DegiskenKodu>
+    <DegiskenAciklama>   İng Yazı İle Ana Para Birimi Tutarı+Para Birimi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>326</DegiskenNo>
+    <DegiskenKodu>Yaziyla_tah_Tl_top    </DegiskenKodu>
+    <DegiskenAciklama>   İng Yazı İle Girilen Tutar+Girilen Para Birimi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>327</DegiskenNo>
+    <DegiskenKodu>Yaziyla_odm_Or_top    </DegiskenKodu>
+    <DegiskenAciklama>   İng Yazı İle Orijinal Tutar+Para BiriMi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>328</DegiskenNo>
+    <DegiskenKodu>Yaziyla_tah_or_top    </DegiskenKodu>
+    <DegiskenAciklama>   İng Yazı İle Orijinal Tutar+Para Birimi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>329</DegiskenNo>
+    <DegiskenKodu>odm_Gadet             </DegiskenKodu>
+    <DegiskenAciklama>   Ödeme Adedi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>330</DegiskenNo>
+    <DegiskenKodu>odm_Gortop            </DegiskenKodu>
+    <DegiskenAciklama>    Ödeme Orjinal Genel Toplamı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>331</DegiskenNo>
+    <DegiskenKodu>tah_Gortop            </DegiskenKodu>
+    <DegiskenAciklama>    Tahsilat Orjinal Genel Toplamı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>332</DegiskenNo>
+    <DegiskenKodu>Yazi_odm_GOR_top      </DegiskenKodu>
+    <DegiskenAciklama>    Yazıyla Ödm Orjinal Genel Toplamı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>333</DegiskenNo>
+    <DegiskenKodu>Yazi_tah_GOR_top      </DegiskenKodu>
+    <DegiskenAciklama>    Yazıyla Tah Orjinal Genel Toplamı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>334</DegiskenNo>
+    <DegiskenKodu>Kredi_hesno           </DegiskenKodu>
+    <DegiskenAciklama>    Kredi Hesap No</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>335</DegiskenNo>
+    <DegiskenKodu>Kredi_tutari          </DegiskenKodu>
+    <DegiskenAciklama>    Kredi Anapara Tutarı + Dövizi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>336</DegiskenNo>
+    <DegiskenKodu>Kredi_faiz            </DegiskenKodu>
+    <DegiskenAciklama>    Kredi Faiz Oranı </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>337</DegiskenNo>
+    <DegiskenKodu>Kredi_vade            </DegiskenKodu>
+    <DegiskenAciklama>    Kredi Vadesi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>338</DegiskenNo>
+    <DegiskenKodu>Kredi_kuru            </DegiskenKodu>
+    <DegiskenAciklama>    Kredi Kuru </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>339</DegiskenNo>
+    <DegiskenKodu>Kredi_sozlesme        </DegiskenKodu>
+    <DegiskenAciklama>    Kredi Sözleşme Numarası</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>340</DegiskenNo>
+    <DegiskenKodu>BASIM_TARIHI          </DegiskenKodu>
+    <DegiskenAciklama>      Rapor tarihi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>341</DegiskenNo>
+    <DegiskenKodu>HAREKET_TARIHI        </DegiskenKodu>
+    <DegiskenAciklama>      Hareket tarihi SIRKET_UNVAN                Şirket Adı + Unvanı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>342</DegiskenNo>
+    <DegiskenKodu>SIRKET_ADI            </DegiskenKodu>
+    <DegiskenAciklama>      Şirketin ad</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>343</DegiskenNo>
+    <DegiskenKodu>SIRKET_ADRES1         </DegiskenKodu>
+    <DegiskenAciklama>      Şirketin Adresi1</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>344</DegiskenNo>
+    <DegiskenKodu>SIRKET_ADRES2         </DegiskenKodu>
+    <DegiskenAciklama>      Şirketin Adresi2   </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>345</DegiskenNo>
+    <DegiskenKodu>SIRKET_ADRES3         </DegiskenKodu>
+    <DegiskenAciklama>      Şirketin İl kodu   </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>346</DegiskenNo>
+    <DegiskenKodu>SIRKET_TELEFON1       </DegiskenKodu>
+    <DegiskenAciklama>      Şirketin Telefonu   </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>347</DegiskenNo>
+    <DegiskenKodu>SIRKET_FAKS_NO1       </DegiskenKodu>
+    <DegiskenAciklama>      Şirketin Faks Numarası</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>348</DegiskenNo>
+    <DegiskenKodu>SIRKET_FAKS_NO2       </DegiskenKodu>
+    <DegiskenAciklama>      Şirketin Faks Numarası</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>349</DegiskenNo>
+    <DegiskenKodu>SIRKET_Poskod         </DegiskenKodu>
+    <DegiskenAciklama>      Şirketin Posta Kodu</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>350</DegiskenNo>
+    <DegiskenKodu>SIRKET_E_POSTA        </DegiskenKodu>
+    <DegiskenAciklama>      Şirketin e-mail Adresi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>351</DegiskenNo>
+    <DegiskenKodu>SIRKET_VERGI_DAIRE    </DegiskenKodu>
+    <DegiskenAciklama>      Şirketin Vergi Dairesi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>352</DegiskenNo>
+    <DegiskenKodu>SIRKET_VERGI_NUMARA   </DegiskenKodu>
+    <DegiskenAciklama>      Şirketin Vergi Numarası  </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>353</DegiskenNo>
+    <DegiskenKodu>CARI_ADI              </DegiskenKodu>
+    <DegiskenAciklama>      Cari adı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>354</DegiskenNo>
+    <DegiskenKodu>CARI_ADRES1           </DegiskenKodu>
+    <DegiskenAciklama>      Carinin Adresi1</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>355</DegiskenNo>
+    <DegiskenKodu>CARI_ADRES2           </DegiskenKodu>
+    <DegiskenAciklama>      Carinin Adresi2   </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>356</DegiskenNo>
+    <DegiskenKodu>CARI_ADRES3           </DegiskenKodu>
+    <DegiskenAciklama>      Carinin Adresi3   </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>357</DegiskenNo>
+    <DegiskenKodu>CARI_TELEFON1         </DegiskenKodu>
+    <DegiskenAciklama>      Carinin Telefonu   </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>358</DegiskenNo>
+    <DegiskenKodu>CARI_TELEFON2         </DegiskenKodu>
+    <DegiskenAciklama>      Carinin Telefonu     </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>359</DegiskenNo>
+    <DegiskenKodu>CARI_Ilce             </DegiskenKodu>
+    <DegiskenAciklama>      Carinin İlçesi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>360</DegiskenNo>
+    <DegiskenKodu>CARI_Il               </DegiskenKodu>
+    <DegiskenAciklama>      Carinin İli</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>361</DegiskenNo>
+    <DegiskenKodu>CARI_Semt             </DegiskenKodu>
+    <DegiskenAciklama>      Carinin Semti</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>362</DegiskenNo>
+    <DegiskenKodu>CARI_Posta_kod        </DegiskenKodu>
+    <DegiskenAciklama>      Carinin Posta Kodu</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>363</DegiskenNo>
+    <DegiskenKodu>CARI_Ulke             </DegiskenKodu>
+    <DegiskenAciklama>      Carinin Ülkesi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>364</DegiskenNo>
+    <DegiskenKodu>CARI_FAKS_NO          </DegiskenKodu>
+    <DegiskenAciklama>      Carinin Fax Numarası</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>365</DegiskenNo>
+    <DegiskenKodu>CARI_E_POSTA          </DegiskenKodu>
+    <DegiskenAciklama>      Carinin e-mail Adresi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>366</DegiskenNo>
+    <DegiskenKodu>CARI_VERGI_DAIRE      </DegiskenKodu>
+    <DegiskenAciklama>      Carinin Vergi Dairesi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>367</DegiskenNo>
+    <DegiskenKodu>CARI_VERGI_NUMARA     </DegiskenKodu>
+    <DegiskenAciklama>      Carinin Vergi Numarası</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>368</DegiskenNo>
+    <DegiskenKodu>BELGE_NUMARASI        </DegiskenKodu>
+    <DegiskenAciklama>      Hareket Belge Numarası</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>369</DegiskenNo>
+    <DegiskenKodu>BELGE_TARIHI          </DegiskenKodu>
+    <DegiskenAciklama>      Hareket Belge Tarihi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>370</DegiskenNo>
+    <DegiskenKodu>CARI_KODU             </DegiskenKodu>
+    <DegiskenAciklama>      Cari kod</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>371</DegiskenNo>
+    <DegiskenKodu>CARI_DOVIZ            </DegiskenKodu>
+    <DegiskenAciklama>      Cari Dövizi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>372</DegiskenNo>
+    <DegiskenKodu>HAREKET_TARIHI        </DegiskenKodu>
+    <DegiskenAciklama>      Hareket Tarihi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>373</DegiskenNo>
+    <DegiskenKodu>BORC_ALACAK           </DegiskenKodu>
+    <DegiskenAciklama>      Hareket Borç-Alacak </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>374</DegiskenNo>
+    <DegiskenKodu>Tahsil_TEDiye         </DegiskenKodu>
+    <DegiskenAciklama>      Yazıyla Tahsil-Tediye </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>375</DegiskenNo>
+    <DegiskenKodu>YAZIYLA_GIRILEN_Tut   </DegiskenKodu>
+    <DegiskenAciklama>      Yazıyla Hareketin Girilen Tutar</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>376</DegiskenNo>
+    <DegiskenKodu>Yaziyla_Gr_tut        </DegiskenKodu>
+    <DegiskenAciklama>      YAZIYLA_GIRILEN_Tut’ın aynısı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>377</DegiskenNo>
+    <DegiskenKodu>YAZIYLA_GIRILEN_TutD  </DegiskenKodu>
+    <DegiskenAciklama>      Yazıyla Girilen Tutarı + Dövizi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>378</DegiskenNo>
+    <DegiskenKodu>Yaziyla_Gr_tutD       </DegiskenKodu>
+    <DegiskenAciklama>      YAZIYLA_GIRILEN_TutD’ın aynısı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>379</DegiskenNo>
+    <DegiskenKodu>YAZIYLA_TL_TUT        </DegiskenKodu>
+    <DegiskenAciklama>      Yazıyla Hareketin TL Tutarı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>380</DegiskenNo>
+    <DegiskenKodu>YAZIYLA_TL_TUTD       </DegiskenKodu>
+    <DegiskenAciklama>      Yazıyla Hareketin TL Tutarı + Dövizi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>381</DegiskenNo>
+    <DegiskenKodu>YAZIYLA_Ref_TUT       </DegiskenKodu>
+    <DegiskenAciklama>      Yazıyla Hareketin Ref  Tutarı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>382</DegiskenNo>
+    <DegiskenKodu>YAZIYLA_Ref_TUTD      </DegiskenKodu>
+    <DegiskenAciklama>      Yazıyla Hareketin Ref  Tutarı+Dövizi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>383</DegiskenNo>
+    <DegiskenKodu>YAZIYLA_OR_TUT        </DegiskenKodu>
+    <DegiskenAciklama>      Yazıyla Orijinal Tutarı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>384</DegiskenNo>
+    <DegiskenKodu>YAZIYLA_OR_TUTD       </DegiskenKodu>
+    <DegiskenAciklama>      Yazıyla Orijinal Tutarı + Dövizi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>385</DegiskenNo>
+    <DegiskenKodu>KULLANICI             </DegiskenKodu>
+    <DegiskenAciklama>      Hareketi Giren Kullanıcı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>386</DegiskenNo>
+    <DegiskenKodu>Yetkili_imza_unv1     </DegiskenKodu>
+    <DegiskenAciklama>      1 Yetkili İmza Unvanı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>387</DegiskenNo>
+    <DegiskenKodu>Yetkili_imza_adi1     </DegiskenKodu>
+    <DegiskenAciklama>      1 Yetkili İmza Adı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>388</DegiskenNo>
+    <DegiskenKodu>Yetkili_imza_unv2     </DegiskenKodu>
+    <DegiskenAciklama>      2 Yetkili İmza Unvanı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>389</DegiskenNo>
+    <DegiskenKodu>Yetkili_imza_adi2     </DegiskenKodu>
+    <DegiskenAciklama>      2 Yetkili İmza Adı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>390</DegiskenNo>
+    <DegiskenKodu>FIS_NO                </DegiskenKodu>
+    <DegiskenAciklama>      Hareket Fiş Numarası</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>391</DegiskenNo>
+    <DegiskenKodu>MAKBUZ_NO             </DegiskenKodu>
+    <DegiskenAciklama>      Hareket Makbuz Numarası</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>392</DegiskenNo>
+    <DegiskenKodu>OZEL_KOD              </DegiskenKodu>
+    <DegiskenAciklama>      Hareket Özel Kodu</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>393</DegiskenNo>
+    <DegiskenKodu>ACIKLAMA              </DegiskenKodu>
+    <DegiskenAciklama>      Hareket Açıklaması </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>394</DegiskenNo>
+    <DegiskenKodu>ACIKLAMA_1            </DegiskenKodu>
+    <DegiskenAciklama>      Hareket Açıklaması</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>395</DegiskenNo>
+    <DegiskenKodu>GIRILEN_TUTar         </DegiskenKodu>
+    <DegiskenAciklama>      Hareketin Girilen Tutarı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>396</DegiskenNo>
+    <DegiskenKodu>GIRILEN_TUTarD        </DegiskenKodu>
+    <DegiskenAciklama>      Hareketin Girilen Tutarı + Dövizi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>397</DegiskenNo>
+    <DegiskenKodu>GIRILEN_Doviz         </DegiskenKodu>
+    <DegiskenAciklama>      Hareketin Girilen Dövizi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>398</DegiskenNo>
+    <DegiskenKodu>KUR_TIP               </DegiskenKodu>
+    <DegiskenAciklama>      Hareket Girilen Tutar Kur Tipi          </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>399</DegiskenNo>
+    <DegiskenKodu>KUR_TARIHI            </DegiskenKodu>
+    <DegiskenAciklama>      Hareket Girilen Tutar Kur Tarihi      </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>400</DegiskenNo>
+    <DegiskenKodu>KUR_TUTARI            </DegiskenKodu>
+    <DegiskenAciklama>      Hareket Girilen Tutar Kur Tutarı      </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>401</DegiskenNo>
+    <DegiskenKodu>TL_TUTAR              </DegiskenKodu>
+    <DegiskenAciklama>      Hareketin TL Tutarı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>402</DegiskenNo>
+    <DegiskenKodu>TL_TUTARD             </DegiskenKodu>
+    <DegiskenAciklama>      Hareketin TL Tutarı + Dövizi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>403</DegiskenNo>
+    <DegiskenKodu>ReF_DOV               </DegiskenKodu>
+    <DegiskenAciklama>      TL-TRL</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>404</DegiskenNo>
+    <DegiskenKodu>Ref_TUTAR             </DegiskenKodu>
+    <DegiskenAciklama>      Hareketin Ref  Tutarı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>405</DegiskenNo>
+    <DegiskenKodu>Ref_TUTARD            </DegiskenKodu>
+    <DegiskenAciklama>      Hareketin Ref  Tutarı + Dövizi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>406</DegiskenNo>
+    <DegiskenKodu>Ref_DOV               </DegiskenKodu>
+    <DegiskenAciklama>      Referans Para birimi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>407</DegiskenNo>
+    <DegiskenKodu>OR_TUTAR              </DegiskenKodu>
+    <DegiskenAciklama>      Hareketin Orijinal Tutarı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>408</DegiskenNo>
+    <DegiskenKodu>OR_TUTARD             </DegiskenKodu>
+    <DegiskenAciklama>      Hareketin Orijinal Tutarı + Dövizi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>409</DegiskenNo>
+    <DegiskenKodu>Or_DOV                </DegiskenKodu>
+    <DegiskenAciklama>      Hareketin Orijinal Dövizi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>410</DegiskenNo>
+    <DegiskenKodu>CstPort_CsgTar        </DegiskenKodu>
+    <DegiskenAciklama>      Giriş Bordro Tarihi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>411</DegiskenNo>
+    <DegiskenKodu>CstPort_GBornoi       </DegiskenKodu>
+    <DegiskenAciklama>      Giriş Bordro No</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>412</DegiskenNo>
+    <DegiskenKodu>CstPort_CsCTar        </DegiskenKodu>
+    <DegiskenAciklama>      Çıkış Bordro Tarihi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>413</DegiskenNo>
+    <DegiskenKodu>CstPort_CBornoi       </DegiskenKodu>
+    <DegiskenAciklama>      Çıkış Bordro No</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>414</DegiskenNo>
+    <DegiskenKodu>CstPort_CsSTar        </DegiskenKodu>
+    <DegiskenAciklama>      Sonuç Bordro Tarihi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>415</DegiskenNo>
+    <DegiskenKodu>CstPort_SBornoi       </DegiskenKodu>
+    <DegiskenAciklama>      Sonuç Bordro No CstPort_BrdTar2             Bordro Tarihi2</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>416</DegiskenNo>
+    <DegiskenKodu>Giris_MusAdi          </DegiskenKodu>
+    <DegiskenAciklama>      Giriş Müşteri Adi </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>417</DegiskenNo>
+    <DegiskenKodu>Cikis_musadi          </DegiskenKodu>
+    <DegiskenAciklama>      Çıkış Müşteri Adi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>418</DegiskenNo>
+    <DegiskenKodu>Sonuc_MusAdi          </DegiskenKodu>
+    <DegiskenAciklama>      Sonuç Müşteri Adi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>419</DegiskenNo>
+    <DegiskenKodu>Cikis_bankhes         </DegiskenKodu>
+    <DegiskenAciklama>      Bankaya Tahsile Çıkılan Bankanın Hesap Numarası</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>420</DegiskenNo>
+    <DegiskenKodu>Cikis_Banka           </DegiskenKodu>
+    <DegiskenAciklama>      Bankaya Tahsile Çıkılan Bankanın Bilgileri(ör: FINANSBANK (1000001 No’lu Hesap) Mecidiyeköy Şubesi Müdürlüğüne)</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>421</DegiskenNo>
+    <DegiskenKodu>CstPort_CsNum         </DegiskenKodu>
+    <DegiskenAciklama>      Portföy No        </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>422</DegiskenNo>
+    <DegiskenKodu>CstPort_MusAdi        </DegiskenKodu>
+    <DegiskenAciklama>      Müşteri Adı       </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>423</DegiskenNo>
+    <DegiskenKodu>CstPort_Borclu        </DegiskenKodu>
+    <DegiskenAciklama>      Keşideci          </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>424</DegiskenNo>
+    <DegiskenKodu>CstPort_Iladi         </DegiskenKodu>
+    <DegiskenAciklama>      İl Adı            </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>425</DegiskenNo>
+    <DegiskenKodu>CstPort_Bankadi       </DegiskenKodu>
+    <DegiskenAciklama>      Banka Adı         </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>426</DegiskenNo>
+    <DegiskenKodu>CstPort_Sube          </DegiskenKodu>
+    <DegiskenAciklama>      Şube </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>427</DegiskenNo>
+    <DegiskenKodu>CstPort_banhes        </DegiskenKodu>
+    <DegiskenAciklama>      Banka Hesap No</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>428</DegiskenNo>
+    <DegiskenKodu>CstPort_CsNo          </DegiskenKodu>
+    <DegiskenAciklama>      Banka Çek Senet No</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>429</DegiskenNo>
+    <DegiskenKodu>CstPort_Vade          </DegiskenKodu>
+    <DegiskenAciklama>      Vade Tarihi       </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>430</DegiskenNo>
+    <DegiskenKodu>CstPort_GrTutar       </DegiskenKodu>
+    <DegiskenAciklama>      Girilen Tutar     </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>431</DegiskenNo>
+    <DegiskenKodu>CstPort_TlTutar       </DegiskenKodu>
+    <DegiskenAciklama>      Anapara tutarı </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>432</DegiskenNo>
+    <DegiskenKodu>CstPort_Ozlkod        </DegiskenKodu>
+    <DegiskenAciklama>      Özel Kod </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>433</DegiskenNo>
+    <DegiskenKodu>Toplam_TL             </DegiskenKodu>
+    <DegiskenAciklama>      Anapara Toplam</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>434</DegiskenNo>
+    <DegiskenKodu>Toplam_Gr             </DegiskenKodu>
+    <DegiskenAciklama>      Girilen Toplam</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>435</DegiskenNo>
+    <DegiskenKodu>Yazi_Rakam_TL         </DegiskenKodu>
+    <DegiskenAciklama>      Yaziyla Anapara </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>436</DegiskenNo>
+    <DegiskenKodu>Top_Adet              </DegiskenKodu>
+    <DegiskenAciklama>      Toplam Adet       </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>437</DegiskenNo>
+    <DegiskenKodu>Cek_Senet             </DegiskenKodu>
+    <DegiskenAciklama>      Çek Senet         </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>438</DegiskenNo>
+    <DegiskenKodu>Ort_Yas               </DegiskenKodu>
+    <DegiskenAciklama>      Ortalama Yaş      </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>439</DegiskenNo>
+    <DegiskenKodu>Ort_Vade              </DegiskenKodu>
+    <DegiskenAciklama>      Ortalama Vade   </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>440</DegiskenNo>
+    <DegiskenKodu>Sirket_kodu           </DegiskenKodu>
+    <DegiskenAciklama>      Kendi Şirketimizin Kodu</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>441</DegiskenNo>
+    <DegiskenKodu>Sirket_adi            </DegiskenKodu>
+    <DegiskenAciklama>      Kendi Şirketimizin Unvanı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>442</DegiskenNo>
+    <DegiskenKodu>Sirket_adresi         </DegiskenKodu>
+    <DegiskenAciklama>      Kendi Şirket Adresimiz  </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>443</DegiskenNo>
+    <DegiskenKodu>Sirket_telefon        </DegiskenKodu>
+    <DegiskenAciklama>      Kendi Şirket Telefonlarımız</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>444</DegiskenNo>
+    <DegiskenKodu>Sirket_Vergi_dai      </DegiskenKodu>
+    <DegiskenAciklama>      Kendi Şirket Vergi Dairesi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>445</DegiskenNo>
+    <DegiskenKodu>Sirket_Vergi_num      </DegiskenKodu>
+    <DegiskenAciklama>      Kendi Şirket Vergi Numarası</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>446</DegiskenNo>
+    <DegiskenKodu>Sirket_T_sicil        </DegiskenKodu>
+    <DegiskenAciklama>      Kendi Şirket Ticaret Sicil No</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>447</DegiskenNo>
+    <DegiskenKodu>Senet_no              </DegiskenKodu>
+    <DegiskenAciklama>      Düzenlenen Senet No       </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>448</DegiskenNo>
+    <DegiskenKodu>Senet_vade            </DegiskenKodu>
+    <DegiskenAciklama>      Düzenlenen Senet Vadesi     </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>449</DegiskenNo>
+    <DegiskenKodu>Senet_vade2           </DegiskenKodu>
+    <DegiskenAciklama>      Düzenlenen Senet Vadesi    </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>450</DegiskenNo>
+    <DegiskenKodu>Senet_tutar           </DegiskenKodu>
+    <DegiskenAciklama>      Senetin Tutarı + Dövizi    </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>451</DegiskenNo>
+    <DegiskenKodu>Senet_doviz           </DegiskenKodu>
+    <DegiskenAciklama>      Senet Dövizi    </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>452</DegiskenNo>
+    <DegiskenKodu>Senet_tut_yazi        </DegiskenKodu>
+    <DegiskenAciklama>      Yazıyla Senet Tutarı </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>453</DegiskenNo>
+    <DegiskenKodu>Senet_il              </DegiskenKodu>
+    <DegiskenAciklama>      İhtilafolması durumunda Mahkeme İli(+ ilçesi)         </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>454</DegiskenNo>
+    <DegiskenKodu>Kurum_gercek_kisi     </DegiskenKodu>
+    <DegiskenAciklama>      Tüzel Kişi(Kurum)/gerçek kişi eki( "z"/"m") </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>455</DegiskenNo>
+    <DegiskenKodu>Kurum_gercek_2kisi    </DegiskenKodu>
+    <DegiskenAciklama>      Tüzel Kişi(Kurum)/gerçek kişi eki( "z"/"m")</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>456</DegiskenNo>
+    <DegiskenKodu>Senet_duz_trh         </DegiskenKodu>
+    <DegiskenAciklama>      Senet Düzenlenme Tarihi </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>457</DegiskenNo>
+    <DegiskenKodu>Senet_duz_2trh        </DegiskenKodu>
+    <DegiskenAciklama>      Senet Düzenlenme Tarihi </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>458</DegiskenNo>
+    <DegiskenKodu>Borclu_adi            </DegiskenKodu>
+    <DegiskenAciklama>      Senet Borçlusunun Unvanı     </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>459</DegiskenNo>
+    <DegiskenKodu>Borclu_adres          </DegiskenKodu>
+    <DegiskenAciklama>      Senet Borçlusunun Adresi   </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>460</DegiskenNo>
+    <DegiskenKodu>Borclu_Telefon        </DegiskenKodu>
+    <DegiskenAciklama>      Senet Borçlusunun Unvanı</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>461</DegiskenNo>
+    <DegiskenKodu>Borclu_Vergi          </DegiskenKodu>
+    <DegiskenAciklama>      Senet Borçlusunun Vergi Dairesi ve Numarası   </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>462</DegiskenNo>
+    <DegiskenKodu>Kefil_adi             </DegiskenKodu>
+    <DegiskenAciklama>      Senet Kefilinin Unvanı          </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>463</DegiskenNo>
+    <DegiskenKodu>Kefil_adres           </DegiskenKodu>
+    <DegiskenAciklama>      Senet kefilinin Adresi        </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>464</DegiskenNo>
+    <DegiskenKodu>Kefil_adi2            </DegiskenKodu>
+    <DegiskenAciklama>      2 Senet Kefilinin Unvanı </DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>465</DegiskenNo>
+    <DegiskenKodu>Kefil_adres2          </DegiskenKodu>
+    <DegiskenAciklama>      2 Senet Kefilinin Adresi</DegiskenAciklama>
+    <DegiskenModul>Cari_Bookmark</DegiskenModul>
+  </Degisken>
+</Degiskenler>

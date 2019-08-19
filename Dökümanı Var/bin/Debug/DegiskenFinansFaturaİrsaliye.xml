@@ -1,0 +1,741 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Degiskenler>
+  <Degisken>
+    <DegiskenNo>0</DegiskenNo>
+    <DegiskenKodu>MKD</DegiskenKodu>
+    <DegiskenAciklama>Müşteri Cari Kodu</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>1</DegiskenNo>
+    <DegiskenKodu>FVA</DegiskenKodu>
+    <DegiskenAciklama>Müşteri Vergi Dairesi </DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>2</DegiskenNo>
+    <DegiskenKodu>FVN</DegiskenKodu>
+    <DegiskenAciklama>Müşteri Vergi Numarası</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>3</DegiskenNo>
+    <DegiskenKodu>IN01-50</DegiskenKodu>
+    <DegiskenAciklama>İrsaliye Numarası</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>4</DegiskenNo>
+    <DegiskenKodu>IT01</DegiskenKodu>
+    <DegiskenAciklama>İrsaliye Tarihi</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>5</DegiskenNo>
+    <DegiskenKodu>FTR</DegiskenKodu>
+    <DegiskenAciklama>Belge Tarihi</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>6</DegiskenNo>
+    <DegiskenKodu>STR</DegiskenKodu>
+    <DegiskenAciklama>Sevk Tarihi</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>7</DegiskenNo>
+    <DegiskenKodu>SAA</DegiskenKodu>
+    <DegiskenAciklama>Belge Saati</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>8</DegiskenNo>
+    <DegiskenKodu>FSY</DegiskenKodu>
+    <DegiskenAciklama>Fatura BİM No</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>9</DegiskenNo>
+    <DegiskenKodu>SAY</DegiskenKodu>
+    <DegiskenAciklama>İrsaliye BİM No</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>10</DegiskenNo>
+    <DegiskenKodu>PLA</DegiskenKodu>
+    <DegiskenAciklama>Araç Plakası</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>11</DegiskenNo>
+    <DegiskenKodu>DTU</DegiskenKodu>
+    <DegiskenAciklama>Bir Sonraki Sayfaya Devreden Tutar</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>12</DegiskenNo>
+    <DegiskenKodu>KA01-KA30</DegiskenKodu>
+    <DegiskenAciklama>Malzeme Adı</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>13</DegiskenNo>
+    <DegiskenKodu>KK01-KK30</DegiskenKodu>
+    <DegiskenAciklama>Malzeme Kodu</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>14</DegiskenNo>
+    <DegiskenKodu>MK01-MK30</DegiskenKodu>
+    <DegiskenAciklama>Malzeme Miktarı(Ondalıksız)</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>15</DegiskenNo>
+    <DegiskenKodu>MD01-MD30</DegiskenKodu>
+    <DegiskenAciklama>Malzeme Miktarı(Ondalıklı)</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>16</DegiskenNo>
+    <DegiskenKodu>BH01-BH30</DegiskenKodu>
+    <DegiskenAciklama>KDV Hariç Birim Fiyat</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>17</DegiskenNo>
+    <DegiskenKodu>TU01-TU30</DegiskenKodu>
+    <DegiskenAciklama>Satır Tutarı</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>18</DegiskenNo>
+    <DegiskenKodu>AK01-AK02</DegiskenKodu>
+    <DegiskenAciklama>Fatura Altı Kalem Adları</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>19</DegiskenNo>
+    <DegiskenKodu>AT01-AT02</DegiskenKodu>
+    <DegiskenAciklama>Fatua Altı Kalem Tutarları</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>20</DegiskenNo>
+    <DegiskenKodu>TB01</DegiskenKodu>
+    <DegiskenAciklama>İskonto Öncesi Tutarın Yazısı</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>21</DegiskenNo>
+    <DegiskenKodu>IOT</DegiskenKodu>
+    <DegiskenAciklama>İskonto Öncesi Tutar</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>22</DegiskenNo>
+    <DegiskenKodu>TB02</DegiskenKodu>
+    <DegiskenAciklama>Toplam Kalem İskontosu Yazısı</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>23</DegiskenNo>
+    <DegiskenKodu>TTI</DegiskenKodu>
+    <DegiskenAciklama>Toplam Kalem İskontosu Tutarı</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>24</DegiskenNo>
+    <DegiskenKodu>TB03</DegiskenKodu>
+    <DegiskenAciklama>Müşteri –özel ve tutar  iskontosu yazısı</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>25</DegiskenNo>
+    <DegiskenKodu>MTI</DegiskenKodu>
+    <DegiskenAciklama>Müşteri –özel ve tutar  iskonto tutarı</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>26</DegiskenNo>
+    <DegiskenKodu>TB04</DegiskenKodu>
+    <DegiskenAciklama>KDV Matrahı yazısı (1)</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>27</DegiskenNo>
+    <DegiskenKodu>M01</DegiskenKodu>
+    <DegiskenAciklama>KDV Matrahı (1)</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>28</DegiskenNo>
+    <DegiskenKodu>O01</DegiskenKodu>
+    <DegiskenAciklama>KDV tutarı yazısı (1)</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>29</DegiskenNo>
+    <DegiskenKodu>K01</DegiskenKodu>
+    <DegiskenAciklama>KDV tutarı (1)</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>30</DegiskenNo>
+    <DegiskenKodu>TB06</DegiskenKodu>
+    <DegiskenAciklama>KDV Matrahı yazısı (2)</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>31</DegiskenNo>
+    <DegiskenKodu>M02</DegiskenKodu>
+    <DegiskenAciklama>KDV Matrahı (2)</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>32</DegiskenNo>
+    <DegiskenKodu>O02</DegiskenKodu>
+    <DegiskenAciklama>KDV tutarı yazısı (2)</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>33</DegiskenNo>
+    <DegiskenKodu>K02</DegiskenKodu>
+    <DegiskenAciklama>KDV tutarı (2)</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>34</DegiskenNo>
+    <DegiskenKodu>TTK</DegiskenKodu>
+    <DegiskenAciklama>Fatura toplam tutarı</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>35</DegiskenNo>
+    <DegiskenKodu>FYZ</DegiskenKodu>
+    <DegiskenAciklama>Yazıyla fatura toplam tutarı</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>36</DegiskenNo>
+    <DegiskenKodu>CB1</DegiskenKodu>
+    <DegiskenAciklama>Müşteri cari hesap bakiyesi(Birden fazla varsa ilki)</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>37</DegiskenNo>
+    <DegiskenKodu>TTD</DegiskenKodu>
+    <DegiskenAciklama>Girilen döviz cinsinde toplam fatura tutarı (KDV siz basar)</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>38</DegiskenNo>
+    <DegiskenKodu>XKU</DegiskenKodu>
+    <DegiskenAciklama>Döviz Kuru</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>39</DegiskenNo>
+    <DegiskenKodu>CKL</DegiskenKodu>
+    <DegiskenAciklama>Kullanıcı Kodu</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>40</DegiskenNo>
+    <DegiskenKodu>TSE</DegiskenKodu>
+    <DegiskenAciklama>İrsaliye Teslim Eden</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>41</DegiskenNo>
+    <DegiskenKodu>TSA</DegiskenKodu>
+    <DegiskenAciklama>İrsaliye Teslim Alan</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>42</DegiskenNo>
+    <DegiskenKodu>DSG</DegiskenKodu>
+    <DegiskenAciklama>Ödeme Süresi</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>43</DegiskenNo>
+    <DegiskenKodu>DST</DegiskenKodu>
+    <DegiskenAciklama>Ödeme Tarihi</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>44</DegiskenNo>
+    <DegiskenKodu>MIY</DegiskenKodu>
+    <DegiskenAciklama>Müşteri İskonto Yüzdesi </DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>45</DegiskenNo>
+    <DegiskenKodu>OIY</DegiskenKodu>
+    <DegiskenAciklama>Özel İskonto Yüzdesi </DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>46</DegiskenNo>
+    <DegiskenKodu>XY01 XY99</DegiskenKodu>
+    <DegiskenAciklama>Yer kodu </DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>47</DegiskenNo>
+    <DegiskenKodu>XAC</DegiskenKodu>
+    <DegiskenAciklama>Faturada Ekrandan Girilen Açıklama </DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>48</DegiskenNo>
+    <DegiskenKodu>IET</DegiskenKodu>
+    <DegiskenAciklama>İrsaliye Teslim Tarihi</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>49</DegiskenNo>
+    <DegiskenKodu>TTG</DegiskenKodu>
+    <DegiskenAciklama>Toplam Fatura Tutarı (Döviz)</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>50</DegiskenNo>
+    <DegiskenKodu>TW01-TW99</DegiskenKodu>
+    <DegiskenAciklama>Döviz Satır Tutarı </DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>51</DegiskenNo>
+    <DegiskenKodu>TKM</DegiskenKodu>
+    <DegiskenAciklama>Toplam(Kalem) Matrah</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>52</DegiskenNo>
+    <DegiskenKodu>TKV</DegiskenKodu>
+    <DegiskenAciklama>Toplam(Kalem) Kdv</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>53</DegiskenNo>
+    <DegiskenKodu>XOZ</DegiskenKodu>
+    <DegiskenAciklama>Faturada Ekrandan Girilen Özel Kod </DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>54</DegiskenNo>
+    <DegiskenKodu>KY01-KY30</DegiskenKodu>
+    <DegiskenAciklama>Malzeme Kodu(10 diğitten fazla basar)</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>55</DegiskenNo>
+    <DegiskenKodu>YNK</DegiskenKodu>
+    <DegiskenAciklama>Döviz Kuru</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>56</DegiskenNo>
+    <DegiskenKodu>UF01-UF99</DegiskenKodu>
+    <DegiskenAciklama>Üretici firma malzeme kodu </DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>57</DegiskenNo>
+    <DegiskenKodu>FYL</DegiskenKodu>
+    <DegiskenAciklama>Faturanın döviz cinsine bakmaksızın,Yazıyla Fatura Toplam Tutarının YTL Karşılığını yazar. (soft muhasebe departmanı için yapıldı) </DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>58</DegiskenNo>
+    <DegiskenKodu>GTT</DegiskenKodu>
+    <DegiskenAciklama>Faturanın döviz cinsine bakmaksızın, Kdv Matrahını YTL Karşılığını yazar.  (Soft Muhasebe departmanı için yapıldı)</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>59</DegiskenNo>
+    <DegiskenKodu>DDT</DegiskenKodu>
+    <DegiskenAciklama>Faturanın döviz cinsine bakmaksızın, Kdv Tutarının YTL Karşılığını yazar. (Soft Muhasebe Departmanı için yapıldı.) </DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>60</DegiskenNo>
+    <DegiskenKodu>TTL</DegiskenKodu>
+    <DegiskenAciklama>Faturanın döviz cinsine bakmaksızın, Fatura Tutarının YTL Karşılığını basar.  (Soft Muhasebe Departmanı için yapıldı.) </DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>61</DegiskenNo>
+    <DegiskenKodu>OB01- OB99 </DegiskenKodu>
+    <DegiskenAciklama>Malzeme Kartındaki Özel Alan 1</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>62</DegiskenNo>
+    <DegiskenKodu>OI01- OI99 </DegiskenKodu>
+    <DegiskenAciklama>Malzeme Kartındaki Özel Alan 2</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>63</DegiskenNo>
+    <DegiskenKodu>OU02-OU99 </DegiskenKodu>
+    <DegiskenAciklama>Malzeme Kartındaki Özel Alan 3 </DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>64</DegiskenNo>
+    <DegiskenKodu>MM01-MM99  </DegiskenKodu>
+    <DegiskenAciklama>Malzeme Kartındaki Marka</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>65</DegiskenNo>
+    <DegiskenKodu>DM01-DM99 </DegiskenKodu>
+    <DegiskenAciklama>Malzeme Kartındaki Model</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>66</DegiskenNo>
+    <DegiskenKodu>XA01-XA30</DegiskenKodu>
+    <DegiskenAciklama>Malzeme ağırlığı ve birimi</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>67</DegiskenNo>
+    <DegiskenKodu>MA01-MA99</DegiskenKodu>
+    <DegiskenAciklama>Malzemenin Kartında Yazan ağırlık ve birim bilgisi ( Miktarla çarpmadan sadece karttaki bilgiyi yazar.)</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>68</DegiskenNo>
+    <DegiskenKodu>Pn01-Pn99</DegiskenKodu>
+    <DegiskenAciklama>Parti Numarası </DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>69</DegiskenNo>
+    <DegiskenKodu>IA01-IA03</DegiskenKodu>
+    <DegiskenAciklama>Cari tanım kartındaki irsaliye adresi </DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>70</DegiskenNo>
+    <DegiskenKodu>INO</DegiskenKodu>
+    <DegiskenAciklama>Ambar İrsaliye Numarası </DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>71</DegiskenNo>
+    <DegiskenKodu>MCK</DegiskenKodu>
+    <DegiskenAciklama>Cari Müşteri Kodu (Eşleştirme) </DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>72</DegiskenNo>
+    <DegiskenKodu>THC</DegiskenKodu>
+    <DegiskenAciklama>Toplam Hacim(Ambar) </DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>73</DegiskenNo>
+    <DegiskenKodu>XMY</DegiskenKodu>
+    <DegiskenAciklama> Fatura Basım Ekranında ki Masraf Yeri</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>74</DegiskenNo>
+    <DegiskenKodu>XZ</DegiskenKodu>
+    <DegiskenAciklama>İkinci miktar toplamı birim bazında toplam alır</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>75</DegiskenNo>
+    <DegiskenKodu>OKK</DegiskenKodu>
+    <DegiskenAciklama>İrsaliye başlık bilgisinde ödeme türü Kredi kartı ise Kartno bilgisini basar. </DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>76</DegiskenNo>
+    <DegiskenKodu>YSN </DegiskenKodu>
+    <DegiskenAciklama>Yıl + Sipariş No bilgisini basar. Mars için yapıldı.</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>77</DegiskenNo>
+    <DegiskenKodu>FTU</DegiskenKodu>
+    <DegiskenAciklama>Fatura carisi ünvanı</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>78</DegiskenNo>
+    <DegiskenKodu>FBN</DegiskenKodu>
+    <DegiskenAciklama>Satış siparişi fatura belge no</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>79</DegiskenNo>
+    <DegiskenKodu>TVO</DegiskenKodu>
+    <DegiskenAciklama>Tevkifatlı fatura tevkifat oranı</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>80</DegiskenNo>
+    <DegiskenKodu>TVT</DegiskenKodu>
+    <DegiskenAciklama>Tevkifat tutarı</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>81</DegiskenNo>
+    <DegiskenKodu>TVF</DegiskenKodu>
+    <DegiskenAciklama>Tevkifat sonrası fatura tutarı</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>82</DegiskenNo>
+    <DegiskenKodu>A2</DegiskenKodu>
+    <DegiskenAciklama>Ambar kodu (Satır bazında)</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>83</DegiskenNo>
+    <DegiskenKodu>A3</DegiskenKodu>
+    <DegiskenAciklama>Ambar adı</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>84</DegiskenNo>
+    <DegiskenKodu>A4</DegiskenKodu>
+    <DegiskenAciklama>Satış siparişi müşteri sipariş numarası</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>85</DegiskenNo>
+    <DegiskenKodu>A5</DegiskenKodu>
+    <DegiskenAciklama>İş emri Sevkiyat kapları sıra numarası</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>86</DegiskenNo>
+    <DegiskenKodu>A6</DegiskenKodu>
+    <DegiskenAciklama>İş emri sevkiyat kapları miktar açıklaması</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>87</DegiskenNo>
+    <DegiskenKodu>ITT</DegiskenKodu>
+    <DegiskenAciklama>İstenilen teslim tarihi</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>88</DegiskenNo>
+    <DegiskenKodu>EMN</DegiskenKodu>
+    <DegiskenAciklama>İş emri numarası</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>89</DegiskenNo>
+    <DegiskenKodu>GRV</DegiskenKodu>
+    <DegiskenAciklama>İş emri görevli</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>90</DegiskenNo>
+    <DegiskenKodu>TTJ</DegiskenKodu>
+    <DegiskenAciklama>Döviz toplamın tl açıklaması(Özel)</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>91</DegiskenNo>
+    <DegiskenKodu>PRN</DegiskenKodu>
+    <DegiskenAciklama>Kantar entegrasyonu proje numarası</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>92</DegiskenNo>
+    <DegiskenKodu>A7</DegiskenKodu>
+    <DegiskenAciklama>105 nolu cari parametreye bağlı Cari blgileri</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>93</DegiskenNo>
+    <DegiskenKodu>SW</DegiskenKodu>
+    <DegiskenAciklama>Son tüketici bilgileri(1-9)</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>94</DegiskenNo>
+    <DegiskenKodu>SCD</DegiskenKodu>
+    <DegiskenAciklama>Ürün ağacı su çekme değeri</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>95</DegiskenNo>
+    <DegiskenKodu>SVO</DegiskenKodu>
+    <DegiskenAciklama>Ürün ağacı güncelleyen</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>96</DegiskenNo>
+    <DegiskenKodu>SUW</DegiskenKodu>
+    <DegiskenAciklama>Ürün ağacı su değeri )Özel)</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>97</DegiskenNo>
+    <DegiskenKodu>AGW</DegiskenKodu>
+    <DegiskenAciklama>Ürün ağacı agrega değeri</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>98</DegiskenNo>
+    <DegiskenKodu>HNO</DegiskenKodu>
+    <DegiskenAciklama>Ambar Yönetimi hareket no</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>99</DegiskenNo>
+    <DegiskenKodu>XA</DegiskenKodu>
+    <DegiskenAciklama>Satır bazında ağırlık bilgisi</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>100</DegiskenNo>
+    <DegiskenKodu>XB</DegiskenKodu>
+    <DegiskenAciklama>Birim bazında alt toplam</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>101</DegiskenNo>
+    <DegiskenKodu>XT</DegiskenKodu>
+    <DegiskenAciklama>Ağırlık bazında alt toplam</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>102</DegiskenNo>
+    <DegiskenKodu>XM</DegiskenKodu>
+    <DegiskenAciklama>Ambar yerleri maksimum stok değeri</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>103</DegiskenNo>
+    <DegiskenKodu>W1</DegiskenKodu>
+    <DegiskenAciklama>Ücret hesaplama malzeme kodu</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>104</DegiskenNo>
+    <DegiskenKodu>W2</DegiskenKodu>
+    <DegiskenAciklama>Ücret hesaplama malzeme adı</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>105</DegiskenNo>
+    <DegiskenKodu>W3</DegiskenKodu>
+    <DegiskenAciklama>Ücret hesaplama referans ağırlık</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>106</DegiskenNo>
+    <DegiskenKodu>W4</DegiskenKodu>
+    <DegiskenAciklama>Ücret hesaplama referans hacim</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>107</DegiskenNo>
+    <DegiskenKodu>W5</DegiskenKodu>
+    <DegiskenAciklama>Ücret hesplama giriş harkete tarihi</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>108</DegiskenNo>
+    <DegiskenKodu>W6</DegiskenKodu>
+    <DegiskenAciklama>Ücret hesaplama çıkış hareket tarihi</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>109</DegiskenNo>
+    <DegiskenKodu>W7</DegiskenKodu>
+    <DegiskenAciklama>Ücret hesaplama bekleme süresi</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>110</DegiskenNo>
+    <DegiskenKodu>SSN</DegiskenKodu>
+    <DegiskenAciklama>Satış siparişi müşteri sipariş numarası(Tek)</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>111</DegiskenNo>
+    <DegiskenKodu>SW10</DegiskenKodu>
+    <DegiskenAciklama>Satış siparişi müşteri sipariş numarası(Tek)</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>112</DegiskenNo>
+    <DegiskenKodu>SW11</DegiskenKodu>
+    <DegiskenAciklama>Sevk Müşterisi Cari Adı </DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>113</DegiskenNo>
+    <DegiskenKodu>kd1-kd99 </DegiskenKodu>
+    <DegiskenAciklama>kdv oranı </DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>114</DegiskenNo>
+    <DegiskenKodu>IO01…IO99</DegiskenKodu>
+    <DegiskenAciklama>Fatura satırındaki iskonto yüzdesi</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>115</DegiskenNo>
+    <DegiskenKodu>IPL</DegiskenKodu>
+    <DegiskenAciklama>Ambar İş emri Palet Sayısı </DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>116</DegiskenNo>
+    <DegiskenKodu>CHN</DegiskenKodu>
+    <DegiskenAciklama>Cari Hesap Numarasını Basan Değişken</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>117</DegiskenNo>
+    <DegiskenKodu>KQ </DegiskenKodu>
+    <DegiskenAciklama>Satır bazında KDV yüzdesi</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>118</DegiskenNo>
+    <DegiskenKodu>EA</DegiskenKodu>
+    <DegiskenAciklama>Satır Bazında malzeme barkodu</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>119</DegiskenNo>
+    <DegiskenKodu>IRN</DegiskenKodu>
+    <DegiskenAciklama>Tek ya da toplu faturalandırılan irsaliye no</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>120</DegiskenNo>
+    <DegiskenKodu>IRT</DegiskenKodu>
+    <DegiskenAciklama>Tek ya da toplu faturalandırılan irsaliye tarihi</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>121</DegiskenNo>
+    <DegiskenKodu>AEO</DegiskenKodu>
+    <DegiskenAciklama>Ambar iş emri açıklama</DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+  <Degisken>
+    <DegiskenNo>122</DegiskenNo>
+    <DegiskenKodu>SN01-SN99 </DegiskenKodu>
+    <DegiskenAciklama>Satış irsaliye için Seri no </DegiskenAciklama>
+    <DegiskenModul>Finans_Fatura_İrsaliye</DegiskenModul>
+  </Degisken>
+</Degiskenler>
